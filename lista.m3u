@@ -58,16 +58,16 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2272923972/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2861734300/index.m3u8
-
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM (2)
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2828455552/index.m3u8
 
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM (2)
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2861734300/index.m3u8
+
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai", RAI SCUOLA
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1886684667/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2007798511/index.m3u8
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai", RAI SCUOLA (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2007798511/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1886684667/index.m3u8
 
 #EXTINF:-1 tvg-id="raisport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="Rai", RAI SPORT
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2924135092/index.m3u8
@@ -103,10 +103,10 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/80896559/index.m3u8
 
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset", CANALE 5
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1534161807/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1101559666/index.m3u8
 
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset", CANALE 5 (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1101559666/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1534161807/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset", CINE 34 MEDIASET
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1768670187/index.m3u8
@@ -151,16 +151,16 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1376440573/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3448075317/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1 (2)
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3481346857/index.m3u8
 
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1 (2)
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3448075317/index.m3u8
+
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2283887097/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2317684453/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2 (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2317684453/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2283887097/index.m3u8
 
 #EXTINF:-1 tvg-id="intertv.it" tvg-name="INTER TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport", INTER TV
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2973773076/index.m3u8
@@ -208,10 +208,10 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1989309231/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport", SKY SPORT GOLF
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3897711086/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/729945219/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport", SKY SPORT GOLF (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/729945219/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3897711086/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportmax.it" tvg-name="SKY SPORT MAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport", SKY SPORT MAX
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2066326916/index.m3u8
@@ -238,10 +238,10 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/78546677/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", SKY SPORT UNO
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/210669162/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3192996672/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", SKY SPORT UNO (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3192996672/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/210669162/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", SKY SPORTS F1
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2289038972/index.m3u8
@@ -313,19 +313,19 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/86091226/index.m3u8
 
 #EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV", SKY ATLANTIC
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1482866609/index.m3u8
-
-#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV", SKY ATLANTIC (2)
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1421393119/index.m3u8
 
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1144128726/index.m3u8
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV", SKY ATLANTIC (2)
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1482866609/index.m3u8
 
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3812796171/index.m3u8
 
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2242741766/index.m3u8
+
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV", SKY CINEMA COLLECTION
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3525837057/index.m3u8
@@ -340,31 +340,31 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1235530177/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV", SKY CINEMA DUE
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1228534500/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2330574729/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV", SKY CINEMA DUE (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2330574729/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1228534500/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="SKY CINEMA DUE +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV", SKY CINEMA DUE +24
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1078650168/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3216516117/index.m3u8
-
-#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY (2)
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/415795144/index.m3u8
 
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2890008905/index.m3u8
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY (2)
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3216516117/index.m3u8
 
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE (2)
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1281264885/index.m3u8
 
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE (2)
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2890008905/index.m3u8
+
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV", SKY CINEMA SUSPENSE
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3060043751/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1820997555/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV", SKY CINEMA SUSPENSE (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1820997555/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3060043751/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV", SKY CINEMA UNO
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1759625738/index.m3u8
@@ -430,10 +430,10 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2255083866/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 6
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3251217290/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3939513684/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 6 (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3939513684/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3251217290/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 7
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3618643172/index.m3u8
@@ -442,10 +442,10 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/4238969402/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 8
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2130255339/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1440779061/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 8 (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1440779061/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2130255339/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 9
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1134113883/index.m3u8
@@ -457,10 +457,10 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/836680112/index.m3u8
 
 #EXTINF:-1 tvg-id="topcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV", TOP CRIME
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3420407456/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/269503091/index.m3u8
 
 #EXTINF:-1 tvg-id="topcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV", TOP CRIME (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/269503091/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3420407456/index.m3u8
 
 #EXTINF:-1 tvg-id="euronews.it" tvg-name="EURONEWS" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News", EURONEWS
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/490955579/index.m3u8
@@ -502,16 +502,16 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3841982646/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini", CARTOON NETWORK
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1744435623/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini", CARTOON NETWORK (2)
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1289777017/index.m3u8
 
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini", CARTOON NETWORK (2)
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1744435623/index.m3u8
+
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1987220436/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1907000512/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1987220436/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (3)
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2178717282/index.m3u8
@@ -523,10 +523,10 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1995860185/index.m3u8
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", K2
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2255724318/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/11090349/index.m3u8
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", K2 (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/11090349/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2255724318/index.m3u8
 
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini", NICK JR
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/380958472/index.m3u8
@@ -562,10 +562,10 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1574591400/index.m3u8
 
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2134724757/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/317837654/index.m3u8
 
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/317837654/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2134724757/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari", NAT GEO
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1735702308/index.m3u8
@@ -574,16 +574,16 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/179844839/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari", NAT GEO WILD
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3229664409/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari", NAT GEO WILD (2)
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3428501495/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari", NAT GEO WILD (2)
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3229664409/index.m3u8
+
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari", SKY ARTE
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1902695925/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1806815496/index.m3u8
 
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari", SKY ARTE (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1806815496/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1902695925/index.m3u8
 
 #EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari", SKY DOCUMENTARIES
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/464281981/index.m3u8
@@ -823,10 +823,10 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3439223610/index.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro", FOOD NETWORK
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2820683351/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2767861049/index.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro", FOOD NETWORK (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2767861049/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2820683351/index.m3u8
 
 #EXTINF:-1 tvg-id="france24.it" tvg-name="FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/france-24-fr.png?raw=true" group-title="Altro", FRANCE 24
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2179686828/index.m3u8
@@ -877,10 +877,10 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3832171692/index.m3u8
 
 #EXTINF:-1 tvg-id="la5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro", LA 5
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1425667375/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/84139639/index.m3u8
 
 #EXTINF:-1 tvg-id="la5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro", LA 5 (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/84139639/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1425667375/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro", LA 7
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2143522071/index.m3u8
@@ -1174,10 +1174,10 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2706291008/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV QUI" tvg-logo="https://www.tvdream.net/img/tvqui-modena-cover.jpg" group-title="Altro", TV QUI
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2202937518/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3845119578/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV QUI" tvg-logo="https://www.tvdream.net/img/tvqui-modena-cover.jpg" group-title="Altro", TV QUI (2)
-https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3845119578/index.m3u8
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2202937518/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV YES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/tv-yes-it.png?raw=true" group-title="Altro", TV YES
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2569530225/index.m3u8
@@ -1236,8 +1236,36 @@ https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://vav
 
 #EXTINF:-1 tvg-name="----- Soccer -----" group-title="Eventi", ----- Soccer -----
 http://example.com/Soccer.m3u8
-#EXTINF:-1 tvg-id="877" tvg-name="Spain - La Liga : Espanyol vs Barcelona - 15/05/2025 21:30" group-title="Eventi" tvg-logo="", Spain - La Liga : Espanyol vs Barcelona - 15/05/2025 21:30
+#EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : Chelsea vs Manchester United - 16/05/2025 21:15" group-title="Eventi" tvg-logo="", England - Premier League : Chelsea vs Manchester United - 16/05/2025 21:15
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://windnew.newkso.ru/wind/premium870/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Motorsport -----" group-title="Eventi", ----- Motorsport -----
+http://example.com/Motorsport.m3u8
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : AWS Emilia Romagna GP - Practice - 16/05/2025 10:00" group-title="Eventi" tvg-logo="", Formula 3 : AWS Emilia Romagna GP - Practice - 16/05/2025 10:00
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 2 : AWS Emilia Romagna GP - Free Practice - 16/05/2025 11:05" group-title="Eventi" tvg-logo="", Formula 2 : AWS Emilia Romagna GP - Free Practice - 16/05/2025 11:05
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : AWS Emilia Romagna GP - Practice 1 - 16/05/2025 13:30" group-title="Eventi" tvg-logo="", Formula 1 : AWS Emilia Romagna GP - Practice 1 - 16/05/2025 13:30
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : AWS Emilia Romagna GP - Qualifying - 16/05/2025 15:00" group-title="Eventi" tvg-logo="", Formula 3 : AWS Emilia Romagna GP - Qualifying - 16/05/2025 15:00
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 2 : AWS Emilia Romagna GP - Qualifying - 16/05/2025 16:00" group-title="Eventi" tvg-logo="", Formula 2 : AWS Emilia Romagna GP - Qualifying - 16/05/2025 16:00
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : AWS Emilia Romagna GP - Practice 2 - 16/05/2025 17:00" group-title="Eventi" tvg-logo="", Formula 1 : AWS Emilia Romagna GP - Practice 2 - 16/05/2025 17:00
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Cycling -----" group-title="Eventi", ----- Cycling -----
+http://example.com/Cycling.m3u8
+#EXTINF:-1 tvg-id="878" tvg-name="Giro d'Italia | Stage 7 | Multi-Screen Men | Castel di Sangro – Tagliacozzo (168km) - 16/05/2025 12:40" group-title="Eventi" tvg-logo="", Giro d'Italia | Stage 7 | Multi-Screen Men | Castel di Sangro – Tagliacozzo (168km) - 16/05/2025 12:40
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://windnew.newkso.ru/wind/premium878/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Rugby Union -----" group-title="Eventi", ----- Rugby Union -----
+http://example.com/Rugby_Union.m3u8
+#EXTINF:-1 tvg-id="460" tvg-name="United Rugby Championship : Munster vs Treviso - 16/05/2025 21:00" group-title="Eventi" tvg-logo="", United Rugby Championship : Munster vs Treviso - 16/05/2025 21:00
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://dokko1new.newkso.ru/dokko1/premium460/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Volleyball -----" group-title="Eventi", ----- Volleyball -----
+http://example.com/Volleyball.m3u8
+#EXTINF:-1 tvg-id="877" tvg-name="Champions League : Perugia vs Halkbank - 16/05/2025 20:00" group-title="Eventi" tvg-logo="", Champions League : Perugia vs Halkbank - 16/05/2025 20:00
 https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="462" tvg-name="Champions League : Perugia vs Halkbank - 16/05/2025 20:00" group-title="Eventi" tvg-logo="", Champions League : Perugia vs Halkbank - 16/05/2025 20:00
+https://mfp2.riccard.one/proxy/hls/manifest.m3u8?api_password=rick&d=https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
