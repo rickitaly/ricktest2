@@ -29376,95 +29376,75 @@
 <programme start="20250525211500 +0000" stop="20250525215000 +0000" channel="zonadazn.it"><title>Roma</title><desc>Roma</desc></programme>
 <programme start="20250525215000 +0000" stop="20250525230000 +0000" channel="zonadazn.it"><title>Dentro il VAR</title><desc>Geopop entra alliliad Broadcast...</desc></programme>
 <programme start="20250525230000 +0000" stop="20250526040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250525000000 +0200" stop="20250525204500 +0200" channel="59">
-    <title lang="it">Inizierà alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Atalanta vs Parma.</desc>
+<programme start="20250526000000 +0200" stop="20250526203000 +0200" channel="870">
+    <title lang="it">Inizierà alle 20:30.</title>
+    <desc lang="it">Bundesliga : Elversberg vs Heidenheim.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250525204500 +0200" stop="20250525224500 +0200" channel="59">
-    <title lang="it">Italy - Serie A : Atalanta vs Parma</title>
-    <desc lang="it">Italy - Serie A : Atalanta vs Parma trasmesso in diretta.</desc>
+  <programme start="20250526203000 +0200" stop="20250526223000 +0200" channel="870">
+    <title lang="it">Bundesliga : Elversberg vs Heidenheim</title>
+    <desc lang="it">Bundesliga : Elversberg vs Heidenheim trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250525000000 +0200" stop="20250525204500 +0200" channel="22">
-    <title lang="it">Inizierà alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Empoli vs Hellas Verona.</desc>
+  <programme start="20250526000000 +0200" stop="20250526110000 +0200" channel="879">
+    <title lang="it">Inizierà alle 11:00.</title>
+    <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250525204500 +0200" stop="20250525224500 +0200" channel="22">
-    <title lang="it">Italy - Serie A : Empoli vs Hellas Verona</title>
-    <desc lang="it">Italy - Serie A : Empoli vs Hellas Verona trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
+  <programme start="20250526110000 +0200" stop="20250526130000 +0200" channel="879">
+    <title lang="it">Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2</title>
+    <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 trasmesso in diretta.</desc>
+    <category lang="it">Tennis</category>
   </programme>
-  <programme start="20250525000000 +0200" stop="20250525204500 +0200" channel="19">
-    <title lang="it">Inizierà alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Lazio vs Lecce.</desc>
+  <programme start="20250526130000 +0200" stop="20250526175500 +0200" channel="879">
+    <title lang="it">Inizierà alle 17:55.</title>
+    <desc lang="it">Serie A Playoffs | Quarterfinals | Game 5.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250525204500 +0200" stop="20250525224500 +0200" channel="19">
-    <title lang="it">Italy - Serie A : Lazio vs Lecce</title>
-    <desc lang="it">Italy - Serie A : Lazio vs Lecce trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250525000000 +0200" stop="20250525204500 +0200" channel="108">
-    <title lang="it">Inizierà alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Torino vs Roma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250525204500 +0200" stop="20250525224500 +0200" channel="108">
-    <title lang="it">Italy - Serie A : Torino vs Roma</title>
-    <desc lang="it">Italy - Serie A : Torino vs Roma trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250525000000 +0200" stop="20250525204500 +0200" channel="68">
-    <title lang="it">Inizierà alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Udinese vs Fiorentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250525204500 +0200" stop="20250525224500 +0200" channel="68">
-    <title lang="it">Italy - Serie A : Udinese vs Fiorentina</title>
-    <desc lang="it">Italy - Serie A : Udinese vs Fiorentina trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250525000000 +0200" stop="20250525204500 +0200" channel="8">
-    <title lang="it">Inizierà alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Venezia vs Juventus.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250525204500 +0200" stop="20250525224500 +0200" channel="8">
-    <title lang="it">Italy - Serie A : Venezia vs Juventus</title>
-    <desc lang="it">Italy - Serie A : Venezia vs Juventus trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250525000000 +0200" stop="20250525204500 +0200" channel="461">
-    <title lang="it">Inizierà alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Venezia vs Juventus.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250525204500 +0200" stop="20250525224500 +0200" channel="461">
-    <title lang="it">Italy - Serie A : Venezia vs Juventus</title>
-    <desc lang="it">Italy - Serie A : Venezia vs Juventus trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250525000000 +0200" stop="20250525204000 +0200" channel="879">
-    <title lang="it">Inizierà alle 20:40.</title>
-    <desc lang="it">Basket : Serie A Playoffs | Quarterfinals | Game 4.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250525204000 +0200" stop="20250525224000 +0200" channel="879">
-    <title lang="it">Basket : Serie A Playoffs | Quarterfinals | Game 4</title>
-    <desc lang="it">Basket : Serie A Playoffs | Quarterfinals | Game 4 trasmesso in diretta.</desc>
+  <programme start="20250526175500 +0200" stop="20250526195500 +0200" channel="879">
+    <title lang="it">Serie A Playoffs | Quarterfinals | Game 5</title>
+    <desc lang="it">Serie A Playoffs | Quarterfinals | Game 5 trasmesso in diretta.</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <programme start="20250526000000 +0200" stop="20250526010000 +0200" channel="878">
-    <title lang="it">Inizierà alle 01:00.</title>
-    <desc lang="it">World Cup | Men Salt Lake City | Bouldering | Final.</desc>
+  <programme start="20250526000000 +0200" stop="20250526203500 +0200" channel="882">
+    <title lang="it">Inizierà alle 20:35.</title>
+    <desc lang="it">Serie A2 : Cantu vs Sebastiani.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250526010000 +0200" stop="20250526030000 +0200" channel="878">
-    <title lang="it">World Cup | Men Salt Lake City | Bouldering | Final</title>
-    <desc lang="it">World Cup | Men Salt Lake City | Bouldering | Final trasmesso in diretta.</desc>
-    <category lang="it">Climbing</category>
+  <programme start="20250526203500 +0200" stop="20250526223500 +0200" channel="882">
+    <title lang="it">Serie A2 : Cantu vs Sebastiani</title>
+    <desc lang="it">Serie A2 : Cantu vs Sebastiani trasmesso in diretta.</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250526195500 +0200" stop="20250526204000 +0200" channel="879">
+    <title lang="it">Inizierà alle 20:40.</title>
+    <desc lang="it">Basket : Serie A Playoffs | Quarterfinals | Game 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250526204000 +0200" stop="20250526224000 +0200" channel="879">
+    <title lang="it">Basket : Serie A Playoffs | Quarterfinals | Game 5</title>
+    <desc lang="it">Basket : Serie A Playoffs | Quarterfinals | Game 5 trasmesso in diretta.</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250526000000 +0200" stop="20250526143000 +0200" channel="878">
+    <title lang="it">Inizierà alle 14:30.</title>
+    <desc lang="it">Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250526143000 +0200" stop="20250526163000 +0200" channel="878">
+    <title lang="it">Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km)</title>
+    <desc lang="it">Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) trasmesso in diretta.</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250526000000 +0200" stop="20250526150000 +0200" channel="882">
+    <title lang="it">Inizierà alle 15:00.</title>
+    <desc lang="it">Piazza di Siena 2025-Six Barriers Award.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250526150000 +0200" stop="20250526170000 +0200" channel="882">
+    <title lang="it">Piazza di Siena 2025-Six Barriers Award</title>
+    <desc lang="it">Piazza di Siena 2025-Six Barriers Award trasmesso in diretta.</desc>
+    <category lang="it">Equestrian</category>
   </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250525184400 +0000" stop="20250525191200 +0000">
     <title>FailFactory: Pain and Gain</title>
