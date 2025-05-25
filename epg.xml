@@ -29464,16 +29464,6 @@
     <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 1 trasmesso in diretta.</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <programme start="20250525000000 +0200" stop="20250525094000 +0200" channel="577">
-    <title lang="it">Inizierà alle 09:40.</title>
-    <desc lang="it">Formula 2 : Tag Heuer Monaco Grand Prix Feature Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250525094000 +0200" stop="20250525114000 +0200" channel="577">
-    <title lang="it">Formula 2 : Tag Heuer Monaco Grand Prix Feature Race</title>
-    <desc lang="it">Formula 2 : Tag Heuer Monaco Grand Prix Feature Race trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <programme start="20250525000000 +0200" stop="20250525103000 +0200" channel="575">
     <title lang="it">Inizierà alle 10:30.</title>
     <desc lang="it">MotoGP | Round 7 | Great Britain Warm Up.</desc>
@@ -29514,7 +29504,7 @@
     <desc lang="it">France | MXGP | World Championship Race 1 trasmesso in diretta.</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20250525114000 +0200" stop="20250525140000 +0200" channel="577">
+  <programme start="20250525000000 +0200" stop="20250525140000 +0200" channel="577">
     <title lang="it">Inizierà alle 14:00.</title>
     <desc lang="it">Formula 1 : Tag Heuer Monaco Grand Prix - Grand Prix Sunday.</desc>
     <category lang="it">Annuncio</category>
@@ -29664,17 +29654,7 @@
     <desc lang="it">Giro de Italia | Etapa 15 Masculino | Fiume Veneto &gt; Asiago (219 km) trasmesso in diretta.</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <programme start="20250525000000 +0200" stop="20250525094500 +0200" channel="882">
-    <title lang="it">Inizierà alle 09:45.</title>
-    <desc lang="it">Piazza di Siena 2025-Six Barriers Award.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250525094500 +0200" stop="20250525114500 +0200" channel="882">
-    <title lang="it">Piazza di Siena 2025-Six Barriers Award</title>
-    <desc lang="it">Piazza di Siena 2025-Six Barriers Award trasmesso in diretta.</desc>
-    <category lang="it">Equestrian</category>
-  </programme>
-  <programme start="20250525114500 +0200" stop="20250525140000 +0200" channel="882">
+  <programme start="20250525000000 +0200" stop="20250525140000 +0200" channel="882">
     <title lang="it">Inizierà alle 14:00.</title>
     <desc lang="it">Piazza di Siena 2025-Grand Prix Rome.</desc>
     <category lang="it">Annuncio</category>
