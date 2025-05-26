@@ -26516,35 +26516,55 @@
 <programme start="20250527205800 +0000" stop="20250527215000 +0000" channel="zonadazn.it"><title>Serie A 2024/25 Matchday Highlights - Stag. 2024 - 37a g.</title><desc>Stag. 2024...</desc></programme>
 <programme start="20250527215000 +0000" stop="20250527230000 +0000" channel="zonadazn.it"><title>Top 30 Gol - Derby di Roma</title><desc>Derby di Roma - Guarda i 30 gol piu...</desc></programme>
 <programme start="20250527230000 +0000" stop="20250528040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250526000000 +0200" stop="20250526203000 +0200" channel="870">
+<programme start="20250527000000 +0200" stop="20250527110000 +0200" channel="879">
+    <title lang="it">Inizierà alle 11:00.</title>
+    <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | Day 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250527110000 +0200" stop="20250527130000 +0200" channel="879">
+    <title lang="it">Roland-Garros Tennis Men's and Women's Singles | Day 3</title>
+    <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | Day 3 trasmesso in diretta.</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250527130000 +0200" stop="20250527175500 +0200" channel="879">
+    <title lang="it">Inizierà alle 17:55.</title>
+    <desc lang="it">Serie A Playoffs | Quarterfinals | Game 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250527175500 +0200" stop="20250527195500 +0200" channel="879">
+    <title lang="it">Serie A Playoffs | Quarterfinals | Game 5</title>
+    <desc lang="it">Serie A Playoffs | Quarterfinals | Game 5 trasmesso in diretta.</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250527000000 +0200" stop="20250527203000 +0200" channel="882">
     <title lang="it">Inizierà alle 20:30.</title>
-    <desc lang="it">Bundesliga : Elversberg vs Heidenheim.</desc>
+    <desc lang="it">Serie A2 : Rimini vs Forli.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250526203000 +0200" stop="20250526223000 +0200" channel="870">
-    <title lang="it">Bundesliga : Elversberg vs Heidenheim</title>
-    <desc lang="it">Bundesliga : Elversberg vs Heidenheim trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250526000000 +0200" stop="20250526203500 +0200" channel="882">
-    <title lang="it">Inizierà alle 20:35.</title>
-    <desc lang="it">Serie A2 : Cantu vs Sebastiani.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250526203500 +0200" stop="20250526223500 +0200" channel="882">
-    <title lang="it">Serie A2 : Cantu vs Sebastiani</title>
-    <desc lang="it">Serie A2 : Cantu vs Sebastiani trasmesso in diretta.</desc>
+  <programme start="20250527203000 +0200" stop="20250527223000 +0200" channel="882">
+    <title lang="it">Serie A2 : Rimini vs Forli</title>
+    <desc lang="it">Serie A2 : Rimini vs Forli trasmesso in diretta.</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <programme start="20250526000000 +0200" stop="20250526204000 +0200" channel="879">
-    <title lang="it">Inizierà alle 20:40.</title>
-    <desc lang="it">Basket : Serie A Playoffs | Quarterfinals | Game 5.</desc>
+  <programme start="20250527000000 +0200" stop="20250527112000 +0200" channel="878">
+    <title lang="it">Inizierà alle 11:20.</title>
+    <desc lang="it">Giro d'Italia | Stage 16 | Multi-Screen Men | Piazzola sul Brenta – San Valentino (199km).</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250526204000 +0200" stop="20250526224000 +0200" channel="879">
-    <title lang="it">Basket : Serie A Playoffs | Quarterfinals | Game 5</title>
-    <desc lang="it">Basket : Serie A Playoffs | Quarterfinals | Game 5 trasmesso in diretta.</desc>
-    <category lang="it">Basketball</category>
+  <programme start="20250527112000 +0200" stop="20250527132000 +0200" channel="878">
+    <title lang="it">Giro d'Italia | Stage 16 | Multi-Screen Men | Piazzola sul Brenta – San Valentino (199km)</title>
+    <desc lang="it">Giro d'Italia | Stage 16 | Multi-Screen Men | Piazzola sul Brenta – San Valentino (199km) trasmesso in diretta.</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250527132000 +0200" stop="20250527150000 +0200" channel="878">
+    <title lang="it">Inizierà alle 15:00.</title>
+    <desc lang="it">Giro de Italia | Etapa 16 Masculino | Piazzola sul Brenta &gt; San Valentino (203 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250527150000 +0200" stop="20250527170000 +0200" channel="878">
+    <title lang="it">Giro de Italia | Etapa 16 Masculino | Piazzola sul Brenta &gt; San Valentino (203 km)</title>
+    <desc lang="it">Giro de Italia | Etapa 16 Masculino | Piazzola sul Brenta &gt; San Valentino (203 km) trasmesso in diretta.</desc>
+    <category lang="it">Cycling</category>
   </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250526185100 +0000" stop="20250526191900 +0000">
     <title>FailFactory: Back to School</title>
