@@ -1243,13 +1243,13 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="879" tvg-name="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 (11:00)" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=674518258716611" group-title="Eventi Live",Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 (11:00)
+#EXTINF:-1 tvg-id="879" tvg-name="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 (11:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 (11:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="879" tvg-name="Serie A Playoffs | Quarterfinals | Game 5 (17:55)" tvg-logo="https://png.pngtree.com/png-clipart/20230102/original/pngtree-croatia-vs-brazil-quarterfinals-png-image_8855912.png" group-title="Eventi Live",Serie A Playoffs | Quarterfinals | Game 5 (17:55)
+#EXTINF:-1 tvg-id="879" tvg-name="Serie A Playoffs | Quarterfinals | Game 5 (17:55)" tvg-logo="https://www.derthonabasket.it/wp-content/uploads/2021/08/EaUhxBrHge2Ywzf2dLZgJuQ9-1024x1024.png" group-title="Eventi Live",Serie A Playoffs | Quarterfinals | Game 5 (17:55)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="882" tvg-name="Serie A2 : Cantu vs Sebastiani (20:35)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Cantu_vs_Sebastiani.png" group-title="Eventi Live",Serie A2 : Cantu vs Sebastiani (20:35)
