@@ -24785,37 +24785,7 @@
 <programme start="20250529192800 +0000" stop="20250529201300 +0000" channel="zonadazn.it"><title>DAZN Got Game - Stag. 2024 Ep. 7 - Ousmane Diop</title><desc>Stag. 2024 Ep. 7 - Ousmane Diop...</desc></programme>
 <programme start="20250529201300 +0000" stop="20250529230000 +0000" channel="zonadazn.it"><title>Basketball and Conversations - Stag. 2024 Ep. 3 - Andrea Trinchieri e Luca Banchi</title><desc>Stag. 2024 Ep. 3...</desc></programme>
 <programme start="20250529230000 +0000" stop="20250530040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250528000000 +0200" stop="20250528200000 +0200" channel="5">
-    <title lang="it">Inizierà alle 20:00.</title>
-    <desc lang="it">Italy - Serie C : Pescara vs Audace Cerignola.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250528200000 +0200" stop="20250528220000 +0200" channel="5">
-    <title lang="it">Italy - Serie C : Pescara vs Audace Cerignola</title>
-    <desc lang="it">Italy - Serie C : Pescara vs Audace Cerignola trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250528000000 +0200" stop="20250528200000 +0200" channel="882">
-    <title lang="it">Inizierà alle 20:00.</title>
-    <desc lang="it">Italy - Serie C : Pescara vs Audace Cerignola.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250528200000 +0200" stop="20250528220000 +0200" channel="882">
-    <title lang="it">Italy - Serie C : Pescara vs Audace Cerignola</title>
-    <desc lang="it">Italy - Serie C : Pescara vs Audace Cerignola trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250528000000 +0200" stop="20250528200000 +0200" channel="6">
-    <title lang="it">Inizierà alle 20:00.</title>
-    <desc lang="it">Italy - Serie C : Ternana vs Vicenza.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250528200000 +0200" stop="20250528220000 +0200" channel="6">
-    <title lang="it">Italy - Serie C : Ternana vs Vicenza</title>
-    <desc lang="it">Italy - Serie C : Ternana vs Vicenza trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250528000000 +0200" stop="20250528210000 +0200" channel="8">
+<programme start="20250528000000 +0200" stop="20250528210000 +0200" channel="8">
     <title lang="it">Inizierà alle 21:00.</title>
     <desc lang="it">UEFA Conference League Final : Real Betis vs Chelsea.</desc>
     <category lang="it">Annuncio</category>
