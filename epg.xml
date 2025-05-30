@@ -28110,17 +28110,7 @@
 <programme start="20250531100000 +0000" stop="20250531160000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
 <programme start="20250531160000 +0000" stop="20250531230000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
 <programme start="20250531230000 +0000" stop="20250601040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250530000000 +0200" stop="20250530200000 +0200" channel="882">
-    <title lang="it">Inizierà alle 20:00.</title>
-    <desc lang="it">Italy, Serie A2 Gold : Pallacanestro 2.015 Forli vs. Rinascita Basket Rimini.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250530200000 +0200" stop="20250530220000 +0200" channel="882">
-    <title lang="it">Italy, Serie A2 Gold : Pallacanestro 2.015 Forli vs. Rinascita Basket Rimini</title>
-    <desc lang="it">Italy, Serie A2 Gold : Pallacanestro 2.015 Forli vs. Rinascita Basket Rimini trasmesso in diretta.</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250530000000 +0200" stop="20250530204500 +0200" channel="879">
+<programme start="20250530000000 +0200" stop="20250530204500 +0200" channel="879">
     <title lang="it">Inizierà alle 20:45.</title>
     <desc lang="it">Italy Lega A Basket : Trapani Shark vs Germani Brescia.</desc>
     <category lang="it">Annuncio</category>
