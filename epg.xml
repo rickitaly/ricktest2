@@ -28284,16 +28284,6 @@
     <desc lang="it">Basket : Playoff Serie A | Semifinale | Gara 1 trasmesso in diretta.</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <programme start="20250531000000 +0200" stop="20250531183000 +0200" channel="460">
-    <title lang="it">Inizierà alle 18:30.</title>
-    <desc lang="it">United Rugby Championship : Sharks vs Munster.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250531183000 +0200" stop="20250531203000 +0200" channel="460">
-    <title lang="it">United Rugby Championship : Sharks vs Munster</title>
-    <desc lang="it">United Rugby Championship : Sharks vs Munster trasmesso in diretta.</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250531165800 +0000" stop="20250531172500 +0000">
     <title>FailFactory: Fall Fashion</title>
     <episode-num system="onscreen">S01E12</episode-num>
