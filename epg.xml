@@ -28616,26 +28616,6 @@
     <desc lang="it">Italy - Serie B : Spezia vs Cremonese trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250601000000 +0200" stop="20250601130000 +0200" channel="879">
-    <title lang="it">Inizierà alle 13:00.</title>
-    <desc lang="it">World Championship Germany | MX2 | Race 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250601130000 +0200" stop="20250601150000 +0200" channel="879">
-    <title lang="it">World Championship Germany | MX2 | Race 1</title>
-    <desc lang="it">World Championship Germany | MX2 | Race 1 trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250601000000 +0200" stop="20250601140000 +0200" channel="577">
-    <title lang="it">Inizierà alle 14:00.</title>
-    <desc lang="it">Formula 1 : Aramco Spanish Grand Prix - Grand Prix Sunday.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250601140000 +0200" stop="20250601160000 +0200" channel="577">
-    <title lang="it">Formula 1 : Aramco Spanish Grand Prix - Grand Prix Sunday</title>
-    <desc lang="it">Formula 1 : Aramco Spanish Grand Prix - Grand Prix Sunday trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <programme start="20250601000000 +0200" stop="20250601150000 +0200" channel="577">
     <title lang="it">Inizierà alle 15:00.</title>
     <desc lang="it">Formula 1 : Aramco Spanish Grand Prix - Race.</desc>
@@ -28646,7 +28626,7 @@
     <desc lang="it">Formula 1 : Aramco Spanish Grand Prix - Race trasmesso in diretta.</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20250601150000 +0200" stop="20250601160000 +0200" channel="879">
+  <programme start="20250601000000 +0200" stop="20250601160000 +0200" channel="879">
     <title lang="it">Inizierà alle 16:00.</title>
     <desc lang="it">World Championship Germany | MX2 | Race 2.</desc>
     <category lang="it">Annuncio</category>
