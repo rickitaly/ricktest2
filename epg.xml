@@ -28626,16 +28626,6 @@
     <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | Day 8 trasmesso in diretta.</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <programme start="20250601000000 +0200" stop="20250601080000 +0200" channel="879">
-    <title lang="it">Inizierà alle 08:00.</title>
-    <desc lang="it">Formula E Shanghai | Race 2 Round 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250601080000 +0200" stop="20250601100000 +0200" channel="879">
-    <title lang="it">Formula E Shanghai | Race 2 Round 10</title>
-    <desc lang="it">Formula E Shanghai | Race 2 Round 10 trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <programme start="20250601000000 +0200" stop="20250601083000 +0200" channel="577">
     <title lang="it">Inizierà alle 08:30.</title>
     <desc lang="it">Formula 3 : Aramco Spanish Grand Prix - Race.</desc>
@@ -28656,7 +28646,7 @@
     <desc lang="it">Formula 2 : Aramco Spanish Grand Prix - Race trasmesso in diretta.</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20250601100000 +0200" stop="20250601130000 +0200" channel="879">
+  <programme start="20250601000000 +0200" stop="20250601130000 +0200" channel="879">
     <title lang="it">Inizierà alle 13:00.</title>
     <desc lang="it">World Championship Germany | MX2 | Race 1.</desc>
     <category lang="it">Annuncio</category>
