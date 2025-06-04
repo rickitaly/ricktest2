@@ -29029,16 +29029,6 @@
     <desc lang="it">UEFA Nations League : Germany vs Portugal trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250604000000 +0200" stop="20250604160000 +0200" channel="879">
-    <title lang="it">Inizierà alle 16:00.</title>
-    <desc lang="it">Roland-Garros Women | Singles | Quarter-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250604160000 +0200" stop="20250604180000 +0200" channel="879">
-    <title lang="it">Roland-Garros Women | Singles | Quarter-Final</title>
-    <desc lang="it">Roland-Garros Women | Singles | Quarter-Final trasmesso in diretta.</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <programme start="20250604000000 +0200" stop="20250604204500 +0200" channel="882">
     <title lang="it">Inizierà alle 20:45.</title>
     <desc lang="it">Lega A : Brescia vs Trapani.</desc>
@@ -29049,7 +29039,7 @@
     <desc lang="it">Lega A : Brescia vs Trapani trasmesso in diretta.</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <programme start="20250604180000 +0200" stop="20250604204500 +0200" channel="879">
+  <programme start="20250604000000 +0200" stop="20250604204500 +0200" channel="879">
     <title lang="it">Inizierà alle 20:45.</title>
     <desc lang="it">Lega A : Brescia vs Trapani.</desc>
     <category lang="it">Annuncio</category>
