@@ -30045,35 +30045,155 @@
 <programme start="20250606182400 +0000" stop="20250606200800 +0000" channel="zonadazn.it"><title>Serie A - Stag. 2024 Ep. 0 - Udinese - Inter</title><desc>Stag. 2024 Ep. 0 - Udinese - Inter -...</desc></programme>
 <programme start="20250606200800 +0000" stop="20250606230000 +0000" channel="zonadazn.it"><title>11 finali</title><desc>11 finali</desc></programme>
 <programme start="20250606230000 +0000" stop="20250607040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250605000000 +0200" stop="20250605210000 +0200" channel="461">
-    <title lang="it">Inizierà alle 21:00.</title>
-    <desc lang="it">UEFA Nations League : Spain vs France.</desc>
+<programme start="20250606000000 +0200" stop="20250606180000 +0200" channel="461">
+    <title lang="it">Inizierà alle 18:00.</title>
+    <desc lang="it">Friendly : Bulgaria vs Cyprus.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250605210000 +0200" stop="20250605230000 +0200" channel="461">
-    <title lang="it">UEFA Nations League : Spain vs France</title>
-    <desc lang="it">UEFA Nations League : Spain vs France trasmesso in diretta.</desc>
+  <programme start="20250606180000 +0200" stop="20250606200000 +0200" channel="461">
+    <title lang="it">Friendly : Bulgaria vs Cyprus</title>
+    <desc lang="it">Friendly : Bulgaria vs Cyprus trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250605000000 +0200" stop="20250605210000 +0200" channel="870">
-    <title lang="it">Inizierà alle 21:00.</title>
-    <desc lang="it">UEFA Nations League : Spain vs France.</desc>
+  <programme start="20250606000000 +0200" stop="20250606180000 +0200" channel="870">
+    <title lang="it">Inizierà alle 18:00.</title>
+    <desc lang="it">Friendly : Bulgaria vs Cyprus.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250605210000 +0200" stop="20250605230000 +0200" channel="870">
-    <title lang="it">UEFA Nations League : Spain vs France</title>
-    <desc lang="it">UEFA Nations League : Spain vs France trasmesso in diretta.</desc>
+  <programme start="20250606180000 +0200" stop="20250606200000 +0200" channel="870">
+    <title lang="it">Friendly : Bulgaria vs Cyprus</title>
+    <desc lang="it">Friendly : Bulgaria vs Cyprus trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250605000000 +0200" stop="20250605204500 +0200" channel="879">
+  <programme start="20250606200000 +0200" stop="20250606204500 +0200" channel="461">
     <title lang="it">Inizierà alle 20:45.</title>
-    <desc lang="it">Lega A : Olimpia Milano vs. Virtus Bologna.</desc>
+    <desc lang="it">World Cup Qualifying : North Macedonia vs Belgium.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250605204500 +0200" stop="20250605224500 +0200" channel="879">
-    <title lang="it">Lega A : Olimpia Milano vs. Virtus Bologna</title>
-    <desc lang="it">Lega A : Olimpia Milano vs. Virtus Bologna trasmesso in diretta.</desc>
+  <programme start="20250606204500 +0200" stop="20250606224500 +0200" channel="461">
+    <title lang="it">World Cup Qualifying : North Macedonia vs Belgium</title>
+    <desc lang="it">World Cup Qualifying : North Macedonia vs Belgium trasmesso in diretta.</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250606000000 +0200" stop="20250606204500 +0200" channel="850">
+    <title lang="it">Inizierà alle 20:45.</title>
+    <desc lang="it">World Cup Qualifying : Norway vs Italy.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250606204500 +0200" stop="20250606224500 +0200" channel="850">
+    <title lang="it">World Cup Qualifying : Norway vs Italy</title>
+    <desc lang="it">World Cup Qualifying : Norway vs Italy trasmesso in diretta.</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250606000000 +0200" stop="20250606110000 +0200" channel="879">
+    <title lang="it">Inizierà alle 11:00.</title>
+    <desc lang="it">2025 Roland-Garros Tennis Ladies Doubles - First Semifinal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250606110000 +0200" stop="20250606130000 +0200" channel="879">
+    <title lang="it">2025 Roland-Garros Tennis Ladies Doubles - First Semifinal</title>
+    <desc lang="it">2025 Roland-Garros Tennis Ladies Doubles - First Semifinal trasmesso in diretta.</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250606130000 +0200" stop="20250606143000 +0200" channel="879">
+    <title lang="it">Inizierà alle 14:30.</title>
+    <desc lang="it">Roland-Garros Men | Singles | Semi-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250606143000 +0200" stop="20250606163000 +0200" channel="879">
+    <title lang="it">Roland-Garros Men | Singles | Semi-Final</title>
+    <desc lang="it">Roland-Garros Men | Singles | Semi-Final trasmesso in diretta.</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250606000000 +0200" stop="20250606090000 +0200" channel="575">
+    <title lang="it">Inizierà alle 09:00.</title>
+    <desc lang="it">MotoGP : Greek Grand Prix of Spain Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250606090000 +0200" stop="20250606110000 +0200" channel="575">
+    <title lang="it">MotoGP : Greek Grand Prix of Spain Free Practice 1</title>
+    <desc lang="it">MotoGP : Greek Grand Prix of Spain Free Practice 1 trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250606000000 +0200" stop="20250606090000 +0200" channel="575">
+    <title lang="it">Inizierà alle 09:00.</title>
+    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250606090000 +0200" stop="20250606110000 +0200" channel="575">
+    <title lang="it">Moto 3 : Greek Grand Prix of Spain Free Practice 1</title>
+    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Free Practice 1 trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250606000000 +0200" stop="20250606094500 +0200" channel="575">
+    <title lang="it">Inizierà alle 09:45.</title>
+    <desc lang="it">Moto 2 : Greek Grand Prix of Spain Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250606094500 +0200" stop="20250606114500 +0200" channel="575">
+    <title lang="it">Moto 2 : Greek Grand Prix of Spain Free Practice 1</title>
+    <desc lang="it">Moto 2 : Greek Grand Prix of Spain Free Practice 1 trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250606114500 +0200" stop="20250606131000 +0200" channel="575">
+    <title lang="it">Inizierà alle 13:10.</title>
+    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250606131000 +0200" stop="20250606151000 +0200" channel="575">
+    <title lang="it">Moto 3 : Greek Grand Prix of Spain Practice</title>
+    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Practice trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250606000000 +0200" stop="20250606131500 +0200" channel="575">
+    <title lang="it">Inizierà alle 13:15.</title>
+    <desc lang="it">MotoGP : Greek Grand Prix of Spain Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250606131500 +0200" stop="20250606151500 +0200" channel="575">
+    <title lang="it">MotoGP : Greek Grand Prix of Spain Practice 1</title>
+    <desc lang="it">MotoGP : Greek Grand Prix of Spain Practice 1 trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250606000000 +0200" stop="20250606140000 +0200" channel="575">
+    <title lang="it">Inizierà alle 14:00.</title>
+    <desc lang="it">Moto 2 : Greek Grand Prix of Spain.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250606140000 +0200" stop="20250606160000 +0200" channel="575">
+    <title lang="it">Moto 2 : Greek Grand Prix of Spain</title>
+    <desc lang="it">Moto 2 : Greek Grand Prix of Spain trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250606163000 +0200" stop="20250606204500 +0200" channel="879">
+    <title lang="it">Inizierà alle 20:45.</title>
+    <desc lang="it">Lega Basket Serie A : Mpresia vs Trapani.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250606204500 +0200" stop="20250606224500 +0200" channel="879">
+    <title lang="it">Lega Basket Serie A : Mpresia vs Trapani</title>
+    <desc lang="it">Lega Basket Serie A : Mpresia vs Trapani trasmesso in diretta.</desc>
     <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250606000000 +0200" stop="20250606130000 +0200" channel="879">
+    <title lang="it">Inizierà alle 13:00.</title>
+    <desc lang="it">Tour of Slovenia | Stage 3 Men | Majšperk - Ormoz (173.4km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250606130000 +0200" stop="20250606150000 +0200" channel="879">
+    <title lang="it">Tour of Slovenia | Stage 3 Men | Majšperk - Ormoz (173.4km)</title>
+    <desc lang="it">Tour of Slovenia | Stage 3 Men | Majšperk - Ormoz (173.4km) trasmesso in diretta.</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250606150000 +0200" stop="20250606170000 +0200" channel="879">
+    <title lang="it">Inizierà alle 17:00.</title>
+    <desc lang="it">UCI Cross-country Short Track World Cup | Women Elite | Leogang.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250606170000 +0200" stop="20250606190000 +0200" channel="879">
+    <title lang="it">UCI Cross-country Short Track World Cup | Women Elite | Leogang</title>
+    <desc lang="it">UCI Cross-country Short Track World Cup | Women Elite | Leogang trasmesso in diretta.</desc>
+    <category lang="it">Cycling</category>
   </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250605184700 +0000" stop="20250605191500 +0000">
     <title>FailFactory: Built Up and Knocked Down</title>
