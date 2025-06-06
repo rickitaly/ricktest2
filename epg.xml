@@ -28141,37 +28141,7 @@
     <desc lang="it">Roland-Garros Men | Singles | Semi-Final trasmesso in diretta.</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <programme start="20250606000000 +0200" stop="20250606090000 +0200" channel="575">
-    <title lang="it">Inizierà alle 09:00.</title>
-    <desc lang="it">MotoGP : Greek Grand Prix of Spain Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606090000 +0200" stop="20250606110000 +0200" channel="575">
-    <title lang="it">MotoGP : Greek Grand Prix of Spain Free Practice 1</title>
-    <desc lang="it">MotoGP : Greek Grand Prix of Spain Free Practice 1 trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250606000000 +0200" stop="20250606090000 +0200" channel="575">
-    <title lang="it">Inizierà alle 09:00.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606090000 +0200" stop="20250606110000 +0200" channel="575">
-    <title lang="it">Moto 3 : Greek Grand Prix of Spain Free Practice 1</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Free Practice 1 trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250606000000 +0200" stop="20250606094500 +0200" channel="575">
-    <title lang="it">Inizierà alle 09:45.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Spain Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606094500 +0200" stop="20250606114500 +0200" channel="575">
-    <title lang="it">Moto 2 : Greek Grand Prix of Spain Free Practice 1</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Spain Free Practice 1 trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250606114500 +0200" stop="20250606131000 +0200" channel="575">
+  <programme start="20250606000000 +0200" stop="20250606131000 +0200" channel="575">
     <title lang="it">Inizierà alle 13:10.</title>
     <desc lang="it">Moto 3 : Greek Grand Prix of Spain Practice.</desc>
     <category lang="it">Annuncio</category>
