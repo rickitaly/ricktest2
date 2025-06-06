@@ -28121,17 +28121,7 @@
     <desc lang="it">World Cup Qualifying : Norway vs Italy trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250606000000 +0200" stop="20250606143000 +0200" channel="879">
-    <title lang="it">Inizierà alle 14:30.</title>
-    <desc lang="it">Roland-Garros Men | Singles | Semi-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606143000 +0200" stop="20250606163000 +0200" channel="879">
-    <title lang="it">Roland-Garros Men | Singles | Semi-Final</title>
-    <desc lang="it">Roland-Garros Men | Singles | Semi-Final trasmesso in diretta.</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250606163000 +0200" stop="20250606204500 +0200" channel="879">
+  <programme start="20250606000000 +0200" stop="20250606204500 +0200" channel="879">
     <title lang="it">Inizierà alle 20:45.</title>
     <desc lang="it">Lega Basket Serie A : Mpresia vs Trapani.</desc>
     <category lang="it">Annuncio</category>
