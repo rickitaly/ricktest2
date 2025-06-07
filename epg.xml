@@ -27000,26 +27000,6 @@
     <desc lang="it">Roland-Garros Men | Doubles | Final trasmesso in diretta.</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <programme start="20250607000000 +0200" stop="20250607083500 +0200" channel="575">
-    <title lang="it">Inizierà alle 08:35.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607083500 +0200" stop="20250607103500 +0200" channel="575">
-    <title lang="it">Moto 3 : Greek Grand Prix of Spain Free Practice 2</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Free Practice 2 trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250607000000 +0200" stop="20250607100000 +0200" channel="575">
-    <title lang="it">Inizierà alle 10:00.</title>
-    <desc lang="it">MotoGP : Greek Grand Prix of Spain Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607100000 +0200" stop="20250607120000 +0200" channel="575">
-    <title lang="it">MotoGP : Greek Grand Prix of Spain Qualifying</title>
-    <desc lang="it">MotoGP : Greek Grand Prix of Spain Qualifying trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <programme start="20250607000000 +0200" stop="20250607104500 +0200" channel="575">
     <title lang="it">Inizierà alle 10:45.</title>
     <desc lang="it">Moto 2 : Greek Grand Prix of Spain Free Practice 2.</desc>
