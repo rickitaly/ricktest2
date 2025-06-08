@@ -26313,26 +26313,6 @@
     <desc lang="it">UEFA Nations League Final : Portugal vs Spain trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250608000000 +0200" stop="20250608195000 +0200" channel="882">
-    <title lang="it">Inizierà alle 19:50.</title>
-    <desc lang="it">Serie A2 : Rimini vs Cantu.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250608195000 +0200" stop="20250608215000 +0200" channel="882">
-    <title lang="it">Serie A2 : Rimini vs Cantu</title>
-    <desc lang="it">Serie A2 : Rimini vs Cantu trasmesso in diretta.</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250608000000 +0200" stop="20250608183000 +0200" channel="879">
-    <title lang="it">Inizierà alle 18:30.</title>
-    <desc lang="it">Women's Boulder | Final World Cup | Prague.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250608183000 +0200" stop="20250608203000 +0200" channel="879">
-    <title lang="it">Women's Boulder | Final World Cup | Prague</title>
-    <desc lang="it">Women's Boulder | Final World Cup | Prague trasmesso in diretta.</desc>
-    <category lang="it">Climbing</category>
-  </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250608170000 +0000" stop="20250608172800 +0000">
     <title>FailFactory: Loud AF</title>
     <episode-num system="onscreen">S01E108</episode-num>
