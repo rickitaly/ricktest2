@@ -28547,17 +28547,7 @@
 <programme start="20250614160000 +0000" stop="20250614183000 +0000" channel="zonadazn.it"><title>Internazionali Tennis Citta di Perugia - Stag. 2025 - 1a Semifinale M</title><desc>Stag....</desc></programme>
 <programme start="20250614183000 +0000" stop="20250614230000 +0000" channel="zonadazn.it"><title>Internazionali Tennis Citta di Perugia - Stag. 2025 - 2a Semifinale M</title><desc>Stag....</desc></programme>
 <programme start="20250614230000 +0000" stop="20250615040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250613000000 +0200" stop="20250613193000 +0200" channel="577">
-    <title lang="it">Inizierà alle 19:30.</title>
-    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250613193000 +0200" stop="20250613213000 +0200" channel="577">
-    <title lang="it">Formula 1 : Pirelli Canadian Grand Prix - Practice 1</title>
-    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Practice 1 trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250613213000 +0200" stop="20250613230000 +0200" channel="577">
+<programme start="20250613000000 +0200" stop="20250613230000 +0200" channel="577">
     <title lang="it">Inizierà alle 23:00.</title>
     <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Practice 2.</desc>
     <category lang="it">Annuncio</category>
