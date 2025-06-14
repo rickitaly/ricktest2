@@ -28382,36 +28382,6 @@
     <desc lang="it">Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia trasmesso in diretta.</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <programme start="20250614000000 +0200" stop="20250614182000 +0200" channel="851">
-    <title lang="it">Inizierà alle 18:20.</title>
-    <desc lang="it">European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250614182000 +0200" stop="20250614202000 +0200" channel="851">
-    <title lang="it">European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa)</title>
-    <desc lang="it">European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa) trasmesso in diretta.</desc>
-    <category lang="it">Fencing</category>
-  </programme>
-  <programme start="20250614000000 +0200" stop="20250614180000 +0200" channel="462">
-    <title lang="it">Inizierà alle 18:00.</title>
-    <desc lang="it">United Rugby Championship Final : Leinster vs Bulls.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250614180000 +0200" stop="20250614200000 +0200" channel="462">
-    <title lang="it">United Rugby Championship Final : Leinster vs Bulls</title>
-    <desc lang="it">United Rugby Championship Final : Leinster vs Bulls trasmesso in diretta.</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20250614000000 +0200" stop="20250614181500 +0200" channel="879">
-    <title lang="it">Inizierà alle 18:15.</title>
-    <desc lang="it">T100 Triathlon World Tour | Vancouver Men.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250614181500 +0200" stop="20250614201500 +0200" channel="879">
-    <title lang="it">T100 Triathlon World Tour | Vancouver Men</title>
-    <desc lang="it">T100 Triathlon World Tour | Vancouver Men trasmesso in diretta.</desc>
-    <category lang="it">Triathlon</category>
-  </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250614145100 +0000" stop="20250614151900 +0000">
     <title>FailFactory: That's What Friends Aren't For</title>
     <episode-num system="onscreen">S03E305</episode-num>
