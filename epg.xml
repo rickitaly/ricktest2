@@ -28385,17 +28385,7 @@
 <programme start="20250615130700 +0000" stop="20250615183000 +0000" channel="zonadazn.it"><title>Intervista a Moncada</title><desc>Marco Parolo intervista...</desc></programme>
 <programme start="20250615183000 +0000" stop="20250615230000 +0000" channel="zonadazn.it"><title>Internazionali Tennis Citta di Perugia - Stag. 2025 - Finale M</title><desc>Stag....</desc></programme>
 <programme start="20250615230000 +0000" stop="20250616040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250614000000 +0200" stop="20250614020000 +0200" channel="1">
-    <title lang="it">Inizierà alle 02:00.</title>
-    <desc lang="it">FIFA Club World Cup : Al Ahly vs Inter Miami.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250614020000 +0200" stop="20250614040000 +0200" channel="1">
-    <title lang="it">FIFA Club World Cup : Al Ahly vs Inter Miami</title>
-    <desc lang="it">FIFA Club World Cup : Al Ahly vs Inter Miami trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250614000000 +0200" stop="20250614210000 +0200" channel="851">
+<programme start="20250614000000 +0200" stop="20250614210000 +0200" channel="851">
     <title lang="it">Inizierà alle 21:00.</title>
     <desc lang="it">UEFA Euro U-21 : Slovakia U21 vs Italy U21.</desc>
     <category lang="it">Annuncio</category>
@@ -28405,17 +28395,7 @@
     <desc lang="it">UEFA Euro U-21 : Slovakia U21 vs Italy U21 trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250614000000 +0200" stop="20250614030000 +0200" channel="878">
-    <title lang="it">Inizierà alle 03:00.</title>
-    <desc lang="it">FIA WEC | 24 Hours of Le Mans Career.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250614030000 +0200" stop="20250614050000 +0200" channel="878">
-    <title lang="it">FIA WEC | 24 Hours of Le Mans Career</title>
-    <desc lang="it">FIA WEC | 24 Hours of Le Mans Career trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250614050000 +0200" stop="20250614095500 +0200" channel="878">
+  <programme start="20250614000000 +0200" stop="20250614095500 +0200" channel="878">
     <title lang="it">Inizierà alle 09:55.</title>
     <desc lang="it">FIA WEC | Road to Le Mans 2nd Race.</desc>
     <category lang="it">Annuncio</category>
