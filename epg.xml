@@ -25965,16 +25965,6 @@
     <desc lang="it">World Cup | Men Bern | Bouldering | Final trasmesso in diretta.</desc>
     <category lang="it">Climbing</category>
   </programme>
-  <programme start="20250615000000 +0200" stop="20250615151000 +0200" channel="879">
-    <title lang="it">Inizierà alle 15:10.</title>
-    <desc lang="it">Criterium du Dauphine | Stage 8 Men | Val'D Arc - Val Cenis (133.3km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250615151000 +0200" stop="20250615171000 +0200" channel="879">
-    <title lang="it">Criterium du Dauphine | Stage 8 Men | Val'D Arc - Val Cenis (133.3km)</title>
-    <desc lang="it">Criterium du Dauphine | Stage 8 Men | Val'D Arc - Val Cenis (133.3km) trasmesso in diretta.</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250615114300 +0000" stop="20250615121100 +0000">
     <title>FailFactory: Hold My Juicebox</title>
     <episode-num system="onscreen">S01E104</episode-num>
