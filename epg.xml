@@ -31020,17 +31020,7 @@
 <programme start="20250619204200 +0000" stop="20250619205900 +0000" channel="zonadazn.it"><title>Top Gol: Inter 2023/2024</title><desc>Il cammino dellInter...</desc></programme>
 <programme start="20250619205900 +0000" stop="20250619230000 +0000" channel="zonadazn.it"><title>Silvio Baldini - Questo è calcio</title><desc>Questo è calcio - Geniale, eccentrico...</desc></programme>
 <programme start="20250619230000 +0000" stop="20250620040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250618000000 +0200" stop="20250618030000 +0200" channel="4">
-    <title lang="it">Inizierà alle 03:00.</title>
-    <desc lang="it">FIFA Club World Cup : Al Ain vs Juventus.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250618030000 +0200" stop="20250618050000 +0200" channel="4">
-    <title lang="it">FIFA Club World Cup : Al Ain vs Juventus</title>
-    <desc lang="it">FIFA Club World Cup : Al Ain vs Juventus trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250618000000 +0200" stop="20250618144500 +0200" channel="878">
+<programme start="20250618000000 +0200" stop="20250618144500 +0200" channel="878">
     <title lang="it">Inizierà alle 14:45.</title>
     <desc lang="it">Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km).</desc>
     <category lang="it">Annuncio</category>
