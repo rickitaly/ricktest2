@@ -29212,16 +29212,6 @@
 <programme start="20250619204200 +0000" stop="20250619205900 +0000" channel="zonadazn.it"><title>Top Gol: Inter 2023/2024</title><desc>Il cammino dellInter...</desc></programme>
 <programme start="20250619205900 +0000" stop="20250619230000 +0000" channel="zonadazn.it"><title>Silvio Baldini - Questo è calcio</title><desc>Questo è calcio - Geniale, eccentrico...</desc></programme>
 <programme start="20250619230000 +0000" stop="20250620040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250618000000 +0200" stop="20250618144500 +0200" channel="878">
-    <title lang="it">Inizierà alle 14:45.</title>
-    <desc lang="it">Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250618144500 +0200" stop="20250618164500 +0200" channel="878">
-    <title lang="it">Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km)</title>
-    <desc lang="it">Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km) trasmesso in diretta.</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250618124400 +0000" stop="20250618131200 +0000">
     <title>FailFactory: Driving Miss Crazy</title>
     <episode-num system="onscreen">S04E408</episode-num>
