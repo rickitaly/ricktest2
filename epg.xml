@@ -28363,17 +28363,7 @@
     <desc lang="it">World Cup | Innsbruck Men's Boulder | Final trasmesso in diretta.</desc>
     <category lang="it">Climbing</category>
   </programme>
-  <programme start="20250626000000 +0200" stop="20250626130000 +0200" channel="878">
-    <title lang="it">Inizierà alle 13:00.</title>
-    <desc lang="it">French National Road Championships Women | Les Herbiers (ITT, 26.5km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250626130000 +0200" stop="20250626150000 +0200" channel="878">
-    <title lang="it">French National Road Championships Women | Les Herbiers (ITT, 26.5km)</title>
-    <desc lang="it">French National Road Championships Women | Les Herbiers (ITT, 26.5km) trasmesso in diretta.</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20250626150000 +0200" stop="20250626170000 +0200" channel="878">
+  <programme start="20250626000000 +0200" stop="20250626170000 +0200" channel="878">
     <title lang="it">Inizierà alle 17:00.</title>
     <desc lang="it">French National Road Championships Men | Les Herbiers (ITT, 26.5km).</desc>
     <category lang="it">Annuncio</category>
