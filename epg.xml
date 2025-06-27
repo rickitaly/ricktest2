@@ -29589,47 +29589,7 @@
 <programme start="20250628164100 +0000" stop="20250628170000 +0000" channel="zonadazn.it"><title>Vlahovic</title><desc>Vlahovic</desc></programme>
 <programme start="20250628170000 +0000" stop="20250628230000 +0000" channel="zonadazn.it"><title>LIV Golf League - Stag. 2025 Ep. 2a g. - Dallas</title><desc>Stag. 2025 Ep. 2a g. - Dallas...</desc></programme>
 <programme start="20250628230000 +0000" stop="20250629040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250627000000 +0200" stop="20250627090000 +0200" channel="575">
-    <title lang="it">Inizierà alle 09:00.</title>
-    <desc lang="it">MotoGP : Dutch Grand Prix Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250627090000 +0200" stop="20250627110000 +0200" channel="575">
-    <title lang="it">MotoGP : Dutch Grand Prix Free Practice 1</title>
-    <desc lang="it">MotoGP : Dutch Grand Prix Free Practice 1 trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250627000000 +0200" stop="20250627090000 +0200" channel="575">
-    <title lang="it">Inizierà alle 09:00.</title>
-    <desc lang="it">Moto3 : Dutch Grand Prix Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250627090000 +0200" stop="20250627110000 +0200" channel="575">
-    <title lang="it">Moto3 : Dutch Grand Prix Free Practice 1</title>
-    <desc lang="it">Moto3 : Dutch Grand Prix Free Practice 1 trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250627000000 +0200" stop="20250627094500 +0200" channel="575">
-    <title lang="it">Inizierà alle 09:45.</title>
-    <desc lang="it">Moto2 : Dutch Grand Prix Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250627094500 +0200" stop="20250627114500 +0200" channel="575">
-    <title lang="it">Moto2 : Dutch Grand Prix Free Practice 1</title>
-    <desc lang="it">Moto2 : Dutch Grand Prix Free Practice 1 trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250627000000 +0200" stop="20250627100000 +0200" channel="577">
-    <title lang="it">Inizierà alle 10:00.</title>
-    <desc lang="it">Formula 3 : MSC Cruises Austrian GP Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250627100000 +0200" stop="20250627120000 +0200" channel="577">
-    <title lang="it">Formula 3 : MSC Cruises Austrian GP Practice</title>
-    <desc lang="it">Formula 3 : MSC Cruises Austrian GP Practice trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250627000000 +0200" stop="20250627110500 +0200" channel="577">
+<programme start="20250627000000 +0200" stop="20250627110500 +0200" channel="577">
     <title lang="it">Inizierà alle 11:05.</title>
     <desc lang="it">Formula 2 : MSC Cruises Austrian GP Practice.</desc>
     <category lang="it">Annuncio</category>
@@ -29639,7 +29599,7 @@
     <desc lang="it">Formula 2 : MSC Cruises Austrian GP Practice trasmesso in diretta.</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20250627114500 +0200" stop="20250627131000 +0200" channel="575">
+  <programme start="20250627000000 +0200" stop="20250627131000 +0200" channel="575">
     <title lang="it">Inizierà alle 13:10.</title>
     <desc lang="it">Moto3 : Dutch Grand Prix Practice.</desc>
     <category lang="it">Annuncio</category>
