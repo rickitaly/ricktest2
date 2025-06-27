@@ -28153,27 +28153,7 @@
 <programme start="20250628164100 +0000" stop="20250628170000 +0000" channel="zonadazn.it"><title>Vlahovic</title><desc>Vlahovic</desc></programme>
 <programme start="20250628170000 +0000" stop="20250628230000 +0000" channel="zonadazn.it"><title>LIV Golf League - Stag. 2025 Ep. 2a g. - Dallas</title><desc>Stag. 2025 Ep. 2a g. - Dallas...</desc></programme>
 <programme start="20250628230000 +0000" stop="20250629040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250627000000 +0200" stop="20250627170000 +0200" channel="577">
-    <title lang="it">Inizierà alle 17:00.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250627170000 +0200" stop="20250627190000 +0200" channel="577">
-    <title lang="it">Formula 1 : MSC Cruises Austrian GP - Practice 2</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Practice 2 trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250627000000 +0200" stop="20250627170000 +0200" channel="575">
-    <title lang="it">Inizierà alle 17:00.</title>
-    <desc lang="it">MotoGP : Dutch Grand Prix Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250627170000 +0200" stop="20250627190000 +0200" channel="575">
-    <title lang="it">MotoGP : Dutch Grand Prix Qualifying</title>
-    <desc lang="it">MotoGP : Dutch Grand Prix Qualifying trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250627000000 +0200" stop="20250627193000 +0200" channel="878">
+<programme start="20250627000000 +0200" stop="20250627193000 +0200" channel="878">
     <title lang="it">Inizierà alle 19:30.</title>
     <desc lang="it">Women's Boulder | Final World Cup | Innsbruck.</desc>
     <category lang="it">Annuncio</category>
