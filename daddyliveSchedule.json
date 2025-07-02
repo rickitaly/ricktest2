@@ -2088,6 +2088,36 @@
                 "time": "19:00",
                 "event": "Challenger - Modena (ITA) : Carlos Taberner vs Michael Geerts",
                 "channels": []
+            },
+            {
+                "time": "02:40",
+                "event": "UTR (F) - Taiwan (TWN) : Amy Zhu vs Cara Korhonen",
+                "channels": []
+            },
+            {
+                "time": "02:40",
+                "event": "UTR (F) - Taiwan (TWN) : Chisato Kanemaki vs Alisa Kummel",
+                "channels": []
+            },
+            {
+                "time": "02:40",
+                "event": "UTR (M) - Taiwan (TWN) : Diordan Macababbad vs Cheng Tang",
+                "channels": []
+            },
+            {
+                "time": "02:40",
+                "event": "UTR (M) - Taiwan (TWN) : Finley Dyer vs Marshall Islands Tutu",
+                "channels": []
+            },
+            {
+                "time": "02:40",
+                "event": "UTR (M) - Taiwan (TWN) : Jerome Estephan vs Jay Fairclough",
+                "channels": []
+            },
+            {
+                "time": "02:40",
+                "event": "UTR (F) - Taiwan (TWN) : Keira Blackbeard vs I Wen Wan",
+                "channels": []
             }
         ],
         "WWE</span>": [
@@ -2908,6 +2938,16 @@
         ],
         "Soccer</span>": [
             {
+                "time": "08:00",
+                "event": "Interclub friendly : Piast Gliwice vs Banik Ostrava",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Interclub friendly : Bohemians Praga vs Nyiregyhaza Spartacus",
+                "channels": []
+            },
+            {
                 "time": "09:30",
                 "event": "Asia - AFC Women's Asian Cup : Bangladesh vs Myanmar",
                 "channels": [
@@ -2918,6 +2958,31 @@
                 ]
             },
             {
+                "time": "10:00",
+                "event": "South Korea - Cup : Daegu vs Gangwon",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - Cup : Gimpo vs Bucheon",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - Cup : Gwangju vs Ulsan HD",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Interclub friendly : Midtjylland vs Randers FC",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "South Korea - Cup : FC Seoul vs Jeonbuk",
+                "channels": []
+            },
+            {
                 "time": "12:00",
                 "event": "Club Friendly : \u017delezni\u010dar Pan\u010devo vs UTA Arad",
                 "channels": [
@@ -2926,6 +2991,11 @@
                         "channel_id": "430"
                     }
                 ]
+            },
+            {
+                "time": "15:00",
+                "event": "Interclub friendly : Slask Wroclaw vs Chrobry Glogow",
+                "channels": []
             },
             {
                 "time": "15:30",
@@ -3070,6 +3140,16 @@
                         "channel_id": "140"
                     }
                 ]
+            },
+            {
+                "time": "16:00",
+                "event": "Interclub friendly : Dunajska Streda vs TSC",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Interclub friendly : CSKA Sofia FC vs Olimpija Ljubljana",
+                "channels": []
             },
             {
                 "time": "19:00",
@@ -3296,6 +3376,11 @@
                 ]
             },
             {
+                "time": "22:30",
+                "event": "USL League One : Portland Hearts of Pine vs AV Alta FC",
+                "channels": []
+            },
+            {
                 "time": "23:00",
                 "event": "CONCACAF Gold Cup Semi Final 1 : USA vs Guatemala",
                 "channels": [
@@ -3356,6 +3441,11 @@
                         "channel_id": "143"
                     }
                 ]
+            },
+            {
+                "time": "23:00",
+                "event": "USL League One Soccer : Greenville Triumph SC vs Westchester SC",
+                "channels": []
             },
             {
                 "time": "23:15",
@@ -3798,6 +3888,241 @@
                         "channel_id": "147"
                     }
                 ]
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (M) - Taiwan (TWN) : Jaden Dewandaka Tan vs Kuan-Yi Lee",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (F) - Taiwan (TWN) : Malaylack Delilah Pathummakuronen vs Nao Phang Ziyi",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (M) - Taiwan (TWN) : Semen Batin vs Maximus Zavier Wong",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (F) - Taiwan (TWN) : Tzeng Mu-Jie vs Ange Oby Kajuru",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Olomouc (CHE) : Cornelius Alexander Shalmi vs Adam Duda",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Olomouc (CHE) : Nikoline Gullacksen vs Oliwia Orlinska",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (F) - Olomouc (CHE) : Tereza Polakova vs Martina Marusinova",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Olomouc (CHE) : Tomas Quesada Perez vs Vojtech Petr",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Brasov (ROM) : Edas Butvilas vs Frederico Ferreira Silva",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Brasov (ROM) : Gabi Adrian Boitan vs Alvaro Guillen Meza",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Brasov (ROM) - Double : P.Kaukovalta/P.Niklas-Salminen vs G.Ghetu/R.D.Turcanu",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (F) - Olomouc (CHE) : Kiara Zabkova vs Nikola Koprivova",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (F) - Olomouc (CHE) : Nela Jandova vs Kristyna Tomajkova",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (M) - Olomouc (CHE) : Norbert Marosik vs Vitek Horak",
+                "channels": []
+            },
+            {
+                "time": "08:15",
+                "event": "UTR (M) - Olomouc (CHE) : Stepan Baum vs David Schwarc",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Troyes (FRA) : Arthur Gea vs Harold Mayot",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "UTR (M) - Olomouc (CHE) : Imran Daniel ABD Hazli vs Lukas Velik",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "Challenger - Troyes (FRA) - Double : M.Mansilla Diez/B.Pujol Navarro vs A.Damonte/L.Erler",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Modena (ITA) - Double : J.Ingildsen/M.Karol vs M.Sabanov/N.Serdarusic",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Modena (ITA) - Double : S.Martos Gornes/N.V.S.Prashanth vs J.Barnat/F.Duda",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Modena (ITA) : Thiago Agustin Tirante vs Stefano Travaglia",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Brasov (ROM) - Double : C.J.Lock/T.Loof vs A.Jecan/B.Pavel",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Brasov (ROM) : Filip Cristian Jianu vs Luka Pavlovic",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Brasov (ROM) - Double : S.Banthia/A.Donski vs S.D.P.Dev/N.K.Sinha",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (F) - Olomouc (CHE) : Barbora Pokorna vs Kristyna Damaskova",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (M) - Olomouc (CHE) : Daniel Bien vs Louis Gorregues",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "UTR (F) - Olomouc (CHE) : Nicole Lukesova vs Sevil Yuldasheva",
+                "channels": []
+            },
+            {
+                "time": "09:40",
+                "event": "Challenger - Troyes (FRA) : Jan Choinski vs Branko Djuric",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Troyes (FRA) - Double : J.Cosano/N.S.Izquierdo vs N.Oberleitner/M.Rosenkranz",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - Wimbledon : Katerina Siniakova vs Qinwen Zheng",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Modena (ITA) : Facundo Diaz Acosta vs Juan Manuel Cerundolo",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Modena (ITA) - Double : G.Gobbi/L.Parenti vs I.Liutarevich/M.Veldheer",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Modena (ITA) - Double : L.Pokorny/G.Ricca vs B.Bayldon/G.Escobar",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Brasov (ROM) - Double : A.Paulson/M.Vrbensky vs R.Albot/V.Cornea",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Brasov (ROM) - Double : G.Goldhoff/M.Soto vs V.Orlov/S.Rodriguez Taverna",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Brasov (ROM) - Double : M.A.Dellien Velasco/A.Guillen Meza vs L.Sanchez/S.Walkow",
+                "channels": []
+            },
+            {
+                "time": "10:50",
+                "event": "Challenger - Troyes (FRA) : Jacopo Berrettini vs Thomas Faurel",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "UTR (F) - Olomouc (CHE) : Lucie Petruzelova vs Katarina Pavlechova",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "UTR (M) - Olomouc (CHE) : Mikolaj Lis vs Janos Fekete",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Modena (ITA) : Andrea Pellegrino vs Daniel Elahi Galan",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Modena (ITA) - Double : G.Blancaneaux/M.Geerts vs F.A.Gomez/L.D.Martinez",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Brasov (ROM) - Double : F.C.Jianu/L.Preda vs A.Merino/C.Negritu",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Troyes (FRA) - Double : A.Garcian/H.Mayot vs F.C.Alcantara/P.Somani",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Brasov (ROM) : Oriol Roca Batalla vs Juan Pablo Ficovich",
+                "channels": []
+            },
+            {
+                "time": "13:10",
+                "event": "Challenger - Troyes (FRA) - Double : B.Arias/R.Stepanov vs S.Agostini/P.A.Saraiva Dos Santos",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Challenger - Troyes (FRA) : Tristan Lamasine vs Norbert Gombos",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Challenger - Modena (ITA) : Daniel Merida Aguilar vs Federico Cina",
+                "channels": []
             }
         ],
         "Beach Volleyball</span>": [
