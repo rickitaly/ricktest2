@@ -3445,7 +3445,12 @@
             {
                 "time": "23:00",
                 "event": "USL League One Soccer : Greenville Triumph SC vs Westchester SC",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "MSG USA",
+                        "channel_id": "765"
+                    }
+                ]
             },
             {
                 "time": "23:15",
@@ -3638,6 +3643,944 @@
                     {
                         "channel_name": "Sky Sport 1 NZ",
                         "channel_id": "588"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : Wimbledon Press Conferences",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 26",
+                        "channel_id": "1526"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : Fonseca J. vs Brooksby J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 32",
+                        "channel_id": "1532"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : Jarry N. vs Tien L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 15",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 35",
+                        "channel_id": "1535"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : Mannarino A. vs Royer V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 16",
+                        "channel_id": "1516"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 36",
+                        "channel_id": "1536"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - WIMBLEDON : Mochizuki S. vs Khachanov K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 18",
+                        "channel_id": "1518"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 38",
+                        "channel_id": "1538"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - WIMBLEDON : Borges N. vs Harris B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - WIMBLEDON : Rublev A. vs Harris L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 23",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - WIMBLEDON : Nakashima B. vs Bu Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 15",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 35",
+                        "channel_id": "1535"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - WIMBLEDON : Norrie C. vs Tiafoe F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - WIMBLEDON : Auger-Aliassime F. vs Struff J-L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 18",
+                        "channel_id": "1518"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 38",
+                        "channel_id": "1538"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - WIMBLEDON : Lehecka J. vs Bellucci M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 32",
+                        "channel_id": "1532"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - WIMBLEDON : Tarvet O. vs Alcaraz C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 31",
+                        "channel_id": "1531"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - WIMBLEDON : Garin C. vs Rinderknech A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 17",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 37",
+                        "channel_id": "1537"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - WIMBLEDON : Majchrzak K. vs Quinn E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 14",
+                        "channel_id": "1514"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 34",
+                        "channel_id": "1534"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - WIMBLEDON : Thompson J. vs Bonzi B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 15",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 35",
+                        "channel_id": "1535"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - WIMBLEDON : Fery A. vs Darderi L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - WIMBLEDON : Van De Zandschulp B. vs Davidovich Fokina A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 23",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "ATP - WIMBLEDON : Fritz T. vs Diallo G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - WIMBLEDON : Wimbledon Highlight Show",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 25",
+                        "channel_id": "1525"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "WTA - WIMBLEDON : Danilovic O. vs Keys M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - WIMBLEDON : Fernandez L. vs Siegemund L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 14",
+                        "channel_id": "1514"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 34",
+                        "channel_id": "1534"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - WIMBLEDON : Tomova V. vs Kartal S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 23",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - WIMBLEDON : Bucsa C. vs Vekic D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 17",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 37",
+                        "channel_id": "1537"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - WIMBLEDON : Shnaider D. vs Parry D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 18",
+                        "channel_id": "1518"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 38",
+                        "channel_id": "1538"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - WIMBLEDON : Zarazua R. vs Anisimova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 32",
+                        "channel_id": "1532"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - WIMBLEDON : Sabalenka A. vs Bouzkova M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 31",
+                        "channel_id": "1531"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - WIMBLEDON : Haddad Maia B. vs Galfi D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 15",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 35",
+                        "channel_id": "1535"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - WIMBLEDON : Lys E. vs Noskova L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 14",
+                        "channel_id": "1514"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 34",
+                        "channel_id": "1534"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - WIMBLEDON : Mertens E. vs Li A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 17",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 37",
+                        "channel_id": "1537"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - WIMBLEDON : Krueger A. vs Pavlyuchenkova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 16",
+                        "channel_id": "1516"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 36",
+                        "channel_id": "1536"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - WIMBLEDON : Osaka N. vs Siniakova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - WIMBLEDON : Paolini J. vs Rakhimova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 23",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - WIMBLEDON : Boulter K. vs Sierra S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - WIMBLEDON : Sasnovich A. vs Svitolina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 12",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 32",
+                        "channel_id": "1532"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "WTA - WIMBLEDON : Raducanu E. vs Vondrousova M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 11",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 31",
+                        "channel_id": "1531"
+                    }
+                ]
+            }
+        ],
+        "ATP DOUBLES - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Carballes Baena R./Djere L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 17",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 37",
+                        "channel_id": "1537"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP DOUBLES - WIMBLEDON : Behar A./Vliegen J. vs Bolelli S./Vavassori A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 29",
+                        "channel_id": "1529"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP DOUBLES - WIMBLEDON : Bhambri Y./Galloway R. vs Arneodo R./Guinard M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 25",
+                        "channel_id": "1525"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP DOUBLES - WIMBLEDON : Matos R./Melo M. vs Dodig I./Luz O.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 26",
+                        "channel_id": "1526"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP DOUBLES - WIMBLEDON : Arribage T./Trhac P. vs Halys Q./Mahut N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 30",
+                        "channel_id": "1530"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP DOUBLES - WIMBLEDON : Evans D./Searle H. vs Heliovaara H./Patten H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 24",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP DOUBLES - WIMBLEDON : Kecmanovic M./Mies A. vs Granollers M./Zeballos H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 25",
+                        "channel_id": "1525"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP DOUBLES - WIMBLEDON : Krawietz K./Puetz T. vs Bopanna R./Gille S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 14",
+                        "channel_id": "1514"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 34",
+                        "channel_id": "1534"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP DOUBLES - WIMBLEDON : Machac T./Mensik J. vs Martinez P./Munar J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 28",
+                        "channel_id": "1528"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP DOUBLES - WIMBLEDON : Romboli F./Smith J. P. vs McDonald M./Michelsen A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 26",
+                        "channel_id": "1526"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP DOUBLES - WIMBLEDON : Dzumhur D./Mansouri S. vs Gonzalez M./Molteni A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 30",
+                        "channel_id": "1530"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP DOUBLES - WIMBLEDON : Etcheverry T. M./Ugo Carabelli C. vs Jebens H./Olivetti A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 13",
+                        "channel_id": "1513"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 33",
+                        "channel_id": "1533"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP DOUBLES - WIMBLEDON : Goffin D./Muller A. vs Barrientos N./Bollipalli R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 28",
+                        "channel_id": "1528"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP DOUBLES - WIMBLEDON : Schnaitter J./Wallner M. vs Baez S./Comesana F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 29",
+                        "channel_id": "1529"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "ATP DOUBLES - WIMBLEDON : Hijikata R./Pel D. vs Goransson A./Verbeek S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 13",
+                        "channel_id": "1513"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 33",
+                        "channel_id": "1533"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "ATP DOUBLES - WIMBLEDON : Kovacevic A./Tien L. vs Balaji N. S./Reyes-Varela M. A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 30",
+                        "channel_id": "1530"
+                    }
+                ]
+            }
+        ],
+        "WTA DOUBLES - WIMBLEDON</span>": [
+            {
+                "time": "10:00",
+                "event": "WTA DOUBLES - WIMBLEDON : Birrell K./Joint M. vs Eikeri U./Ninomiya M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 13",
+                        "channel_id": "1513"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 33",
+                        "channel_id": "1533"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "WTA DOUBLES - WIMBLEDON : Kostyuk M./Ruse G. vs Sevastova A./Wickmayer Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 30",
+                        "channel_id": "1530"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "WTA DOUBLES - WIMBLEDON : Putintseva Y./Stearns P. vs Chan H-C./Krejcikova B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 28",
+                        "channel_id": "1528"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "WTA DOUBLES - WIMBLEDON : Wang Xin./Zheng S. vs Dabrowski G./Routliffe E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 24",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "WTA DOUBLES - WIMBLEDON : Blinkova A./Yuan Y. vs Melichar-Martinez/Samsonova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 29",
+                        "channel_id": "1529"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "WTA DOUBLES - WIMBLEDON : Khromacheva I./Stollar F. vs Krunic A./Lamens S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 13",
+                        "channel_id": "1513"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 33",
+                        "channel_id": "1533"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA DOUBLES - WIMBLEDON : Kessler M./Tauson C. vs Dart H./Lumsden M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 16",
+                        "channel_id": "1516"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 36",
+                        "channel_id": "1536"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA DOUBLES - WIMBLEDON : Burrage J./Kartal S. vs Bouzas Maneiro/Cavalle-Reimers",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 24",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA DOUBLES - WIMBLEDON : Moratelli A./Santamaria S. vs Cirstea S./Kalinskaya A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 6",
+                        "channel_id": "1506"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 26",
+                        "channel_id": "1526"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "WTA DOUBLES - WIMBLEDON : Tang Q./Zhu L. vs Jiang X./Wu F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 25",
+                        "channel_id": "1525"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "WTA DOUBLES - WIMBLEDON : Aoyama S./Shibahara E. vs Linette M./Pera B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 9",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 29",
+                        "channel_id": "1529"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "WTA DOUBLES - WIMBLEDON : Kichenok/Starodubtseva vs Alexandrova E./Zhang S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 8",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 28",
+                        "channel_id": "1528"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "WTA DOUBLES - WIMBLEDON : Osorio C./Parks A. vs Barnett A./Silva E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 24",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA DOUBLES - WIMBLEDON : Dolehide C./Kenin S. vs Schoofs B./Yastremska D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 16",
+                        "channel_id": "1516"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 36",
+                        "channel_id": "1536"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "WTA DOUBLES - WIMBLEDON : Appleton E./Watson H. vs Andreeva M./Shnaider D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 18",
+                        "channel_id": "1518"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 38",
+                        "channel_id": "1538"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA DOUBLES - WIMBLEDON : Baptiste H./McNally C. vs Haddad Maia B./Siegemund L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 15",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 35",
+                        "channel_id": "1535"
                     }
                 ]
             }
