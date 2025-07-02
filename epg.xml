@@ -26824,25 +26824,75 @@
 <programme start="20250703210800 +0000" stop="20250703211900 +0000" channel="zonadazn.it"><title>Dentro il VAR</title><desc>Geopop entra alliliad Broadcast...</desc></programme>
 <programme start="20250703211900 +0000" stop="20250703230000 +0000" channel="zonadazn.it"><title>Intervista a Moncada</title><desc>Marco Parolo intervista...</desc></programme>
 <programme start="20250703230000 +0000" stop="20250704040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250702000000 +0200" stop="20250702210000 +0200" channel="882">
-    <title lang="it">Inizierà alle 21:00.</title>
-    <desc lang="it">UEFA Women's Euro : Switzerland vs Norway.</desc>
+<programme start="20250703000000 +0200" stop="20250703180000 +0200" channel="851">
+    <title lang="it">Inizierà alle 18:00.</title>
+    <desc lang="it">UEFA Women's Euro : Belgium vs Italy.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250702210000 +0200" stop="20250702230000 +0200" channel="882">
-    <title lang="it">UEFA Women's Euro : Switzerland vs Norway</title>
-    <desc lang="it">UEFA Women's Euro : Switzerland vs Norway trasmesso in diretta.</desc>
+  <programme start="20250703180000 +0200" stop="20250703200000 +0200" channel="851">
+    <title lang="it">UEFA Women's Euro : Belgium vs Italy</title>
+    <desc lang="it">UEFA Women's Euro : Belgium vs Italy trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250702000000 +0200" stop="20250702210000 +0200" channel="5">
-    <title lang="it">Inizierà alle 21:00.</title>
-    <desc lang="it">UEFA Women's Euro : Switzerland vs Norway.</desc>
+  <programme start="20250703000000 +0200" stop="20250703180000 +0200" channel="2">
+    <title lang="it">Inizierà alle 18:00.</title>
+    <desc lang="it">UEFA Women's Euro : Belgium vs Italy.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250702210000 +0200" stop="20250702230000 +0200" channel="5">
-    <title lang="it">UEFA Women's Euro : Switzerland vs Norway</title>
-    <desc lang="it">UEFA Women's Euro : Switzerland vs Norway trasmesso in diretta.</desc>
+  <programme start="20250703180000 +0200" stop="20250703200000 +0200" channel="2">
+    <title lang="it">UEFA Women's Euro : Belgium vs Italy</title>
+    <desc lang="it">UEFA Women's Euro : Belgium vs Italy trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250703200000 +0200" stop="20250703210000 +0200" channel="2">
+    <title lang="it">Inizierà alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Spain vs Portugal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250703210000 +0200" stop="20250703230000 +0200" channel="2">
+    <title lang="it">UEFA Women's Euro : Spain vs Portugal</title>
+    <desc lang="it">UEFA Women's Euro : Spain vs Portugal trasmesso in diretta.</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250703000000 +0200" stop="20250703200000 +0200" channel="576">
+    <title lang="it">Inizierà alle 20:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 4.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250703200000 +0200" stop="20250703220000 +0200" channel="576">
+    <title lang="it">2025 Wimbledon Championships Early Round Coverage, Day 4</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 4 trasmesso in diretta.</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250703000000 +0200" stop="20250703200000 +0200" channel="878">
+    <title lang="it">Inizierà alle 20:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 4.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250703200000 +0200" stop="20250703220000 +0200" channel="878">
+    <title lang="it">2025 Wimbledon Championships Early Round Coverage, Day 4</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 4 trasmesso in diretta.</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250703000000 +0200" stop="20250703200000 +0200" channel="879">
+    <title lang="it">Inizierà alle 20:00.</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 4.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250703200000 +0200" stop="20250703220000 +0200" channel="879">
+    <title lang="it">2025 Wimbledon Championships Early Round Coverage, Day 4</title>
+    <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 4 trasmesso in diretta.</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250703000000 +0200" stop="20250703183000 +0200" channel="878">
+    <title lang="it">Inizierà alle 18:30.</title>
+    <desc lang="it">Tour de France | Team Presentation Men.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250703183000 +0200" stop="20250703203000 +0200" channel="878">
+    <title lang="it">Tour de France | Team Presentation Men</title>
+    <desc lang="it">Tour de France | Team Presentation Men trasmesso in diretta.</desc>
+    <category lang="it">Cycling</category>
   </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250702185700 +0000" stop="20250702192400 +0000">
     <title>FailFactory: Fall Fashion</title>
