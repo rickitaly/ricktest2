@@ -27768,27 +27768,7 @@
     <desc lang="it">UEFA Women's Euro : Norway vs Finland trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250706000000 +0200" stop="20250706103000 +0200" channel="577">
-    <title lang="it">Inizierà alle 10:30.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706103000 +0200" stop="20250706123000 +0200" channel="577">
-    <title lang="it">Formula 3 : Qatar Airways British GP - Race</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Race trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250706000000 +0200" stop="20250706123000 +0200" channel="577">
-    <title lang="it">Inizierà alle 12:30.</title>
-    <desc lang="it">Formula 2 : Qatar Airways British GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706123000 +0200" stop="20250706143000 +0200" channel="577">
-    <title lang="it">Formula 2 : Qatar Airways British GP - Race</title>
-    <desc lang="it">Formula 2 : Qatar Airways British GP - Race trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250706143000 +0200" stop="20250706150000 +0200" channel="577">
+  <programme start="20250706000000 +0200" stop="20250706150000 +0200" channel="577">
     <title lang="it">Inizierà alle 15:00.</title>
     <desc lang="it">Formula 1 : Qatar Airways British GP - Grand Prix Sunday.</desc>
     <category lang="it">Annuncio</category>
