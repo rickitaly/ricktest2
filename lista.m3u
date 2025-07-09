@@ -1237,9 +1237,6 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="UEFA Women's Euro : England vs Netherlands (18:00)" tvg-logo="https://i.pinimg.com/originals/f1/44/52/f14452d5301473de3d0eeac5c5e769ad.png" group-title="Eventi Live",UEFA Women's Euro : England vs Netherlands (18:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="1" tvg-name="UEFA Women's Euro : France vs Wales (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/France_vs_Wales.png" group-title="Eventi Live",UEFA Women's Euro : France vs Wales (21:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1.php&redirect_stream=true&api_password=rick
 
@@ -1249,20 +1246,11 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="460" tvg-name="World Championship U20 : New Zealand U20 vs Ireland U20 (18:00)" tvg-logo="https://www.futbol24.com/upload/team/OFC/New-Zealand-U20.png" group-title="Eventi Live",World Championship U20 : New Zealand U20 vs Ireland U20 (18:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-460.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="882" tvg-name="World Championship U20 : Georgia U20 vs Italy U20 (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Georgia U20_vs_Italy U20.png" group-title="Eventi Live",World Championship U20 : Georgia U20 vs Italy U20 (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="460" tvg-name="World Championship U20 : Georgia U20 vs Italy U20 (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Georgia U20_vs_Italy U20.png" group-title="Eventi Live",World Championship U20 : Georgia U20 vs Italy U20 (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-460.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="877" tvg-name="Nations League Women : Italy W vs Belgium W (17:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Italy W_vs_Belgium W.png" group-title="Eventi Live",Nations League Women : Italy W vs Belgium W (17:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=rick
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
