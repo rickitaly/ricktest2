@@ -27020,37 +27020,7 @@
     <desc lang="it">FIFA Club World Cup Final : Chelsea vs PSG trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250713000000 +0200" stop="20250713163000 +0200" channel="576">
-    <title lang="it">Inizierà alle 16:30.</title>
-    <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713163000 +0200" stop="20250713183000 +0200" channel="576">
-    <title lang="it">2025 Wimbledon Championships Gentlemen's Singles Final</title>
-    <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final trasmesso in diretta.</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713163000 +0200" channel="878">
-    <title lang="it">Inizierà alle 16:30.</title>
-    <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713163000 +0200" stop="20250713183000 +0200" channel="878">
-    <title lang="it">2025 Wimbledon Championships Gentlemen's Singles Final</title>
-    <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final trasmesso in diretta.</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713163000 +0200" channel="879">
-    <title lang="it">Inizierà alle 16:30.</title>
-    <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250713163000 +0200" stop="20250713183000 +0200" channel="879">
-    <title lang="it">2025 Wimbledon Championships Gentlemen's Singles Final</title>
-    <desc lang="it">2025 Wimbledon Championships Gentlemen's Singles Final trasmesso in diretta.</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250713183000 +0200" stop="20250713202500 +0200" channel="878">
+  <programme start="20250713000000 +0200" stop="20250713202500 +0200" channel="878">
     <title lang="it">Inizierà alle 20:25.</title>
     <desc lang="it">IFSC World Cup Chamonix | Difficulty (M/F) – Final.</desc>
     <category lang="it">Annuncio</category>
