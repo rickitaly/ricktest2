@@ -1252,9 +1252,6 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Water polo" group-title="Eventi Live",--- Water polo ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="World Championship : Croatia vs Montenegro (11:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Croatia_vs_Montenegro.png" group-title="Eventi Live",World Championship : Croatia vs Montenegro (11:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="882" tvg-name="World Championship : Italy vs Serbia (14:45)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Italy_vs_Serbia.png" group-title="Eventi Live",World Championship : Italy vs Serbia (14:45)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
