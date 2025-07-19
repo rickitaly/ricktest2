@@ -27507,27 +27507,7 @@
     <desc lang="it">UEFA Women's Euro : France vs Germany trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250719000000 +0200" stop="20250719143000 +0200" channel="575">
-    <title lang="it">Inizierà alle 14:30.</title>
-    <desc lang="it">MotoGP : Czech Grand Prix Sprint.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250719143000 +0200" stop="20250719163000 +0200" channel="575">
-    <title lang="it">MotoGP : Czech Grand Prix Sprint</title>
-    <desc lang="it">MotoGP : Czech Grand Prix Sprint trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250719000000 +0200" stop="20250719150000 +0200" channel="882">
-    <title lang="it">Inizierà alle 15:00.</title>
-    <desc lang="it">IAAF Diamond League London Athletics Meet - London Stadium.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250719150000 +0200" stop="20250719170000 +0200" channel="882">
-    <title lang="it">IAAF Diamond League London Athletics Meet - London Stadium</title>
-    <desc lang="it">IAAF Diamond League London Athletics Meet - London Stadium trasmesso in diretta.</desc>
-    <category lang="it">Athletics</category>
-  </programme>
-  <programme start="20250719170000 +0200" stop="20250719211500 +0200" channel="882">
+  <programme start="20250719000000 +0200" stop="20250719211500 +0200" channel="882">
     <title lang="it">Inizierà alle 21:15.</title>
     <desc lang="it">Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero.</desc>
     <category lang="it">Annuncio</category>
