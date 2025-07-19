@@ -28632,16 +28632,6 @@
     <desc lang="it">MotoGP : Czech Grand Prix Sprint trasmesso in diretta.</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20250719000000 +0200" stop="20250719040000 +0200" channel="878">
-    <title lang="it">Inizierà alle 04:00.</title>
-    <desc lang="it">UFC 318 Main Card : Max Holloway vs Dustin Poirier.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250719040000 +0200" stop="20250719060000 +0200" channel="878">
-    <title lang="it">UFC 318 Main Card : Max Holloway vs Dustin Poirier</title>
-    <desc lang="it">UFC 318 Main Card : Max Holloway vs Dustin Poirier trasmesso in diretta.</desc>
-    <category lang="it">MMA</category>
-  </programme>
   <programme start="20250719000000 +0200" stop="20250719150000 +0200" channel="882">
     <title lang="it">Inizierà alle 15:00.</title>
     <desc lang="it">IAAF Diamond League London Athletics Meet - London Stadium.</desc>
@@ -28662,7 +28652,7 @@
     <desc lang="it">Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero trasmesso in diretta.</desc>
     <category lang="it">Athletics</category>
   </programme>
-  <programme start="20250719060000 +0200" stop="20250719202500 +0200" channel="878">
+  <programme start="20250719000000 +0200" stop="20250719202500 +0200" channel="878">
     <title lang="it">Inizierà alle 20:25.</title>
     <desc lang="it">World Cup | Madrid Men's and Women's Lead | Final.</desc>
     <category lang="it">Annuncio</category>
