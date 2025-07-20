@@ -26601,6 +26601,36 @@
 <programme start="20250721214400 +0000" stop="20250721215700 +0000" channel="zonadazn.it"><title>Intervista a Kalulu</title><desc>Un passato in rossonero,...</desc></programme>
 <programme start="20250721215700 +0000" stop="20250721230000 +0000" channel="zonadazn.it"><title>Top 30 Gol - Derby di Roma</title><desc>Derby di Roma - Guarda i 30 gol piu...</desc></programme>
 <programme start="20250721230000 +0000" stop="20250722040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
+<programme start="20250721000000 +0200" stop="20250721160000 +0200" channel="878">
+    <title lang="it">Inizierà alle 16:00.</title>
+    <desc lang="it">Classic Terres de l'Ebre | 188 km.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250721160000 +0200" stop="20250721180000 +0200" channel="878">
+    <title lang="it">Classic Terres de l'Ebre | 188 km</title>
+    <desc lang="it">Classic Terres de l'Ebre | 188 km trasmesso in diretta.</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250721000000 +0200" stop="20250721152500 +0200" channel="882">
+    <title lang="it">Inizierà alle 15:25.</title>
+    <desc lang="it">2025 World Aquatics Championships - Women's Water Polo: 2nd Semifinal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250721152500 +0200" stop="20250721172500 +0200" channel="882">
+    <title lang="it">2025 World Aquatics Championships - Women's Water Polo: 2nd Semifinal</title>
+    <desc lang="it">2025 World Aquatics Championships - Women's Water Polo: 2nd Semifinal trasmesso in diretta.</desc>
+    <category lang="it">Water polo</category>
+  </programme>
+  <programme start="20250721180000 +0200" stop="20250721190000 +0200" channel="878">
+    <title lang="it">Inizierà alle 19:00.</title>
+    <desc lang="it">World University Games Rhine-Ruhr | Matchday 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250721190000 +0200" stop="20250721210000 +0200" channel="878">
+    <title lang="it">World University Games Rhine-Ruhr | Matchday 5</title>
+    <desc lang="it">World University Games Rhine-Ruhr | Matchday 5 trasmesso in diretta.</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250720185500 +0000" stop="20250720192300 +0000">
     <title>FailFactory: Medic!</title>
     <episode-num system="onscreen">S07E703</episode-num>
