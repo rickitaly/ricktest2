@@ -26174,17 +26174,7 @@
 <programme start="20250724202900 +0000" stop="20250724205000 +0000" channel="zonadazn.it"><title>Missione Siviglia</title><desc>Diletta Leotta torna in Spagna...</desc></programme>
 <programme start="20250724205000 +0000" stop="20250724230000 +0000" channel="zonadazn.it"><title>Atleti</title><desc>Atleti</desc></programme>
 <programme start="20250724230000 +0000" stop="20250725040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250723000000 +0200" stop="20250723193000 +0200" channel="55">
-    <title lang="it">Inizierà alle 19:30.</title>
-    <desc lang="it">Club Friendly : Galatasaray vs Cagliari.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723193000 +0200" stop="20250723213000 +0200" channel="55">
-    <title lang="it">Club Friendly : Galatasaray vs Cagliari</title>
-    <desc lang="it">Club Friendly : Galatasaray vs Cagliari trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723210000 +0200" channel="882">
+<programme start="20250723000000 +0200" stop="20250723210000 +0200" channel="882">
     <title lang="it">Inizierà alle 21:00.</title>
     <desc lang="it">UEFA W. EURO : Germany vs Spain.</desc>
     <category lang="it">Annuncio</category>
@@ -26193,16 +26183,6 @@
     <title lang="it">UEFA W. EURO : Germany vs Spain</title>
     <desc lang="it">UEFA W. EURO : Germany vs Spain trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723193000 +0200" channel="878">
-    <title lang="it">Inizierà alle 19:30.</title>
-    <desc lang="it">Nations League Women : Poland W vs China W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723193000 +0200" stop="20250723213000 +0200" channel="878">
-    <title lang="it">Nations League Women : Poland W vs China W</title>
-    <desc lang="it">Nations League Women : Poland W vs China W trasmesso in diretta.</desc>
-    <category lang="it">Volleyball</category>
   </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250723164100 +0000" stop="20250723170900 +0000">
     <title>FailFactory: Freedom Fails</title>
