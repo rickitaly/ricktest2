@@ -29225,17 +29225,7 @@
 <programme start="20250727215000 +0000" stop="20250727221000 +0000" channel="zonadazn.it"><title>LBA 2024/25 Matchday Highlights 2024 Finale - Stag. 2024 - Finale</title></programme>
 <programme start="20250727221000 +0000" stop="20250727230000 +0000" channel="zonadazn.it"><title>Stag. 2025 - Quella volta che - Milan - Inter</title><desc>Quella volta che - Milan - Inter...</desc></programme>
 <programme start="20250727230000 +0000" stop="20250728040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250727000000 +0200" stop="20250727180000 +0200" channel="882">
-    <title lang="it">Inizierà alle 18:00.</title>
-    <desc lang="it">UEFA Women's Euro : England vs Spain.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250727180000 +0200" stop="20250727200000 +0200" channel="882">
-    <title lang="it">UEFA Women's Euro : England vs Spain</title>
-    <desc lang="it">UEFA Women's Euro : England vs Spain trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250727000000 +0200" stop="20250727203000 +0200" channel="877">
+<programme start="20250727000000 +0200" stop="20250727203000 +0200" channel="877">
     <title lang="it">Inizierà alle 20:30.</title>
     <desc lang="it">Club Friendly : Como vs Ajax.</desc>
     <category lang="it">Annuncio</category>
