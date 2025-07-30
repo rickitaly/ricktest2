@@ -28256,17 +28256,7 @@
 <programme start="20250731204800 +0000" stop="20250731210600 +0000" channel="zonadazn.it"><title>Top 30 Gol El Clasico</title><desc>Rivivi i 30 gol piu belli...</desc></programme>
 <programme start="20250731210600 +0000" stop="20250731223000 +0000" channel="zonadazn.it"><title>BordoCam Real Madrid - Barcellona</title><desc>Barcellona - E sempre...</desc></programme>
 <programme start="20250731223000 +0000" stop="20250801040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250730000000 +0200" stop="20250730033000 +0200" channel="870">
-    <title lang="it">Inizierà alle 03:30.</title>
-    <desc lang="it">Premier League Summer Series : Manchester United vs AFC Bournemouth.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250730033000 +0200" stop="20250730053000 +0200" channel="870">
-    <title lang="it">Premier League Summer Series : Manchester United vs AFC Bournemouth</title>
-    <desc lang="it">Premier League Summer Series : Manchester United vs AFC Bournemouth trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250730000000 +0200" stop="20250730180000 +0200" channel="55">
+<programme start="20250730000000 +0200" stop="20250730180000 +0200" channel="55">
     <title lang="it">Inizierà alle 18:00.</title>
     <desc lang="it">Club Friendly : Monaco vs Torino.</desc>
     <category lang="it">Annuncio</category>
@@ -28286,7 +28276,7 @@
     <desc lang="it">Club Friendly : Fenerbahçe vs Lazio trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250730053000 +0200" stop="20250731003000 +0200" channel="870">
+  <programme start="20250731000000 +0200" stop="20250731003000 +0200" channel="870">
     <title lang="it">Inizierà alle 00:30.</title>
     <desc lang="it">Premier League Summer Series : West Ham United vs Everton.</desc>
     <category lang="it">Annuncio</category>
