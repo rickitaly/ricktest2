@@ -1237,9 +1237,6 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="55" tvg-name="Club Friendly : Monaco vs Torino (18:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Monaco_vs_Torino.png" group-title="Eventi Live",Club Friendly : Monaco vs Torino (18:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-55.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="59" tvg-name="Club Friendly : Fenerbahçe vs Lazio (19:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Fenerbahçe_vs_Lazio.png" group-title="Eventi Live",Club Friendly : Fenerbahçe vs Lazio (19:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true&api_password=rick
 
