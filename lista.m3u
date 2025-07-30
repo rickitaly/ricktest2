@@ -1243,9 +1243,6 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="59" tvg-name="Club Friendly : Fenerbahçe vs Lazio (19:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Fenerbahçe_vs_Lazio.png" group-title="Eventi Live",Club Friendly : Fenerbahçe vs Lazio (19:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="870" tvg-name="Premier League Summer Series : Manchester United vs AFC Bournemouth (03:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Manchester United_vs_AFC Bournemouth.png" group-title="Eventi Live",Premier League Summer Series : Manchester United vs AFC Bournemouth (03:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
 https://example.m3u8
 
@@ -1267,7 +1264,7 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="882" tvg-name="World Aquatics Championships 2025 - Pool Swimming: Day 3 Semifinals and Finals (09:35)" tvg-logo="https://thumbor.prod.vidiocdn.com/1PJrrwza6E8n76ncCjCrQ83LBMU=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/472/world-aquatics-aee3e1.png" group-title="Eventi Live",World Aquatics Championships 2025 - Pool Swimming: Day 3 Semifinals and Finals (09:35)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="882" tvg-name="Mixed 3m Springboard Synchro Final (11:00)" tvg-logo="https://oceansynchro.io/wp-content/themes/synchro/downloads/Synchro_Logo-blue_5-13-23.png" group-title="Eventi Live",Mixed 3m Springboard Synchro Final (11:00)
+#EXTINF:-1 tvg-id="882" tvg-name="Mixed 3m Springboard Synchro Final (11:00)" tvg-logo="https://cdn.shopify.com/s/files/1/0254/9799/3297/files/Brossard_Synchro_Logo.png?v=1666818580" group-title="Eventi Live",Mixed 3m Springboard Synchro Final (11:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
 
