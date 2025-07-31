@@ -27257,17 +27257,7 @@
 <programme start="20250801194500 +0000" stop="20250801200200 +0000" channel="zonadazn.it"><title>Top 30 Gol - Derby di Roma</title><desc>Derby di Roma - Guarda i 30 gol piu...</desc></programme>
 <programme start="20250801200200 +0000" stop="20250801223000 +0000" channel="zonadazn.it"><title>Nico Paz</title><desc>Nico Paz</desc></programme>
 <programme start="20250801223000 +0000" stop="20250802040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250731000000 +0200" stop="20250731080000 +0200" channel="878">
-    <title lang="it">Inizierà alle 08:00.</title>
-    <desc lang="it">Shanghai Masters Round 2 | Day 4.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250731080000 +0200" stop="20250731100000 +0200" channel="878">
-    <title lang="it">Shanghai Masters Round 2 | Day 4</title>
-    <desc lang="it">Shanghai Masters Round 2 | Day 4 trasmesso in diretta.</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20250731000000 +0200" stop="20250731133000 +0200" channel="879">
+<programme start="20250731000000 +0200" stop="20250731133000 +0200" channel="879">
     <title lang="it">Inizierà alle 13:30.</title>
     <desc lang="it">Shanghai Masters Round 2 | Day 4.</desc>
     <category lang="it">Annuncio</category>
@@ -27277,7 +27267,7 @@
     <desc lang="it">Shanghai Masters Round 2 | Day 4 trasmesso in diretta.</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <programme start="20250731100000 +0200" stop="20250731151500 +0200" channel="878">
+  <programme start="20250731000000 +0200" stop="20250731151500 +0200" channel="878">
     <title lang="it">Inizierà alle 15:15.</title>
     <desc lang="it">Tour de France | Stage 6 Female Mountain | 124 km.</desc>
     <category lang="it">Annuncio</category>
