@@ -27266,6 +27266,156 @@
 <programme start="20250802212500 +0000" stop="20250802214500 +0000" channel="zonadazn.it"><title>Dodô</title><desc>Dodo</desc></programme>
 <programme start="20250802214500 +0000" stop="20250802223000 +0000" channel="zonadazn.it"><title>Nico Paz</title><desc>Nico Paz</desc></programme>
 <programme start="20250802223000 +0000" stop="20250803040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
+<programme start="20250802000000 +0200" stop="20250802110000 +0200" channel="877">
+    <title lang="it">Inizierà alle 11:00.</title>
+    <desc lang="it">Club Friendly : Juventus vs Reggiana.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802110000 +0200" stop="20250802130000 +0200" channel="877">
+    <title lang="it">Club Friendly : Juventus vs Reggiana</title>
+    <desc lang="it">Club Friendly : Juventus vs Reggiana trasmesso in diretta.</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250802000000 +0200" stop="20250802150000 +0200" channel="55">
+    <title lang="it">Inizierà alle 15:00.</title>
+    <desc lang="it">Club Friendly : RB Leipzig vs Atalanta.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802150000 +0200" stop="20250802170000 +0200" channel="55">
+    <title lang="it">Club Friendly : RB Leipzig vs Atalanta</title>
+    <desc lang="it">Club Friendly : RB Leipzig vs Atalanta trasmesso in diretta.</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250802130000 +0200" stop="20250802180000 +0200" channel="877">
+    <title lang="it">Inizierà alle 18:00.</title>
+    <desc lang="it">Club Friendly : Lens vs Roma.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802180000 +0200" stop="20250802200000 +0200" channel="877">
+    <title lang="it">Club Friendly : Lens vs Roma</title>
+    <desc lang="it">Club Friendly : Lens vs Roma trasmesso in diretta.</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250802170000 +0200" stop="20250802200000 +0200" channel="55">
+    <title lang="it">Inizierà alle 20:00.</title>
+    <desc lang="it">Club Friendly : Galatasaray vs Lazio.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802200000 +0200" stop="20250802220000 +0200" channel="55">
+    <title lang="it">Club Friendly : Galatasaray vs Lazio</title>
+    <desc lang="it">Club Friendly : Galatasaray vs Lazio trasmesso in diretta.</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250802200000 +0200" stop="20250802203000 +0200" channel="877">
+    <title lang="it">Inizierà alle 20:30.</title>
+    <desc lang="it">Club Friendly : Cagliari vs Saint-Étienne.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802203000 +0200" stop="20250802223000 +0200" channel="877">
+    <title lang="it">Club Friendly : Cagliari vs Saint-Étienne</title>
+    <desc lang="it">Club Friendly : Cagliari vs Saint-Étienne trasmesso in diretta.</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250802000000 +0200" stop="20250802100500 +0200" channel="577">
+    <title lang="it">Inizierà alle 10:05.</title>
+    <desc lang="it">Formula 3 : Lenovo Hungarian Grand Prix - Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802100500 +0200" stop="20250802120500 +0200" channel="577">
+    <title lang="it">Formula 3 : Lenovo Hungarian Grand Prix - Sprint Race</title>
+    <desc lang="it">Formula 3 : Lenovo Hungarian Grand Prix - Sprint Race trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250802120500 +0200" stop="20250802123000 +0200" channel="577">
+    <title lang="it">Inizierà alle 12:30.</title>
+    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Practice 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802123000 +0200" stop="20250802143000 +0200" channel="577">
+    <title lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Practice 3</title>
+    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Practice 3 trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250802000000 +0200" stop="20250802141500 +0200" channel="577">
+    <title lang="it">Inizierà alle 14:15.</title>
+    <desc lang="it">Formula 2 : Lenovo Hungarian Grand Prix - Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802141500 +0200" stop="20250802161500 +0200" channel="577">
+    <title lang="it">Formula 2 : Lenovo Hungarian Grand Prix - Sprint Race</title>
+    <desc lang="it">Formula 2 : Lenovo Hungarian Grand Prix - Sprint Race trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250802000000 +0200" stop="20250802160000 +0200" channel="577">
+    <title lang="it">Inizierà alle 16:00.</title>
+    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802160000 +0200" stop="20250802180000 +0200" channel="577">
+    <title lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Qualifying</title>
+    <desc lang="it">Formula 1 : Lenovo Hungarian Grand Prix - Qualifying trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250802000000 +0200" stop="20250802030000 +0200" channel="878">
+    <title lang="it">Inizierà alle 03:00.</title>
+    <desc lang="it">UFC Fight Night Main Card : Tatsuro Taira vs Hyun Sung Park.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802030000 +0200" stop="20250802050000 +0200" channel="878">
+    <title lang="it">UFC Fight Night Main Card : Tatsuro Taira vs Hyun Sung Park</title>
+    <desc lang="it">UFC Fight Night Main Card : Tatsuro Taira vs Hyun Sung Park trasmesso in diretta.</desc>
+    <category lang="it">MMA</category>
+  </programme>
+  <programme start="20250802050000 +0200" stop="20250802080000 +0200" channel="878">
+    <title lang="it">Inizierà alle 08:00.</title>
+    <desc lang="it">Shanghai Masters Round 2 | Day 6.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802080000 +0200" stop="20250802100000 +0200" channel="878">
+    <title lang="it">Shanghai Masters Round 2 | Day 6</title>
+    <desc lang="it">Shanghai Masters Round 2 | Day 6 trasmesso in diretta.</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20250802000000 +0200" stop="20250802133000 +0200" channel="879">
+    <title lang="it">Inizierà alle 13:30.</title>
+    <desc lang="it">Shanghai Masters Round 2 | Day 6.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802133000 +0200" stop="20250802153000 +0200" channel="879">
+    <title lang="it">Shanghai Masters Round 2 | Day 6</title>
+    <desc lang="it">Shanghai Masters Round 2 | Day 6 trasmesso in diretta.</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20250802000000 +0200" stop="20250802121500 +0200" channel="879">
+    <title lang="it">Inizierà alle 12:15.</title>
+    <desc lang="it">Athletics: German Championships Women's Hammer Throw, Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802121500 +0200" stop="20250802141500 +0200" channel="879">
+    <title lang="it">Athletics: German Championships Women's Hammer Throw, Final</title>
+    <desc lang="it">Athletics: German Championships Women's Hammer Throw, Final trasmesso in diretta.</desc>
+    <category lang="it">Athletics</category>
+  </programme>
+  <programme start="20250802100000 +0200" stop="20250802134000 +0200" channel="878">
+    <title lang="it">Inizierà alle 13:40.</title>
+    <desc lang="it">Tour de France Women: Stage 8 Mountain | 112 km.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802134000 +0200" stop="20250802154000 +0200" channel="878">
+    <title lang="it">Tour de France Women: Stage 8 Mountain | 112 km</title>
+    <desc lang="it">Tour de France Women: Stage 8 Mountain | 112 km trasmesso in diretta.</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250802000000 +0200" stop="20250802120000 +0200" channel="882">
+    <title lang="it">Inizierà alle 12:00.</title>
+    <desc lang="it">Women's 3m Springboard Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250802120000 +0200" stop="20250802140000 +0200" channel="882">
+    <title lang="it">Women's 3m Springboard Final</title>
+    <desc lang="it">Women's 3m Springboard Final trasmesso in diretta.</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250801183700 +0000" stop="20250801190700 +0000">
     <title>FailArmy</title>
     <live />
