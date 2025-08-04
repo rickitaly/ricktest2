@@ -1237,7 +1237,7 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km) (11:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km) (11:45)
+#EXTINF:-1 tvg-id="878" tvg-name="Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km) (11:45)" tvg-logo="https://www.proximus.be/dam/cdn/sites/iportal/images/illustrations/logos/sports-competitions/sports-competitions-2209/Cycling/tour-pologne-logo-cycling-2209.png" group-title="Eventi Live",Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km) (11:45)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 
