@@ -1237,10 +1237,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="461" tvg-name="UEFA Conference League : Zhytomyr vs Fiorentina (20:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/vTDxtiWVFeKnA52/polissya-zhytomyr-1967-1976-logo.png" group-title="Eventi Live",UEFA Conference League : Zhytomyr vs Fiorentina (20:00)
+#EXTINF:-1 tvg-id="461" tvg-name="UEFA Conference League : Zhytomyr vs Fiorentina (20:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Zhytomyr_vs_Fiorentina.png" group-title="Eventi Live",UEFA Conference League : Zhytomyr vs Fiorentina (20:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="870" tvg-name="UEFA Conference League : Zhytomyr vs Fiorentina (20:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/vTDxtiWVFeKnA52/polissya-zhytomyr-1967-1976-logo.png" group-title="Eventi Live",UEFA Conference League : Zhytomyr vs Fiorentina (20:00)
+#EXTINF:-1 tvg-id="870" tvg-name="UEFA Conference League : Zhytomyr vs Fiorentina (20:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Zhytomyr_vs_Fiorentina.png" group-title="Eventi Live",UEFA Conference League : Zhytomyr vs Fiorentina (20:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
