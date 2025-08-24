@@ -1282,7 +1282,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="77" tvg-name="Italy - Serie A : Atalanta vs Pisa (20:45)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Atalanta_vs_Pisa.png" group-title="Eventi Live",Italy - Serie A : Atalanta vs Pisa (20:45)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-77.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A : Juventus vs Parma (20:45)" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Juventus-Logo-PNG-Image-File.png" group-title="Eventi Live",Italy - Serie A : Juventus vs Parma (20:45)
+#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A : Juventus vs Parma (20:45)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2020/12/Juventus_Logo.png" group-title="Eventi Live",Italy - Serie A : Juventus vs Parma (20:45)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="109" tvg-name="Italy - Serie C : Vicenza vs Lumezzane (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Vicenza_vs_Lumezzane.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Lumezzane (21:00)
@@ -1312,16 +1312,13 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Hungarian Grand Prix Race (12:00)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Moto2 : Hungarian Grand Prix Race (12:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="879" tvg-name="MX2 | Netherlands World Championship | Race 1 (13:00)" tvg-logo="https://www.strongfishing.com/wp-content/uploads/2024/01/MX2_2021_1530820_alt2.png" group-title="Eventi Live",MX2 | Netherlands World Championship | Race 1 (13:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Hungarian Grand Prix Race (13:15)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/motogp-logo-png_seeklogo-410139.png" group-title="Eventi Live",MotoGP : Hungarian Grand Prix Race (13:15)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="879" tvg-name="MXGP | Netherlands World Championship | Race 1 (14:00)" tvg-logo="https://www.mxgp.com/sites/default/files/images/PNG_OK(1).png" group-title="Eventi Live",MXGP | Netherlands World Championship | Race 1 (14:00)
+#EXTINF:-1 tvg-id="879" tvg-name="MXGP | Netherlands World Championship | Race 1 (14:00)" tvg-logo="https://www.spiralgfx.com/cdn/shop/files/kx_PC23_2_1024x.png?v=1683032056" group-title="Eventi Live",MXGP | Netherlands World Championship | Race 1 (14:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="879" tvg-name="MX2 | Netherlands World Championship | Race 2 (16:00)" tvg-logo="https://www.strongfishing.com/wp-content/uploads/2024/01/MX2_2021_1530820_alt2.png" group-title="Eventi Live",MX2 | Netherlands World Championship | Race 2 (16:00)
@@ -1338,15 +1335,6 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 
 #EXTINF:-1 tvg-id="879" tvg-name="Tour de Benelux | Stage 5 Masculine (14:00)" tvg-logo="https://i.imgur.com/yBx62u5.png" group-title="Eventi Live",Tour de Benelux | Stage 5 Masculine (14:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="877" tvg-name="World Championship Women : Italy W vs Cuba W (12:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Italy W_vs_Cuba W.png" group-title="Eventi Live",World Championship Women : Italy W vs Cuba W (12:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="851" tvg-name="World Championship Women : Italy W vs Cuba W (12:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Italy W_vs_Cuba W.png" group-title="Eventi Live",World Championship Women : Italy W vs Cuba W (12:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=rick
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
