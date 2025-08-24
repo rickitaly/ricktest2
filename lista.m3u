@@ -1303,7 +1303,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="27" tvg-name="Italy - Serie C : Monopoli vs Cosenza (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Monopoli_vs_Cosenza.png" group-title="Eventi Live",Italy - Serie C : Monopoli vs Cosenza (21:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-27.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="86" tvg-name="Italy - Serie B : Catanzaro vs Südtirol (21:00)" tvg-logo="https://dati.comune.catanzaro.it/base/images/logo_catanzaro-mini.png" group-title="Eventi Live",Italy - Serie B : Catanzaro vs Südtirol (21:00)
+#EXTINF:-1 tvg-id="86" tvg-name="Italy - Serie B : Catanzaro vs Südtirol (21:00)" tvg-logo="https://i.pinimg.com/originals/88/c9/b9/88c9b942cad5fa2720f0677373e789f2.png" group-title="Eventi Live",Italy - Serie B : Catanzaro vs Südtirol (21:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-86.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="105" tvg-name="Italy - Serie B : Frosinone vs Avellino (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Frosinone_vs_Avellino.png" group-title="Eventi Live",Italy - Serie B : Frosinone vs Avellino (21:00)
@@ -1342,7 +1342,7 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="878" tvg-name="The Vuelta a España: Stage 2 Hilly | 157 km (13:30)" tvg-logo="https://www.sportpools.net/dist/images/logos/logo-vuelta.png" group-title="Eventi Live",The Vuelta a España: Stage 2 Hilly | 157 km (13:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="879" tvg-name="Tour de Benelux | Stage 5 Masculine (14:00)" tvg-logo="https://images.seeklogo.com/logo-png/8/2/le-tour-de-france-2000-logo-png_seeklogo-82858.png" group-title="Eventi Live",Tour de Benelux | Stage 5 Masculine (14:00)
+#EXTINF:-1 tvg-id="879" tvg-name="Tour de Benelux | Stage 5 Masculine (14:00)" tvg-logo="https://i.imgur.com/yBx62u5.png" group-title="Eventi Live",Tour de Benelux | Stage 5 Masculine (14:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
