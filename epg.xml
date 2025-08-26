@@ -26166,26 +26166,6 @@
     <desc lang="it">The Vuelta a Espa?a: Stage 4 Mountain | 192 km trasmesso in diretta.</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <programme start="20250826000000 +0200" stop="20250826120000 +0200" channel="877">
-    <title lang="it">Inizierà alle 12:00.</title>
-    <desc lang="it">FIVB World Championship Women : Italy vs. Belgium.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250826120000 +0200" stop="20250826140000 +0200" channel="877">
-    <title lang="it">FIVB World Championship Women : Italy vs. Belgium</title>
-    <desc lang="it">FIVB World Championship Women : Italy vs. Belgium trasmesso in diretta.</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20250826000000 +0200" stop="20250826120000 +0200" channel="851">
-    <title lang="it">Inizierà alle 12:00.</title>
-    <desc lang="it">FIVB World Championship Women : Italy vs. Belgium.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250826120000 +0200" stop="20250826140000 +0200" channel="851">
-    <title lang="it">FIVB World Championship Women : Italy vs. Belgium</title>
-    <desc lang="it">FIVB World Championship Women : Italy vs. Belgium trasmesso in diretta.</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250826083700 +0000" stop="20250826090700 +0000">
     <title>FailArmy</title>
     <live />
