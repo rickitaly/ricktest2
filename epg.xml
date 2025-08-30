@@ -23733,17 +23733,7 @@
 <programme start="20250831205600 +0000" stop="20250831213000 +0000" channel="zonadazn.it"><title>Roma</title><desc>Roma</desc></programme>
 <programme start="20250831213000 +0000" stop="20250831223000 +0000" channel="zonadazn.it"><title>Decido io</title><desc>Un viaggio dietro le quinte della...</desc></programme>
 <programme start="20250831223000 +0000" stop="20250901040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250830000000 +0200" stop="20250830133000 +0200" channel="870">
-    <title lang="it">Inizierà alle 13:30.</title>
-    <desc lang="it">England - Premier League : Chelsea vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250830133000 +0200" stop="20250830153000 +0200" channel="870">
-    <title lang="it">England - Premier League : Chelsea vs Fulham</title>
-    <desc lang="it">England - Premier League : Chelsea vs Fulham trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250830153000 +0200" stop="20250830160000 +0200" channel="870">
+<programme start="20250830000000 +0200" stop="20250830160000 +0200" channel="870">
     <title lang="it">Inizierà alle 16:00.</title>
     <desc lang="it">England - Premier League : Manchester United vs Burnley.</desc>
     <category lang="it">Annuncio</category>
@@ -24032,16 +24022,6 @@
     <title lang="it">Formula 1 : Heineken Dutch Grand Prix - Qualifying</title>
     <desc lang="it">Formula 1 : Heineken Dutch Grand Prix - Qualifying trasmesso in diretta.</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250830000000 +0200" stop="20250830140000 +0200" channel="851">
-    <title lang="it">Inizierà alle 14:00.</title>
-    <desc lang="it">EuroBasket : Italy vs Georgia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250830140000 +0200" stop="20250830160000 +0200" channel="851">
-    <title lang="it">EuroBasket : Italy vs Georgia</title>
-    <desc lang="it">EuroBasket : Italy vs Georgia trasmesso in diretta.</desc>
-    <category lang="it">Basketball</category>
   </programme>
   <programme start="20250830000000 +0200" stop="20250830150000 +0200" channel="878">
     <title lang="it">Inizierà alle 15:00.</title>
