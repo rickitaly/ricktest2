@@ -1237,21 +1237,6 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="173" tvg-name="Italy - Serie C : Triestina vs Lecco (18:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Triestina_vs_Lecco.png" group-title="Eventi Live",Italy - Serie C : Triestina vs Lecco (18:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-173.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="174" tvg-name="Italy - Serie C : Renate vs Giana Erminio (18:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Renate_vs_Giana Erminio.png" group-title="Eventi Live",Italy - Serie C : Renate vs Giana Erminio (18:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-174.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="29" tvg-name="Italy - Serie C : Campobasso vs Sassari Torres (18:00)" tvg-logo="https://cb1919.com/wp-content/uploads/2023/06/cropped-1D_2023-logo-Campobasso-FC-def-web.png" group-title="Eventi Live",Italy - Serie C : Campobasso vs Sassari Torres (18:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-29.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="175" tvg-name="Italy - Serie C : Bra vs Perugia (18:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Bra_vs_Perugia.png" group-title="Eventi Live",Italy - Serie C : Bra vs Perugia (18:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-175.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="176" tvg-name="Italy - Serie C : Cavese vs Catania (18:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Cavese_vs_Catania.png" group-title="Eventi Live",Italy - Serie C : Cavese vs Catania (18:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-176.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : Leeds United vs Newcastle United (18:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Leeds United_vs_Newcastle United.png" group-title="Eventi Live",England - Premier League : Leeds United vs Newcastle United (18:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
 
