@@ -28744,26 +28744,6 @@
 <programme start="20250907083000 +0000" stop="20250907105900 +0000" channel="zonadazn.it"><title>World Championship F - Stag. 2025 - Finale 3rzo e 4rto posto</title><desc>Stag. 2025 - Finale 3rzo...</desc></programme>
 <programme start="20250907105900 +0000" stop="20250907113300 +0000" channel="zonadazn.it"><title>Silvio Baldini - Questo è calcio</title><desc>Questo è calcio - Geniale, eccentrico...</desc></programme>
 <programme start="20250907113300 +0000" stop="20250907120700 +0000" channel="zonadazn.it"><title>Roma</title><desc>Roma</desc></programme>
-<programme start="20250905000000 +0200" stop="20250905204500 +0200" channel="850">
-    <title lang="it">Inizierà alle 20:45.</title>
-    <desc lang="it">World Cup Qualifying : Italy vs Estonia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250905204500 +0200" stop="20250905224500 +0200" channel="850">
-    <title lang="it">World Cup Qualifying : Italy vs Estonia</title>
-    <desc lang="it">World Cup Qualifying : Italy vs Estonia trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250905000000 +0200" stop="20250905204500 +0200" channel="460">
-    <title lang="it">Inizierà alle 20:45.</title>
-    <desc lang="it">World Cup Qualifying : Ukraine vs France.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250905204500 +0200" stop="20250905224500 +0200" channel="460">
-    <title lang="it">World Cup Qualifying : Ukraine vs France</title>
-    <desc lang="it">World Cup Qualifying : Ukraine vs France trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250905183700 +0000" stop="20250905190700 +0000">
     <title>FailArmy</title>
     <live />
