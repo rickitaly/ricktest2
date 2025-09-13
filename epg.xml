@@ -26024,41 +26024,6 @@
 <programme start="20250914184500 +0000" stop="20250914205500 +0000" channel="zonadazn.it"><title>Milan - Bologna</title><desc>Bologna - Serie A</desc></programme>
 <programme start="20250914205500 +0000" stop="20250914211500 +0000" channel="zonadazn.it"><title>Mario Balotelli</title><desc>A 34 anni Mario Balotelli ripercorre...</desc></programme>
 <programme start="20250914211500 +0000" stop="20250915040000 +0000" channel="zonadazn.it"><title>Palermo Sunrise</title><desc>I gol di Amauri, le prodezze...</desc></programme>
-<programme start="20250913000000 +0200" stop="20250913204500 +0200" channel="166">
-    <title lang="it">Inizierà alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Napoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913204500 +0200" stop="20250913224500 +0200" channel="166">
-    <title lang="it">Italy - Serie A : Fiorentina vs Napoli</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Napoli trasmesso in diretta.</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20250913000000 +0200" stop="20250913204500 +0200" channel="870">
-    <title lang="it">Inizierà alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Napoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913204500 +0200" stop="20250913224500 +0200" channel="870">
-    <title lang="it">Italy - Serie A : Fiorentina vs Napoli</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Napoli trasmesso in diretta.</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20250913000000 +0200" stop="20250913210000 +0200" channel="462">
-    <title lang="it">Inizierà alle 21:00.</title>
-    <desc lang="it">England - Premier League : Brentford vs Chelsea.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250913210000 +0200" stop="20250913230000 +0200" channel="462">
-    <title lang="it">England - Premier League : Brentford vs Chelsea</title>
-    <desc lang="it">England - Premier League : Brentford vs Chelsea trasmesso in diretta.</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20250914000000 +0200" stop="20250914020000 +0200" channel="879">
-    <title lang="it">UFC Fight Night Main Card : Diego Lopes vs Jean Silva</title>
-    <desc lang="it">UFC Fight Night Main Card : Diego Lopes vs Jean Silva trasmesso in diretta.</desc>
-    <category lang="it">MMA</category>
-  </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250913183700 +0000" stop="20250913190700 +0000">
     <title>FailArmy</title>
     <live />
