@@ -1309,7 +1309,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="870" tvg-name="Italy - Serie A : Sassuolo vs Lazio (18:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Sassuolo_vs_Lazio.png" group-title="Eventi Live",Italy - Serie A : Sassuolo vs Lazio (18:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="154" tvg-name="Italy - Serie B : Empoli vs Spezia (19:30)" tvg-logo="https://logodetimes.com/times/empoli-football-club/empoli-football-club-4096.png" group-title="Eventi Live",Italy - Serie B : Empoli vs Spezia (19:30)
+#EXTINF:-1 tvg-id="154" tvg-name="Italy - Serie B : Empoli vs Spezia (19:30)" tvg-logo="https://www.empoli.ie/images/fiverr-design-empoli-kmp-edited/Empoli1.1-kmp-edited-800x800.png" group-title="Eventi Live",Italy - Serie B : Empoli vs Spezia (19:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-154.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="28" tvg-name="Italy - Serie C : Ternana vs Athletic Carpi (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Ternana_vs_Athletic Carpi.png" group-title="Eventi Live",Italy - Serie C : Ternana vs Athletic Carpi (20:30)
@@ -1336,17 +1336,8 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto2 : GP San Marino Race (12:00)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Moto2 : GP San Marino Race (12:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="575" tvg-name="MotoGP : GP San Marino Race (14:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : GP San Marino Race (14:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="851" tvg-name="World Championships Tokyo | Day 2 | Session 2 (11:30)" tvg-logo="https://kream-phinf.pstatic.net/MjAyNDA1MjJfNzgg/MDAxNzE2Mzg2ODM2MjEz.rSjUw0qCQdQIRUUpd5b2maOnillucA8B-VBNyFkd84Ug.gmFk0KueyEsg9vw4sq1Qn_88Dkym5dUnqyh1cJR16GYg.PNG/a_96193aabb3db432cbfd8cc55d99fded1.png?type=l" group-title="Eventi Live",World Championships Tokyo | Day 2 | Session 2 (11:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Baseball" group-title="Eventi Live",--- Baseball ---
 https://example.m3u8
@@ -1369,7 +1360,7 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="878" tvg-name="Vuelta a Espana Stage 21 - 101 Alalpardo - Madrid Flat | 101 km | 917 m (16:30)" tvg-logo="https://www.hiruhaundiak.com/imagenes_banners/wE6Wtvxr_Enara_fondoblanco.png" group-title="Eventi Live",Vuelta a Espana Stage 21 - 101 Alalpardo - Madrid Flat | 101 km | 917 m (16:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="878" tvg-name="Grand Prix Cycliste de Montreal Men | Montreal (209.1km) (15:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Grand Prix Cycliste de Montreal Men | Montreal (209.1km) (15:30)
+#EXTINF:-1 tvg-id="878" tvg-name="Grand Prix Cycliste de Montreal Men | Montreal (209.1km) (15:30)" tvg-logo="https://static.flashscore.com/res/image/data/lpnRZb9j-YgN226KF.png" group-title="Eventi Live",Grand Prix Cycliste de Montreal Men | Montreal (209.1km) (15:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Equestrian" group-title="Eventi Live",--- Equestrian ---
