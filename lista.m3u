@@ -1234,7 +1234,7 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2989824407/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
+#EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
 #EXTINF:-1 tvg-id="857" tvg-name="Coppa Italia : Cagliari vs Frosinone (17:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Cagliari_vs_Frosinone.png" group-title="Eventi Live",Coppa Italia : Cagliari vs Frosinone (17:00)
@@ -1294,22 +1294,22 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="576" tvg-name="ATP 250 Chengdu, ATP 250 Hangzhou (13:00)" tvg-logo="https://golifescience.com/wp-content/uploads/2022/12/atp-cycle.png" group-title="Eventi Live",ATP 250 Chengdu, ATP 250 Hangzhou (13:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="576" tvg-name="Tokyo-ATP & Beijing-WTA 1st Round (04:00)" tvg-logo="https://www.phenomenalglobe.com/wp-content/uploads/2019/12/Tokyo-Tower-at-night.jpg" group-title="Eventi Live",Tokyo-ATP & Beijing-WTA 1st Round (04:00)
+#EXTINF:-1 tvg-id="576" tvg-name="Tokyo-ATP & Beijing-WTA 1st Round (04:00)" tvg-logo="https://hoponworld.com/wp-content/uploads/2021/05/tokyo-tower-japan-landmark-1200x900.jpg" group-title="Eventi Live",Tokyo-ATP & Beijing-WTA 1st Round (04:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)" tvg-logo="https://kigaliairporttransfers.com/wp-content/uploads/2022/12/get-logo-whatsapp-png-pictures-1.png" group-title="Eventi Live",Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)
+#EXTINF:-1 tvg-id="882" tvg-name="Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Escudo_de_Atlético_Junior.svg/1200px-Escudo_de_Atlético_Junior.svg.png" group-title="Eventi Live",Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="878" tvg-name="Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)" tvg-logo="https://kigaliairporttransfers.com/wp-content/uploads/2022/12/get-logo-whatsapp-png-pictures-1.png" group-title="Eventi Live",Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)
+#EXTINF:-1 tvg-id="878" tvg-name="Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Escudo_de_Atlético_Junior.svg/1200px-Escudo_de_Atlético_Junior.svg.png" group-title="Eventi Live",Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="882" tvg-name="Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)" tvg-logo="https://event-assets.gsma.com/Logos/logo-mwc-gsma-300x300-optimised.png" group-title="Eventi Live",Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)
+#EXTINF:-1 tvg-id="882" tvg-name="Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Escudo_de_Atlético_Junior.svg/1200px-Escudo_de_Atlético_Junior.svg.png" group-title="Eventi Live",Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="878" tvg-name="Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)" tvg-logo="https://event-assets.gsma.com/Logos/logo-mwc-gsma-300x300-optimised.png" group-title="Eventi Live",Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)
+#EXTINF:-1 tvg-id="878" tvg-name="Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Escudo_de_Atlético_Junior.svg/1200px-Escudo_de_Atlético_Junior.svg.png" group-title="Eventi Live",Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Futsal" group-title="Eventi Live",--- Futsal ---
