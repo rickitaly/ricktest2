@@ -1237,16 +1237,13 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="857" tvg-name="Coppa Italia : Cagliari vs Frosinone (17:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Cagliari_vs_Frosinone.png" group-title="Eventi Live",Coppa Italia : Cagliari vs Frosinone (17:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-857.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="8" tvg-name="Coppa Italia : Udinese vs Palermo (18:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Udinese_vs_Palermo.png" group-title="Eventi Live",Coppa Italia : Udinese vs Palermo (18:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-8.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="19" tvg-name="Italy - Serie C : Nuova Monterosi vs Rimini (18:30)" tvg-logo="https://ilcalcio.net/assets/ec/db/ecdb04219e7aca4b40ac8c6a4293577d.png" group-title="Eventi Live",Italy - Serie C : Nuova Monterosi vs Rimini (18:30)
+#EXTINF:-1 tvg-id="19" tvg-name="Italy - Serie C : Nuova Monterosi vs Rimini (18:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Nuova Monterosi_vs_Rimini.png" group-title="Eventi Live",Italy - Serie C : Nuova Monterosi vs Rimini (18:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-19.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="20" tvg-name="Italy - Serie C : Ternana vs Pontedera (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/liga-catarinense-de-futsal-logo-png_seeklogo-522808.png?v=1958563323069919616" group-title="Eventi Live",Italy - Serie C : Ternana vs Pontedera (18:30)
+#EXTINF:-1 tvg-id="20" tvg-name="Italy - Serie C : Ternana vs Pontedera (18:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Ternana_vs_Pontedera.png" group-title="Eventi Live",Italy - Serie C : Ternana vs Pontedera (18:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-20.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="21" tvg-name="Italy - Serie C : Campobasso vs Gubbio (18:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Campobasso_vs_Gubbio.png" group-title="Eventi Live",Italy - Serie C : Campobasso vs Gubbio (18:30)
@@ -1264,7 +1261,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="870" tvg-name="Italy - Serie C : Pianese vs Arezzo (18:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Pianese_vs_Arezzo.png" group-title="Eventi Live",Italy - Serie C : Pianese vs Arezzo (18:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="24" tvg-name="Italy - Serie C : Juventus II vs Sassari Torres (18:30)" tvg-logo="https://fastpng.com/images/file/juventus-logo-png-9o9rjqann4ojt6ua.png" group-title="Eventi Live",Italy - Serie C : Juventus II vs Sassari Torres (18:30)
+#EXTINF:-1 tvg-id="24" tvg-name="Italy - Serie C : Juventus II vs Sassari Torres (18:30)" tvg-logo="https://kassiesa.net/uefa/clubs/images/Juventus%402.-old-log.png" group-title="Eventi Live",Italy - Serie C : Juventus II vs Sassari Torres (18:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-24.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="20" tvg-name="Italy - Serie C : Bra vs Livorno (20:45)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Bra_vs_Livorno.png" group-title="Eventi Live",Italy - Serie C : Bra vs Livorno (20:45)
