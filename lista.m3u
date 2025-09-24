@@ -1237,39 +1237,6 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="161" tvg-name="Italy - Serie C : Cosenza vs Giugliano (18:30)" tvg-logo="https://i.pinimg.com/originals/66/a9/27/66a927ed14521893859d4f476292beb3.png" group-title="Eventi Live",Italy - Serie C : Cosenza vs Giugliano (18:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-161.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="30" tvg-name="Italy - Serie C : Sorrento vs Virtus Casarano (18:30)" tvg-logo="https://cvoils.com/wp-content/uploads/2024/07/sorrento_logo.png" group-title="Eventi Live",Italy - Serie C : Sorrento vs Virtus Casarano (18:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-30.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="109" tvg-name="Italy - Serie C : Cavese vs Latina (18:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Cavese_vs_Latina.png" group-title="Eventi Live",Italy - Serie C : Cavese vs Latina (18:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-109.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="162" tvg-name="Italy - Serie C : Salernitana vs Audace Cerignola (18:30)" tvg-logo="https://logodetimes.com/times/unione-sportiva-salernitana-1919/unione-sportiva-salernitana-1919-2048.png" group-title="Eventi Live",Italy - Serie C : Salernitana vs Audace Cerignola (18:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-162.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="870" tvg-name="Italy - Serie C : Salernitana vs Audace Cerignola (18:30)" tvg-logo="https://logodetimes.com/times/unione-sportiva-salernitana-1919/unione-sportiva-salernitana-1919-2048.png" group-title="Eventi Live",Italy - Serie C : Salernitana vs Audace Cerignola (18:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="163" tvg-name="Italy - Serie C : Foggia vs Casertana (18:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Foggia_vs_Casertana.png" group-title="Eventi Live",Italy - Serie C : Foggia vs Casertana (18:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-163.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="461" tvg-name="Italy - Serie A Women’s Cup : Juventus vs Inter Milano (18:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Juventus_vs_Inter Milano.png" group-title="Eventi Live",Italy - Serie A Women’s Cup : Juventus vs Inter Milano (18:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="854" tvg-name="Coppa Italia : Hellas Verona vs Venezia (18:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Hellas Verona_vs_Venezia.png" group-title="Eventi Live",Coppa Italia : Hellas Verona vs Venezia (18:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-854.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="10" tvg-name="UEFA Europa League : PAOK vs Maccabi Tel Aviv (18:45)" tvg-logo="https://images.seeklogo.com/logo-png/22/2/paok-fc-logo-png_seeklogo-223494.png" group-title="Eventi Live",UEFA Europa League : PAOK vs Maccabi Tel Aviv (18:45)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="14" tvg-name="UEFA Europa League : Midtjylland vs Sturm Graz (18:45)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Midtjylland_vs_Sturm Graz.png" group-title="Eventi Live",UEFA Europa League : Midtjylland vs Sturm Graz (18:45)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-14.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="462" tvg-name="UEFA Europa League : Midtjylland vs Sturm Graz (18:45)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Midtjylland_vs_Sturm Graz.png" group-title="Eventi Live",UEFA Europa League : Midtjylland vs Sturm Graz (18:45)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="164" tvg-name="Italy - Serie C : Trapani 1905 vs Catania (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Trapani 1905_vs_Catania.png" group-title="Eventi Live",Italy - Serie C : Trapani 1905 vs Catania (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-164.php&redirect_stream=true&api_password=rick
 
