@@ -1261,7 +1261,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="77" tvg-name="Italy - Serie A : Pisa vs Fiorentina (15:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Pisa_vs_Fiorentina.png" group-title="Eventi Live",Italy - Serie A : Pisa vs Fiorentina (15:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-77.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A : Roma vs Hellas Verona (15:00)" tvg-logo="https://www.enroma.com/wp-content/uploads/2021/07/Coliseo-Romano.jpg" group-title="Eventi Live",Italy - Serie A : Roma vs Hellas Verona (15:00)
+#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A : Roma vs Hellas Verona (15:00)" tvg-logo="https://cdn.inksoft.com/images/publishers/17300/stores/clubromasoccer/img/socialmedia.png" group-title="Eventi Live",Italy - Serie A : Roma vs Hellas Verona (15:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="172" tvg-name="Italy - Serie C : Triestina vs Renate (15:00)" tvg-logo="https://freevectorlogo.net/wp-content/uploads/2013/06/wilier-triestina-vector-logo.png" group-title="Eventi Live",Italy - Serie C : Triestina vs Renate (15:00)
@@ -1315,13 +1315,13 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="870" tvg-name="Italy - Serie A : Lecce vs Bologna (18:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Lecce_vs_Bologna.png" group-title="Eventi Live",Italy - Serie A : Lecce vs Bologna (18:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="152" tvg-name="Bundesliga : Union Berlin vs Hamburger SV (19:30)" tvg-logo="https://vectornlogo.com/wp-content/uploads/2025/03/1.-FC-Union-Berlin-Logo-Vector-768x768.png" group-title="Eventi Live",Bundesliga : Union Berlin vs Hamburger SV (19:30)
+#EXTINF:-1 tvg-id="152" tvg-name="Bundesliga : Union Berlin vs Hamburger SV (19:30)" tvg-logo="https://www.unionbankofindia.co.in/img/header/ubi_logo.png" group-title="Eventi Live",Bundesliga : Union Berlin vs Hamburger SV (19:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-152.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="153" tvg-name="Italy - Serie C : Lecco vs Giana Erminio (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Lecco_vs_Giana Erminio.png" group-title="Eventi Live",Italy - Serie C : Lecco vs Giana Erminio (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-153.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="171" tvg-name="Italy - Serie C : Lumezzane vs Inter II (20:30)" tvg-logo="https://www.uasl-lumezzane.it/wp-content/uploads/2016/04/UASL_logo.png" group-title="Eventi Live",Italy - Serie C : Lumezzane vs Inter II (20:30)
+#EXTINF:-1 tvg-id="171" tvg-name="Italy - Serie C : Lumezzane vs Inter II (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Lumezzane_vs_Inter II.png" group-title="Eventi Live",Italy - Serie C : Lumezzane vs Inter II (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-171.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="154" tvg-name="Italy - Serie C : Monopoli vs Cavese (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Monopoli_vs_Cavese.png" group-title="Eventi Live",Italy - Serie C : Monopoli vs Cavese (20:30)
@@ -1363,16 +1363,16 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="UCI Road World Championships Elite Men's Road Race | Kigali (267.5km) (09:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",UCI Road World Championships Elite Men's Road Race | Kigali (267.5km) (09:30)
+#EXTINF:-1 tvg-id="878" tvg-name="UCI Road World Championships Elite Men's Road Race | Kigali (267.5km) (09:30)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Symbol.png" group-title="Eventi Live",UCI Road World Championships Elite Men's Road Race | Kigali (267.5km) (09:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="851" tvg-name="UCI Road World Championships Women Elite Road Race | Kigali (164.6km) (16:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",UCI Road World Championships Women Elite Road Race | Kigali (164.6km) (16:15)
+#EXTINF:-1 tvg-id="851" tvg-name="UCI Road World Championships Women Elite Road Race | Kigali (164.6km) (16:15)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Symbol.png" group-title="Eventi Live",UCI Road World Championships Women Elite Road Race | Kigali (164.6km) (16:15)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Equestrian" group-title="Eventi Live",--- Equestrian ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Global Champions Tour | Vienna show jumping (20:00)" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b89d98214434995.67583b94b4558.png" group-title="Eventi Live",Global Champions Tour | Vienna show jumping (20:00)
+#EXTINF:-1 tvg-id="878" tvg-name="Global Champions Tour | Vienna show jumping (20:00)" tvg-logo="https://cdn.pixabay.com/photo/2013/03/30/00/10/world-97864_1280.png" group-title="Eventi Live",Global Champions Tour | Vienna show jumping (20:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Futsal" group-title="Eventi Live",--- Futsal ---
