@@ -1288,13 +1288,13 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="576" tvg-name="Tokyo-ATP & Beijing-WTA (13:00)" tvg-logo="https://static3.tildacdn.com/tild3938-3432-4362-b632-333938306565/logo.png" group-title="Eventi Live",Tokyo-ATP & Beijing-WTA (13:00)
+#EXTINF:-1 tvg-id="576" tvg-name="Tokyo-ATP & Beijing-WTA (13:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/rvZyYPESEbmbQvGyBuuqhGWzCQo=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/160/wta-0854ce.png" group-title="Eventi Live",Tokyo-ATP & Beijing-WTA (13:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="World Rally Championship 2025-Cile (16:35)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/xj0p1n1534589660.png" group-title="Eventi Live",World Rally Championship 2025-Cile (16:35)
+#EXTINF:-1 tvg-id="882" tvg-name="World Rally Championship 2025-Cile (16:35)" tvg-logo="https://i.pinimg.com/originals/c3/a8/68/c3a868d5bb0b184c7eab0bd298451bd3.png" group-title="Eventi Live",World Rally Championship 2025-Cile (16:35)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="879" tvg-name="FIM Speedway of Nations Semi-Final 1 | Torun (18:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",FIM Speedway of Nations Semi-Final 1 | Torun (18:45)
