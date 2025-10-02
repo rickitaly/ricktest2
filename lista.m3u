@@ -499,19 +499,19 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2835333400/index.m3u8
 
 #EXTINF:-1 tvg-id="motortrend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro", MOTORTREND
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3758728323/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3889279895/index.m3u8
 
 #EXTINF:-1 tvg-id="motortrend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro", MOTORTREND (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3889279895/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro", ONDA NOVARA TV
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3134124967/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Og_2yYQhg-ersjEG5xZ99bri_Di4l5dlyw&s" group-title="Altro", ONDA TV
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/203130779/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1641481816/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Og_2yYQhg-ersjEG5xZ99bri_Di4l5dlyw&s" group-title="Altro", ONDA TV (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1641481816/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/203130779/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ORLER TV" tvg-logo="https://www.tvdream.net/img/orlertv.png" group-title="Altro", ORLER TV
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3471319012/index.m3u8
@@ -769,41 +769,62 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="55" tvg-name="Italy - Serie B : Empoli vs Monza (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Empoli_vs_Monza.png" group-title="Eventi Live",Italy - Serie B : Empoli vs Monza (20:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-55.php&redirect_stream=true&api_password=rick
+#EXTINF:-1 tvg-id="4" tvg-name="Europe - UEFA Europa League : Celtic vs Sporting Braga (18:45)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Celtic_vs_Sporting Braga.png" group-title="Eventi Live",Europe - UEFA Europa League : Celtic vs Sporting Braga (18:45)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="59" tvg-name="Italy - Serie B : Pescara vs Südtirol (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Pescara_vs_Südtirol.png" group-title="Eventi Live",Italy - Serie B : Pescara vs Südtirol (20:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true&api_password=rick
+#EXTINF:-1 tvg-id="6" tvg-name="Europe - UEFA Europa League : Roma vs Lille (18:45)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/roma-logo.png" group-title="Eventi Live",Europe - UEFA Europa League : Roma vs Lille (18:45)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-6.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="68" tvg-name="Italy - Serie B : Carrarese vs Modena (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Carrarese_vs_Modena.png" group-title="Eventi Live",Italy - Serie B : Carrarese vs Modena (20:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-68.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="20" tvg-name="UEFA Champions League : Bayer Leverkusen vs PSV (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Bayer Leverkusen_vs_PSV.png" group-title="Eventi Live",UEFA Champions League : Bayer Leverkusen vs PSV (21:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-20.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="461" tvg-name="UEFA Champions League : Napoli vs Sporting CP (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Napoli_vs_Sporting CP.png" group-title="Eventi Live",UEFA Champions League : Napoli vs Sporting CP (21:00)
+#EXTINF:-1 tvg-id="461" tvg-name="Europe - UEFA Europa League : Roma vs Lille (18:45)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/roma-logo.png" group-title="Eventi Live",Europe - UEFA Europa League : Roma vs Lille (18:45)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="23" tvg-name="UEFA Champions League : Napoli vs Sporting CP (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Napoli_vs_Sporting CP.png" group-title="Eventi Live",UEFA Champions League : Napoli vs Sporting CP (21:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-23.php&redirect_stream=true&api_password=rick
+#EXTINF:-1 tvg-id="13" tvg-name="Europe - UEFA Europa League : Fenerbahçe vs Nice (18:45)" tvg-logo="https://www.pikpng.com/pngl/b/334-3346950_fenerbahce-fenerbahe-sk-logo-clipart.png" group-title="Eventi Live",Europe - UEFA Europa League : Fenerbahçe vs Nice (18:45)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-13.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="25" tvg-name="UEFA Champions League : Arsenal vs Olympiakos Piraeus (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Arsenal_vs_Olympiakos Piraeus.png" group-title="Eventi Live",UEFA Champions League : Arsenal vs Olympiakos Piraeus (21:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-25.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="26" tvg-name="UEFA Champions League : Barcelona vs PSG (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Barcelona_vs_PSG.png" group-title="Eventi Live",UEFA Champions League : Barcelona vs PSG (21:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-26.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="870" tvg-name="UEFA Champions League : Barcelona vs PSG (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Barcelona_vs_PSG.png" group-title="Eventi Live",UEFA Champions League : Barcelona vs PSG (21:00)
+#EXTINF:-1 tvg-id="870" tvg-name="Europe - UEFA Europa League : Fenerbahçe vs Nice (18:45)" tvg-logo="https://www.pikpng.com/pngl/b/334-3346950_fenerbahce-fenerbahe-sk-logo-clipart.png" group-title="Eventi Live",Europe - UEFA Europa League : Fenerbahçe vs Nice (18:45)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="166" tvg-name="UEFA Champions League : Borussia Dortmund vs Athletic Club (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Borussia Dortmund_vs_Athletic Club.png" group-title="Eventi Live",UEFA Champions League : Borussia Dortmund vs Athletic Club (21:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-166.php&redirect_stream=true&api_password=rick
+#EXTINF:-1 tvg-id="16" tvg-name="Europe - UEFA Europa League : Bologna vs Freiburg (18:45)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Bologna_vs_Freiburg.png" group-title="Eventi Live",Europe - UEFA Europa League : Bologna vs Freiburg (18:45)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-16.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="11" tvg-name="UEFA Champions League : Monaco vs Manchester City (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Monaco_vs_Manchester City.png" group-title="Eventi Live",UEFA Champions League : Monaco vs Manchester City (21:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-11.php&redirect_stream=true&api_password=rick
+#EXTINF:-1 tvg-id="462" tvg-name="Europe - UEFA Europa League : Bologna vs Freiburg (18:45)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Bologna_vs_Freiburg.png" group-title="Eventi Live",Europe - UEFA Europa League : Bologna vs Freiburg (18:45)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="882" tvg-name="FIFA U-20 World Cup : Italy U20 vs Cuba U20 (22:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Italy U20_vs_Cuba U20.png" group-title="Eventi Live",FIFA U-20 World Cup : Italy U20 vs Cuba U20 (22:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
+#EXTINF:-1 tvg-id="16" tvg-name="Europe - UEFA Europa League : Feyenoord vs Aston Villa (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Feyenoord_vs_Aston Villa.png" group-title="Eventi Live",Europe - UEFA Europa League : Feyenoord vs Aston Villa (21:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-16.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-id="870" tvg-name="Europe - UEFA Europa League : Feyenoord vs Aston Villa (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Feyenoord_vs_Aston Villa.png" group-title="Eventi Live",Europe - UEFA Europa League : Feyenoord vs Aston Villa (21:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-id="13" tvg-name="Europe - UEFA Europa League : Nottingham Forest vs Midtjylland (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Nottingham Forest_vs_Midtjylland.png" group-title="Eventi Live",Europe - UEFA Europa League : Nottingham Forest vs Midtjylland (21:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-13.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-id="25" tvg-name="Europe - UEFA Europa League : Porto vs Crvena Zvezda (21:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/fcdAHMAq15FUZAx/fc-porto-1922-1970-logo.png" group-title="Eventi Live",Europe - UEFA Europa League : Porto vs Crvena Zvezda (21:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-25.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-id="4" tvg-name="Europe - UEFA Europa League : Olympique Lyonnais vs Salzburg (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Olympique Lyonnais_vs_Salzburg.png" group-title="Eventi Live",Europe - UEFA Europa League : Olympique Lyonnais vs Salzburg (21:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-id="6" tvg-name="Europe - UEFA Conference League : Fiorentina vs Sigma Olomouc (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Fiorentina_vs_Sigma Olomouc.png" group-title="Eventi Live",Europe - UEFA Conference League : Fiorentina vs Sigma Olomouc (21:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-6.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-id="461" tvg-name="Europe - UEFA Conference League : Fiorentina vs Sigma Olomouc (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Fiorentina_vs_Sigma Olomouc.png" group-title="Eventi Live",Europe - UEFA Conference League : Fiorentina vs Sigma Olomouc (21:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-id="4" tvg-name="Europe - UEFA Conference League : Slovan Bratislava vs Strasbourg (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Slovan Bratislava_vs_Strasbourg.png" group-title="Eventi Live",Europe - UEFA Conference League : Slovan Bratislava vs Strasbourg (21:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
+https://example.m3u8
+
+#EXTINF:-1 tvg-id="576" tvg-name="2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 2 (06:30)" tvg-logo="https://obj.shine.cn/files/2017/09/18/079e2141-ea35-4452-a245-7a226a16de77_0.png" group-title="Eventi Live",2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 2 (06:30)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
+https://example.m3u8
+
+#EXTINF:-1 tvg-id="878" tvg-name="Tour of Langkawi | Stage 5 Men | Temerloh – Fraser's Hill (123.1km) (07:00)" tvg-logo="https://tours-mexicocity.com/wp-content/uploads/2024/07/8-600x600.png" group-title="Eventi Live",Tour of Langkawi | Stage 5 Men | Temerloh – Fraser's Hill (123.1km) (07:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
