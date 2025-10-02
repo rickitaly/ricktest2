@@ -121,10 +121,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/830949486/index.m3u8
@@ -813,18 +813,6 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 
 #EXTINF:-1 tvg-id="4" tvg-name="Europe - UEFA Conference League : Slovan Bratislava vs Strasbourg (21:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Slovan Bratislava_vs_Strasbourg.png" group-title="Eventi Live",Europe - UEFA Conference League : Slovan Bratislava vs Strasbourg (21:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="576" tvg-name="2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 2 (06:30)" tvg-logo="https://obj.shine.cn/files/2017/09/18/079e2141-ea35-4452-a245-7a226a16de77_0.png" group-title="Eventi Live",2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 2 (06:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="878" tvg-name="Tour of Langkawi | Stage 5 Men | Temerloh – Fraser's Hill (123.1km) (07:00)" tvg-logo="https://images.seeklogo.com/logo-png/55/2/le-tour-de-langkawi-2024-logo-png_seeklogo-555227.png?v=1957859170099398016" group-title="Eventi Live",Tour of Langkawi | Stage 5 Men | Temerloh – Fraser's Hill (123.1km) (07:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
