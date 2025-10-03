@@ -259,10 +259,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1289777017/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2178717282/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1907000512/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", DISCOVERY K2
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3037871903/index.m3u8
@@ -772,7 +772,7 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="Italy - Serie C : Pianese vs Livorno (20:30)" tvg-logo="https://www.superscommesse.it/iniziative/images/teams-logo/Pianese_stemma.png" group-title="Eventi Live",Italy - Serie C : Pianese vs Livorno (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-77.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="86" tvg-name="Italy - Serie C : Rimini vs Arezzo (20:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/thumb/WL7gz88VwEf73Vf/rimini-2015-2024-logo.png" group-title="Eventi Live",Italy - Serie C : Rimini vs Arezzo (20:30)
+#EXTINF:-1 tvg-id="86" tvg-name="Italy - Serie C : Rimini vs Arezzo (20:30)" tvg-logo="https://sport-science.org/images/ECSS_2025/Rimini_2024.png" group-title="Eventi Live",Italy - Serie C : Rimini vs Arezzo (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-86.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="105" tvg-name="Italy - Serie C : Latina vs Benevento (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Latina_vs_Benevento.png" group-title="Eventi Live",Italy - Serie C : Latina vs Benevento (20:30)
@@ -790,23 +790,17 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-577.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-577.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="Serie A2 : Mestre vs Baltur Cento (20:55)" tvg-logo="https://portedimestre.it/wp-content/uploads/2023/09/LOGO-VERTICALE.png" group-title="Eventi Live",Serie A2 : Mestre vs Baltur Cento (20:55)
+#EXTINF:-1 tvg-id="882" tvg-name="Serie A2 : Mestre vs Baltur Cento (20:55)" tvg-logo="https://images.seeklogo.com/logo-png/29/3/ac-mestre-logo-png_seeklogo-290300.png?v=1962735973879756920" group-title="Eventi Live",Serie A2 : Mestre vs Baltur Cento (20:55)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="882" tvg-name="2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)" tvg-logo="https://www.erome.fr/wp-content/uploads/2023/02/logo-drome.png" group-title="Eventi Live",2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="879" tvg-name="Cro Race | Stage 4 Men | Krk – Labin (187.5km) (14:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cro Race | Stage 4 Men | Krk – Labin (187.5km) (14:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
