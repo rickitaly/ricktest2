@@ -121,10 +121,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/830949486/index.m3u8
@@ -766,7 +766,7 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2989824407/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
+#EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
 #EXTINF:-1 tvg-id="77" tvg-name="Italy - Serie C : Pianese vs Livorno (20:30)" tvg-logo="https://www.superscommesse.it/iniziative/images/teams-logo/Pianese_stemma.png" group-title="Eventi Live",Italy - Serie C : Pianese vs Livorno (20:30)
@@ -790,25 +790,25 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="576" tvg-name="2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3 (06:30)" tvg-logo="https://obj.shine.cn/files/2017/09/18/2c6848cd-298d-4495-970e-07868f337966_0.png" group-title="Eventi Live",2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3 (06:30)
+#EXTINF:-1 tvg-id="576" tvg-name="2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3 (06:30)" tvg-logo="https://obj.shine.cn/files/2017/09/18/079e2141-ea35-4452-a245-7a226a16de77_0.png" group-title="Eventi Live",2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3 (06:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto 3 : Greek Grand Prix of Indonesia Free Practice 1 (02:55)" tvg-logo="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/2422d558-8442-453f-aec1-fb20d02f72d6/original.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Indonesia Free Practice 1 (02:55)
+#EXTINF:-1 tvg-id="575" tvg-name="Moto 3 : Greek Grand Prix of Indonesia Free Practice 1 (02:55)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Indonesia Free Practice 1 (02:55)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Greek Grand Prix of Indonesia Free Practice (03:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Indonesia Free Practice (03:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto 2 : Greek Grand Prix of Indonesia Free Practice 1 (03:45)" tvg-logo="https://images.seeklogo.com/logo-png/41/2/promo-moto-logo-png_seeklogo-410858.png?v=1957666023356010152" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Indonesia Free Practice 1 (03:45)
+#EXTINF:-1 tvg-id="575" tvg-name="Moto 2 : Greek Grand Prix of Indonesia Free Practice 1 (03:45)" tvg-logo="https://www.gresiniracing.com/wp-content/themes/gresini-racing-2025/images/moto2-gresini-2025.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Indonesia Free Practice 1 (03:45)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)" tvg-logo="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/2422d558-8442-453f-aec1-fb20d02f72d6/original.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)
+#EXTINF:-1 tvg-id="575" tvg-name="Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto 2 : Greek Grand Prix of Indonesia Practice 1 (08:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/2/promo-moto-logo-png_seeklogo-410858.png?v=1957666023356010152" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Indonesia Practice 1 (08:00)
+#EXTINF:-1 tvg-id="575" tvg-name="Moto 2 : Greek Grand Prix of Indonesia Practice 1 (08:00)" tvg-logo="https://www.gresiniracing.com/wp-content/themes/gresini-racing-2025/images/moto2-gresini-2025.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Indonesia Practice 1 (08:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Greek Grand Prix of Indonesia Practice 1 (07:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Indonesia Practice 1 (07:15)
@@ -829,7 +829,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)" tvg-logo="https://uspr.fr/wp-content/uploads/2022/07/Logo-District-600x669.png" group-title="Eventi Live",2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)
+#EXTINF:-1 tvg-id="882" tvg-name="2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)" tvg-logo="https://www.erome.fr/wp-content/uploads/2023/02/logo-drome.png" group-title="Eventi Live",2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="879" tvg-name="Cro Race | Stage 4 Men | Krk – Labin (187.5km) (14:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cro Race | Stage 4 Men | Krk – Labin (187.5km) (14:00)
