@@ -394,16 +394,16 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2454558136/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro", CANALE 7
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/996680722/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CANALE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro", CANALE 7 (2)
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/565256431/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CANALE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro", CANALE 7 (2)
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/996680722/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2749478718/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8 (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3107500995/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro", CARINA TV
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1527236924/index.m3u8
@@ -499,10 +499,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2835333400/index.m3u8
 
 #EXTINF:-1 tvg-id="motortrend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro", MOTORTREND
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3758728323/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3889279895/index.m3u8
 
 #EXTINF:-1 tvg-id="motortrend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro", MOTORTREND (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3889279895/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro", ONDA NOVARA TV
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3134124967/index.m3u8
@@ -769,25 +769,13 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A (women) : Inter Milano vs Ternana (12:30)" tvg-logo="https://www.pngarts.com/files/2/Inter-Milan-PNG-Image-Background.png" group-title="Eventi Live",Italy - Serie A (women) : Inter Milano vs Ternana (12:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="108" tvg-name="Italy - Serie A (women) : Roma vs Parma (12:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Roma_vs_Parma.png" group-title="Eventi Live",Italy - Serie A (women) : Roma vs Parma (12:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-108.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="190" tvg-name="Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jutland_Peninsula_map.PNG/240px-Jutland_Peninsula_map.PNG" group-title="Eventi Live",Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-190.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : Leeds United vs Tottenham Hotspur (13:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Leeds United_vs_Tottenham Hotspur.png" group-title="Eventi Live",England - Premier League : Leeds United vs Tottenham Hotspur (13:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="25" tvg-name="Italy - Serie C : Giana Erminio vs Lumezzane (14:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Giana Erminio_vs_Lumezzane.png" group-title="Eventi Live",Italy - Serie C : Giana Erminio vs Lumezzane (14:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-25.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="26" tvg-name="Italy - Serie C : Ascoli vs Bra (14:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Ascoli_vs_Bra.png" group-title="Eventi Live",Italy - Serie C : Ascoli vs Bra (14:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-26.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="27" tvg-name="Italy - Serie C : Ternana vs Pineto (14:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/liga-catarinense-de-futsal-logo-png_seeklogo-522808.png?v=1958563323069919616" group-title="Eventi Live",Italy - Serie C : Ternana vs Pineto (14:30)
+#EXTINF:-1 tvg-id="27" tvg-name="Italy - Serie C : Ternana vs Pineto (14:30)" tvg-logo="http://upload.wikimedia.org/wikipedia/en/d/d4/Ternana_logo.png" group-title="Eventi Live",Italy - Serie C : Ternana vs Pineto (14:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-27.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="17" tvg-name="Italy - Serie C : Sassari Torres vs Sambenedettese (14:30)" tvg-logo="https://www.fsgc.sm/wp-content/uploads/2018/09/sassari-torres-768x768.png" group-title="Eventi Live",Italy - Serie C : Sassari Torres vs Sambenedettese (14:30)
@@ -874,23 +862,20 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="576" tvg-name="Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)" tvg-logo="https://logocreator.io/wp-content/uploads/2023/12/Round.png" group-title="Eventi Live",Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)
+#EXTINF:-1 tvg-id="576" tvg-name="Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)" tvg-logo="http://www.getsready.com/wp-content/uploads/2017/01/Beijing-best-places-to-visit.jpg" group-title="Eventi Live",Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live",Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-577.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="878" tvg-name="World Championship | Motocross of Nations 1st Race (19:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live",World Championship | Motocross of Nations 1st Race (19:00)
+#EXTINF:-1 tvg-id="878" tvg-name="World Championship | Motocross of Nations 1st Race (19:00)" tvg-logo="http://pluspng.com/img-png/globe-hd-png-download-png-image-earth-png-pic-1107.png" group-title="Eventi Live",World Championship | Motocross of Nations 1st Race (19:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="878" tvg-name="UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)" tvg-logo="https://recrutamentopj.com/res/img/logo-nova-bg-transparente.png" group-title="Eventi Live",UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="882" tvg-name="Giro dell'Emilia - Women 2025 (17:20)" tvg-logo="https://components2.rcsobjects.it/rcs_sport_giro2020-layout/v0/assets/img/ext/logo-giro.png?v=a590fcc0cb243940a9b7ed7eb6123a5d" group-title="Eventi Live",Giro dell'Emilia - Women 2025 (17:20)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
