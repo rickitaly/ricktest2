@@ -121,10 +121,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/830949486/index.m3u8
@@ -775,7 +775,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="108" tvg-name="Italy - Serie A (women) : Roma vs Parma (12:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Roma_vs_Parma.png" group-title="Eventi Live",Italy - Serie A (women) : Roma vs Parma (12:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-108.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="190" tvg-name="Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)" tvg-logo="https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/301139/20210529155508_911_mascot1280Near.png" group-title="Eventi Live",Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)
+#EXTINF:-1 tvg-id="190" tvg-name="Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jutland_Peninsula_map.PNG/240px-Jutland_Peninsula_map.PNG" group-title="Eventi Live",Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-190.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : Leeds United vs Tottenham Hotspur (13:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Leeds United_vs_Tottenham Hotspur.png" group-title="Eventi Live",England - Premier League : Leeds United vs Tottenham Hotspur (13:30)
@@ -883,15 +883,6 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Greek Grand Prix of Indonesia Free Practice 2 (02:30)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Moto3 : Greek Grand Prix of Indonesia Free Practice 2 (02:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Greek Grand Prix of Indonesia Free Practice 2 (03:20)" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-logo-resmi-hut-tni-ke-77-2022-adalah-kita-png-image_8630838.png" group-title="Eventi Live",Moto2 : Greek Grand Prix of Indonesia Free Practice 2 (03:20)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Greek Grand Prix of Indonesia Qualifying (04:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Indonesia Qualifying (04:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Greek Grand Prix of Indonesia Qualifying (07:00)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Moto3 : Greek Grand Prix of Indonesia Qualifying (07:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
 
@@ -910,19 +901,13 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="878" tvg-name="World Championship | Motocross of Nations 1st Race (19:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live",World Championship | Motocross of Nations 1st Race (19:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-name="UFC 320 - Ankalaev vs Pereira" group-title="Eventi Live",--- UFC 320 - Ankalaev vs Pereira ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="878" tvg-name="UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (04:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Magomed Ankalaev_vs_Alex Pereira.png" group-title="Eventi Live",UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (04:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
 #EXTINF:-1 tvg-id="878" tvg-name="Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)" tvg-logo="https://www.pinclipart.com/picdir/big/212-2127349_tour-travel-png-vectors-tours-and-travels-png.png" group-title="Eventi Live",Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="878" tvg-name="UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)" tvg-logo="https://recrutamentopj.com/res/img/logo-nova-bg-transparente.png" group-title="Eventi Live",UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)
+#EXTINF:-1 tvg-id="878" tvg-name="UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="882" tvg-name="Giro dell'Emilia - Women 2025 (17:20)" tvg-logo="https://components2.rcsobjects.it/rcs_sport_giro2020-layout/v0/assets/img/ext/logo-giro.png?v=a590fcc0cb243940a9b7ed7eb6123a5d" group-title="Eventi Live",Giro dell'Emilia - Women 2025 (17:20)
