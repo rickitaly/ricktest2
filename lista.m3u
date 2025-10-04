@@ -121,10 +121,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/830949486/index.m3u8
@@ -769,13 +769,13 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A (women) : Inter Milano vs Ternana (12:30)" tvg-logo="https://media.inter.it/mp4/im/Share_Cover.jpg" group-title="Eventi Live",Italy - Serie A (women) : Inter Milano vs Ternana (12:30)
+#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A (women) : Inter Milano vs Ternana (12:30)" tvg-logo="https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3589748728585340319" group-title="Eventi Live",Italy - Serie A (women) : Inter Milano vs Ternana (12:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="108" tvg-name="Italy - Serie A (women) : Roma vs Parma (12:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Roma_vs_Parma.png" group-title="Eventi Live",Italy - Serie A (women) : Roma vs Parma (12:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-108.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="190" tvg-name="Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)" tvg-logo="https://png.pngtree.com/background/20230610/original/pngtree-cow-is-standing-in-a-grassy-field-picture-image_3054017.jpg" group-title="Eventi Live",Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)
+#EXTINF:-1 tvg-id="190" tvg-name="Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)" tvg-logo="https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/301139/20210529155508_911_mascot1280Near.png" group-title="Eventi Live",Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-190.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : Leeds United vs Tottenham Hotspur (13:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Leeds United_vs_Tottenham Hotspur.png" group-title="Eventi Live",England - Premier League : Leeds United vs Tottenham Hotspur (13:30)
@@ -796,7 +796,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="28" tvg-name="Italy - Serie C : Union Brescia vs Pergolettese (14:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Union Brescia_vs_Pergolettese.png" group-title="Eventi Live",Italy - Serie C : Union Brescia vs Pergolettese (14:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-28.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="153" tvg-name="Italy - Serie C : Atalanta II vs Foggia (14:30)" tvg-logo="https://seeklogo.com/images/A/atalanta-logo-B6C7A6964E-seeklogo.com.png" group-title="Eventi Live",Italy - Serie C : Atalanta II vs Foggia (14:30)
+#EXTINF:-1 tvg-id="153" tvg-name="Italy - Serie C : Atalanta II vs Foggia (14:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Atalanta II_vs_Foggia.png" group-title="Eventi Live",Italy - Serie C : Atalanta II vs Foggia (14:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-153.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A : Lazio vs Torino (15:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Lazio_vs_Torino.png" group-title="Eventi Live",Italy - Serie A : Lazio vs Torino (15:00)
@@ -832,7 +832,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="152" tvg-name="Italy - Serie B : Spezia vs Palermo (17:15)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Spezia_vs_Palermo.png" group-title="Eventi Live",Italy - Serie B : Spezia vs Palermo (17:15)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-152.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="153" tvg-name="Italy - Serie C : Renate vs Cittadella (17:30)" tvg-logo="https://live2sport.com/image/Italy_Renate.png" group-title="Eventi Live",Italy - Serie C : Renate vs Cittadella (17:30)
+#EXTINF:-1 tvg-id="153" tvg-name="Italy - Serie C : Renate vs Cittadella (17:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Renate_vs_Cittadella.png" group-title="Eventi Live",Italy - Serie C : Renate vs Cittadella (17:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-153.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="26" tvg-name="Italy - Serie C : Virtus Verona vs Lecco (17:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Virtus Verona_vs_Lecco.png" group-title="Eventi Live",Italy - Serie C : Virtus Verona vs Lecco (17:30)
@@ -871,16 +871,13 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="461" tvg-name="Italy - Serie A : Atalanta vs Como (20:45)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Atalanta_vs_Como.png" group-title="Eventi Live",Italy - Serie A : Atalanta vs Como (20:45)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="882" tvg-name="FIFA U-20 World Cup : Argentina U20 vs Italy U20 (01:00)" tvg-logo="https://c8.alamy.com/comp/S3521W/the-arid-landscape-of-northern-argentina-S3521W.jpg" group-title="Eventi Live",FIFA U-20 World Cup : Argentina U20 vs Italy U20 (01:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
 #EXTINF:-1 tvg-id="576" tvg-name="2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 9 (06:30)" tvg-logo="https://png.pngtree.com/png-clipart/20241008/original/pngtree-calendar-2025-color-calendar-vector-png-image_16248596.png" group-title="Eventi Live",2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 9 (06:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="576" tvg-name="Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)" tvg-logo="http://www.getsready.com/wp-content/uploads/2017/01/Beijing-best-places-to-visit.jpg" group-title="Eventi Live",Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)
+#EXTINF:-1 tvg-id="576" tvg-name="Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)" tvg-logo="https://logocreator.io/wp-content/uploads/2023/12/Round.png" group-title="Eventi Live",Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
@@ -922,10 +919,10 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)
+#EXTINF:-1 tvg-id="878" tvg-name="Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)" tvg-logo="https://www.pinclipart.com/picdir/big/212-2127349_tour-travel-png-vectors-tours-and-travels-png.png" group-title="Eventi Live",Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="878" tvg-name="UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)" tvg-logo="http://www.uarc.uec.ac.jp/2022UEC_Seminar/uec.png" group-title="Eventi Live",UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)
+#EXTINF:-1 tvg-id="878" tvg-name="UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)" tvg-logo="https://recrutamentopj.com/res/img/logo-nova-bg-transparente.png" group-title="Eventi Live",UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="882" tvg-name="Giro dell'Emilia - Women 2025 (17:20)" tvg-logo="https://components2.rcsobjects.it/rcs_sport_giro2020-layout/v0/assets/img/ext/logo-giro.png?v=a590fcc0cb243940a9b7ed7eb6123a5d" group-title="Eventi Live",Giro dell'Emilia - Women 2025 (17:20)
