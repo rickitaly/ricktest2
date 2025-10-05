@@ -121,10 +121,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/830949486/index.m3u8
@@ -745,10 +745,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2070070755/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VERA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro", VERA TV
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2471902234/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/4271554009/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VERA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro", VERA TV (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/4271554009/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2471902234/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VIDEO NOVARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PvoHpnx0hNKtt435CUaJza2e_qsm5B87Cg&s" group-title="Altro", VIDEO NOVARA
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2791781421/index.m3u8
@@ -799,7 +799,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="163" tvg-name="Italy - Serie C : Catania vs Siracusa (14:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Catania_vs_Siracusa.png" group-title="Eventi Live",Italy - Serie C : Catania vs Siracusa (14:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-163.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="167" tvg-name="Italy - Serie C : Trapani 1905 vs Giugliano (14:30)" tvg-logo="https://1.bp.blogspot.com/-RnDTpzIDCBs/YQbgKMIYh-I/AAAAAAABk80/8t5_EhzuuSA6gY-rxNlvw1O7LizjoQYZwCLcBGAsYHQ/s256/Trapani%2BCalcio256x.png" group-title="Eventi Live",Italy - Serie C : Trapani 1905 vs Giugliano (14:30)
+#EXTINF:-1 tvg-id="167" tvg-name="Italy - Serie C : Trapani 1905 vs Giugliano (14:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Trapani 1905_vs_Giugliano.png" group-title="Eventi Live",Italy - Serie C : Trapani 1905 vs Giugliano (14:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-167.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="165" tvg-name="Italy - Serie C : Salernitana vs Cavese (14:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Salernitana_vs_Cavese.png" group-title="Eventi Live",Italy - Serie C : Salernitana vs Cavese (14:30)
@@ -829,7 +829,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="192" tvg-name="Serie A (women) : Genoa vs Milan (15:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Genoa_vs_Milan.png" group-title="Eventi Live",Serie A (women) : Genoa vs Milan (15:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-192.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="2" tvg-name="France - Ligue 1 : Monaco vs Nice (17:15)" tvg-logo="https://i.pinimg.com/originals/a1/d3/e7/a1d3e74f3968e89d9e36236e86756629.png" group-title="Eventi Live",France - Ligue 1 : Monaco vs Nice (17:15)
+#EXTINF:-1 tvg-id="2" tvg-name="France - Ligue 1 : Monaco vs Nice (17:15)" tvg-logo="https://logodetimes.com/times/monaco/logo-monaco-2048.png" group-title="Eventi Live",France - Ligue 1 : Monaco vs Nice (17:15)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="161" tvg-name="Italy - Serie B : Sampdoria vs Pescara (17:15)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Sampdoria_vs_Pescara.png" group-title="Eventi Live",Italy - Serie B : Sampdoria vs Pescara (17:15)
@@ -838,7 +838,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="162" tvg-name="Bundesliga : Hamburger SV vs Mainz 05 (17:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Hamburger SV_vs_Mainz 05.png" group-title="Eventi Live",Bundesliga : Hamburger SV vs Mainz 05 (17:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-162.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="163" tvg-name="Italy - Serie C : Alcione vs Vicenza (17:30)" tvg-logo="https://images.seeklogo.com/logo-png/51/2/alcione-logo-png_seeklogo-519421.png" group-title="Eventi Live",Italy - Serie C : Alcione vs Vicenza (17:30)
+#EXTINF:-1 tvg-id="163" tvg-name="Italy - Serie C : Alcione vs Vicenza (17:30)" tvg-logo="https://images.seeklogo.com/logo-png/55/2/alcione-milano-societa-sportiva-logo-png_seeklogo-554892.png" group-title="Eventi Live",Italy - Serie C : Alcione vs Vicenza (17:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-163.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="182" tvg-name="Italy - Serie C : Forlì vs Nuova Monterosi (17:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Forlì_vs_Nuova Monterosi.png" group-title="Eventi Live",Italy - Serie C : Forlì vs Nuova Monterosi (17:30)
@@ -880,7 +880,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="870" tvg-name="Italy - Serie C : Inter II vs Ospitaletto (20:30)" tvg-logo="https://logodetimes.com/times/football-club-internazionale-milano/football-club-internazionale-milano-4096.png" group-title="Eventi Live",Italy - Serie C : Inter II vs Ospitaletto (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="167" tvg-name="Italy - Serie C : Audace Cerignola vs Cosenza (20:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/Original/720350.png?v=1" group-title="Eventi Live",Italy - Serie C : Audace Cerignola vs Cosenza (20:30)
+#EXTINF:-1 tvg-id="167" tvg-name="Italy - Serie C : Audace Cerignola vs Cosenza (20:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/Original/720350.png?v4" group-title="Eventi Live",Italy - Serie C : Audace Cerignola vs Cosenza (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-167.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="461" tvg-name="France - Ligue 1 : Lille vs PSG (20:45)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Lille_vs_PSG.png" group-title="Eventi Live",France - Ligue 1 : Lille vs PSG (20:45)
@@ -898,12 +898,6 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Greek Grand Prix of Indonesia Race (07:00)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Moto2 : Greek Grand Prix of Indonesia Race (07:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Greek Grand Prix of Indonesia Race (08:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Indonesia Race (08:15)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : SIA Singapore Grand Prix - Grand Prix Sunday (13:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : SIA Singapore Grand Prix - Grand Prix Sunday (13:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-577.php&redirect_stream=true&api_password=rick
 
@@ -916,13 +910,13 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="879" tvg-name="Motocross of Nations Race 2 | Ironman Raceway (20:30)" tvg-logo="https://www.cyclenews.com/wp-content/uploads/2024/08/2024MotoCombineLogo_AirForce-Ironman-1.png" group-title="Eventi Live",Motocross of Nations Race 2 | Ironman Raceway (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="878" tvg-name="World Championship | Motocross of Nations 3rd Race (22:00)" tvg-logo="https://nirvanaeurope.com/wp-content/uploads/2023/05/IM70.3-WC-2024.png" group-title="Eventi Live",World Championship | Motocross of Nations 3rd Race (22:00)
+#EXTINF:-1 tvg-id="878" tvg-name="World Championship | Motocross of Nations 3rd Race (22:00)" tvg-logo="https://www.ironman.com/sites/default/files/styles/coh_medium/public/2025-04/2026_IM_70.3_World_Championship_Qualifier_Badge_800x800_0.png?itok=f-aDx-Yt" group-title="Eventi Live",World Championship | Motocross of Nations 3rd Race (22:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="Latemar Run Pampeago 2025 (16:30)" tvg-logo="https://manager-cdn.gvanzo.it/crocebiancatesero/multimedias/6dbb86e0-aa14-4832-b151-d3786a321045/p_pampeago.png" group-title="Eventi Live",Latemar Run Pampeago 2025 (16:30)
+#EXTINF:-1 tvg-id="882" tvg-name="Latemar Run Pampeago 2025 (16:30)" tvg-logo="https://www.lodgeskipampeago.it/grafica/logo500x500.png" group-title="Eventi Live",Latemar Run Pampeago 2025 (16:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
@@ -949,7 +943,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Triathlon" group-title="Eventi Live",--- Triathlon ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="879" tvg-name="Triathlon: Supertri - Toulouse (14:00)" tvg-logo="https://images.vexels.com/media/users/3/141359/isolated/preview/4aff80f43aa783ac5071aace4a4e0c3a-triathlon-square-icon.png" group-title="Eventi Live",Triathlon: Supertri - Toulouse (14:00)
+#EXTINF:-1 tvg-id="879" tvg-name="Triathlon: Supertri - Toulouse (14:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/triathlon-federation-usa-logo-black-and-white.png" group-title="Eventi Live",Triathlon: Supertri - Toulouse (14:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
 
