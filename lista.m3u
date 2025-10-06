@@ -766,12 +766,6 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2989824407/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="878" tvg-name="Binche - Chimay - Binche | 197 km | 1980 m (13:00)" tvg-logo="https://bierwinkelblondenstout.nl/wp-content/uploads/C3747802-C1EE-47FC-95B8-0C638B00861C.png" group-title="Eventi Live",Binche - Chimay - Binche | 197 km | 1980 m (13:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
 https://example.m3u8
 
