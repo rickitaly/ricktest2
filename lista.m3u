@@ -121,10 +121,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/830949486/index.m3u8
@@ -769,7 +769,7 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="576" tvg-name="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)" tvg-logo="https://images.slivcdn.com/videoasset_images/rolexshanghaimasters2024_match_masthead_logo_round4_hlts.png?q=high" group-title="Eventi Live",Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)
+#EXTINF:-1 tvg-id="576" tvg-name="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2020/sweeny-2023-head-august.png" group-title="Eventi Live",Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
@@ -781,13 +781,10 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="879" tvg-name="Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (11:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (11:00)
+#EXTINF:-1 tvg-id="879" tvg-name="Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (13:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="879" tvg-name="Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (13:00)" tvg-logo="https://lessinescyclismeonweb.com/wp-content/uploads/2025/10/bcb25.png" group-title="Eventi Live",Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (13:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="879" tvg-name="Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (14:00)" tvg-logo="https://cyclingmole.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-20.12.48.png" group-title="Eventi Live",Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (14:00)
+#EXTINF:-1 tvg-id="879" tvg-name="Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (14:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (14:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Futsal" group-title="Eventi Live",--- Futsal ---
