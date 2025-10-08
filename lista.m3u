@@ -769,13 +769,13 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="FIFA U20 WC : Argentina U20 vs Nigeria U20 (21:30)" tvg-logo="https://www.playmakerstats.com/img/bandeiras/4_arg_imgbank_flag.png" group-title="Eventi Live",FIFA U20 WC : Argentina U20 vs Nigeria U20 (21:30)
+#EXTINF:-1 tvg-id="882" tvg-name="FIFA U20 WC : Argentina U20 vs Nigeria U20 (21:30)" tvg-logo="https://webp.vp.cdn.pxr.nl/tag/clubs/472821.png?width=1200" group-title="Eventi Live",FIFA U20 WC : Argentina U20 vs Nigeria U20 (21:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="576" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)" tvg-logo="https://siop-online.org/wp-content/uploads/2021/12/EN_UHCdday-1024x1024-1.png" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)
+#EXTINF:-1 tvg-id="576" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)" tvg-logo="https://www.tennis.com/assets/logos/wta_championships.png" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
