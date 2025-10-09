@@ -394,16 +394,16 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2454558136/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro", CANALE 7
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/996680722/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CANALE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro", CANALE 7 (2)
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/565256431/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CANALE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro", CANALE 7 (2)
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/996680722/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2749478718/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8 (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3107500995/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro", CARINA TV
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1527236924/index.m3u8
@@ -778,7 +778,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="576" tvg-name="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round (12:30)" tvg-logo="https://static3.tildacdn.com/tild3938-3432-4362-b632-333938306565/logo.png" group-title="Eventi Live",Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round (12:30)
+#EXTINF:-1 tvg-id="576" tvg-name="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round (12:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
@@ -790,7 +790,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Gran Piemonte Men | Dogliani - Acqui Terme (179km) (14:15)" tvg-logo="https://legaciclismoprof.org/wp-content/uploads/2025/02/Gran-Piemonte-scaled.png" group-title="Eventi Live",Gran Piemonte Men | Dogliani - Acqui Terme (179km) (14:15)
+#EXTINF:-1 tvg-id="878" tvg-name="Gran Piemonte Men | Dogliani - Acqui Terme (179km) (14:15)" tvg-logo="https://turismo.comuneacqui.it/wp-content/uploads/2021/12/logo_comune_acqui_terme1.png" group-title="Eventi Live",Gran Piemonte Men | Dogliani - Acqui Terme (179km) (14:15)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 
