@@ -796,7 +796,7 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="878" tvg-name="Xi'an Grand Prix | Round 4 (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Xi'an Grand Prix | Round 4 (08:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="878" tvg-name="Xi'an Grand Prix | Round 4 (13:30)" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/600x600/055e6c40-5279-11f0-8f00-991a3abcf914.png" group-title="Eventi Live",Xi'an Grand Prix | Round 4 (13:30)
+#EXTINF:-1 tvg-id="878" tvg-name="Xi'an Grand Prix | Round 4 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Xi'an Grand Prix | Round 4 (13:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
