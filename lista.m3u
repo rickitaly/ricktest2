@@ -787,14 +787,11 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="576" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)" tvg-logo="https://tennisconnected.com/wp-content/uploads/2024/01/Cincinnati-Open_Logo_01-Primary-RGB-1-2048x2048-1.png" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)
+#EXTINF:-1 tvg-id="576" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)" tvg-logo="https://tv-sports.fr/photos/sport/competitions/680.png" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="878" tvg-name="Xi'an Grand Prix | Round 4 (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Xi'an Grand Prix | Round 4 (08:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="878" tvg-name="Xi'an Grand Prix | Round 4 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Xi'an Grand Prix | Round 4 (13:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
