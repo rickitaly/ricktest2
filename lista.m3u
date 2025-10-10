@@ -766,11 +766,50 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2989824407/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
+#EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="462" tvg-name="Friendly : England vs Wales (20:45)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/England_vs_Wales.png" group-title="Eventi Live",Friendly : England vs Wales (20:45)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=rick
+#EXTINF:-1 tvg-id="870" tvg-name="World Cup Qualifying : Kazakhstan vs Liechtenstein (16:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Kazakhstan_vs_Liechtenstein.png" group-title="Eventi Live",World Cup Qualifying : Kazakhstan vs Liechtenstein (16:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-id="851" tvg-name="Europe - Euro U-21 Qualifying : Italy U21 vs Sweden U21 (18:15)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Italy U21_vs_Sweden U21.png" group-title="Eventi Live",Europe - Euro U-21 Qualifying : Italy U21 vs Sweden U21 (18:15)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-id="105" tvg-name="Italy - Serie C : Arezzo vs Gubbio (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/33/3/ss-arezzo-1923-logo-png_seeklogo-338364.png" group-title="Eventi Live",Italy - Serie C : Arezzo vs Gubbio (20:30)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-105.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-id="106" tvg-name="Italy - Serie C : Bra vs Athletic Carpi (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Bra_vs_Athletic Carpi.png" group-title="Eventi Live",Italy - Serie C : Bra vs Athletic Carpi (20:30)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-106.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-id="461" tvg-name="World Cup Qualifying : Germany vs Luxembourg (20:45)" tvg-logo="https://png.pngtree.com/png-clipart/20220823/original/pngtree-germany-national-flag-with-transparent-png-image_8466255.png" group-title="Eventi Live",World Cup Qualifying : Germany vs Luxembourg (20:45)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
+https://example.m3u8
+
+#EXTINF:-1 tvg-id="576" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)" tvg-logo="https://tv-sports.fr/photos/sport/competitions/680.png" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
+https://example.m3u8
+
+#EXTINF:-1 tvg-id="878" tvg-name="Xi'an Grand Prix | Round 4 (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Xi'an Grand Prix | Round 4 (08:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-id="878" tvg-name="Xi'an Grand Prix | Round 4 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Xi'an Grand Prix | Round 4 (13:30)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
+https://example.m3u8
+
+#EXTINF:-1 tvg-id="878" tvg-name="UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
+
+#EXTINF:-1 tvg-name="Squash" group-title="Eventi Live",--- Squash ---
+https://example.m3u8
+
+#EXTINF:-1 tvg-id="460" tvg-name="Premier Padel. Milan (T2025): Women's Quarterfinal 1 (09:00)" tvg-logo="https://wearetomorrow.hu/wp-content/uploads/2023/06/premierpadel.png" group-title="Eventi Live",Premier Padel. Milan (T2025): Women's Quarterfinal 1 (09:00)
+https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-460.php&redirect_stream=true&api_password=rick
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
