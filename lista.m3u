@@ -802,7 +802,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="882" tvg-name="Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Fiorentina_vs_Inter Milano.png" group-title="Eventi Live",Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="4" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.cioccolandovi.it/wp-content/uploads/2019/09/LOGO-COMUNE-DI-VICENZA-PNG.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
+#EXTINF:-1 tvg-id="4" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.lrvicenza.net/wp-content/uploads/2022/07/Logo-LR-Vicenza-fondo.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="460" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.cioccolandovi.it/wp-content/uploads/2019/09/LOGO-COMUNE-DI-VICENZA-PNG.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
@@ -841,12 +841,6 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="576" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis (10:30)" tvg-logo="https://www.poul-munk.dk/wp-content/uploads/Voyah-logo-blaa-png-01.11.2023-300x285.png" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis (10:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-name="UFC Fight Night - Oliveira vs Gamrot" group-title="Eventi Live",--- UFC Fight Night - Oliveira vs Gamrot ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="878" tvg-name="UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)" tvg-logo="https://www.shirtchic.com/media/catalog/product/C/P/CP-BPK-SP-UFC-Oliveira-LogoStickerArt_Layout.png" group-title="Eventi Live",UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
 https://example.m3u8
 
@@ -859,7 +853,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/377bb3e8-ff8c-4984-8530-64b9afb9d321/devmspb-95f95135-ee93-4f98-aa91-17cd5bbacdf8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM3N2JiM2U4LWZmOGMtNDk4NC04NTMwLTY0YjlhZmI5ZDMyMVwvZGV2bXNwYi05NWY5NTEzNS1lZTkzLTRmOTgtYWE5MS0xN2NkNWJiYWNkZjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3apVHsRFvaQ0TvcNw1RWH4Wg41HdCGvk5m0SX8wRMws" group-title="Eventi Live",Golden Trail Ledro Sky Trentino | Day 1 (12:00)
+#EXTINF:-1 tvg-id="878" tvg-name="Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://goldentrailseries.com/wp-content/uploads/2025/06/GG-20250623_LEDROSKY_LOGO_nero_RGB.png" group-title="Eventi Live",Golden Trail Ledro Sky Trentino | Day 1 (12:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
@@ -868,7 +862,7 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="851" tvg-name="Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)" tvg-logo="https://teamtotalenergies.com/wp-content/uploads/2022/09/il-lombardia-6022.png" group-title="Eventi Live",Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="879" tvg-name="Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)" tvg-logo="https://teamtotalenergies.com/wp-content/uploads/2022/09/il-lombardia-6022.png" group-title="Eventi Live",Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)
+#EXTINF:-1 tvg-id="879" tvg-name="Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)" tvg-logo="https://www.wanderingitaly.com/maps/images/lombardia-map-900.png" group-title="Eventi Live",Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="851" tvg-name="Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/igahc11535183469.png/preview" group-title="Eventi Live",Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)
