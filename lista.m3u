@@ -121,10 +121,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/830949486/index.m3u8
@@ -400,10 +400,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/996680722/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2749478718/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8 (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3107500995/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro", CARINA TV
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1527236924/index.m3u8
@@ -802,7 +802,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="882" tvg-name="Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Fiorentina_vs_Inter Milano.png" group-title="Eventi Live",Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="4" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.padovacalcio.it/wp-content/uploads/2022/08/vicenza.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
+#EXTINF:-1 tvg-id="4" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.cioccolandovi.it/wp-content/uploads/2019/09/LOGO-COMUNE-DI-VICENZA-PNG.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="460" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.cioccolandovi.it/wp-content/uploads/2019/09/LOGO-COMUNE-DI-VICENZA-PNG.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
@@ -853,7 +853,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://goldentrailseries.com/wp-content/uploads/2025/06/GG-20250623_LEDROSKY_LOGO_nero_RGB.png" group-title="Eventi Live",Golden Trail Ledro Sky Trentino | Day 1 (12:00)
+#EXTINF:-1 tvg-id="878" tvg-name="Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://www.seekpng.com/png/full/791-7912023_funnel-structure-bulls-eye.png" group-title="Eventi Live",Golden Trail Ledro Sky Trentino | Day 1 (12:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
@@ -865,7 +865,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="879" tvg-name="Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)" tvg-logo="https://teamtotalenergies.com/wp-content/uploads/2022/09/il-lombardia-6022.png" group-title="Eventi Live",Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="851" tvg-name="Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/igahc11535183469.png/preview" group-title="Eventi Live",Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)
+#EXTINF:-1 tvg-id="851" tvg-name="Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/igahc11535183469.png" group-title="Eventi Live",Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="878" tvg-name="Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/igahc11535183469.png/preview" group-title="Eventi Live",Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)
