@@ -172,10 +172,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1144128726/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2242741766/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV", SKY CINEMA COLLECTION
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3525837057/index.m3u8
@@ -766,10 +766,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2989824407/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
+#EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A (women) : Lazio vs Genoa (12:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/Original/1009565.png?v4" group-title="Eventi Live",Italy - Serie A (women) : Lazio vs Genoa (12:30)
+#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A (women) : Lazio vs Genoa (12:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Lazio_vs_Genoa.png" group-title="Eventi Live",Italy - Serie A (women) : Lazio vs Genoa (12:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="170" tvg-name="Italy - Serie C : Giana Erminio vs Novara (14:30)" tvg-logo="https://images.seeklogo.com/logo-png/26/3/asd-giana-erminio-logo-png_seeklogo-267759.png?v=1962749047104062896" group-title="Eventi Live",Italy - Serie C : Giana Erminio vs Novara (14:30)
@@ -841,10 +841,10 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="576" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis (10:30)" tvg-logo="https://www.poul-munk.dk/wp-content/uploads/Voyah-logo-blaa-png-01.11.2023-300x285.png" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis (10:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-name="MMA" group-title="Eventi Live",--- MMA ---
+#EXTINF:-1 tvg-name="UFC Fight Night - Oliveira vs Gamrot" group-title="Eventi Live",--- UFC Fight Night - Oliveira vs Gamrot ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)" tvg-logo="https://static.topps.com/media/catalog/product/cache/85d1d431b9dc807689df3bf5f08e33f8/a/r/artuf-16c2s-24tn-0032_3.png" group-title="Eventi Live",UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)
+#EXTINF:-1 tvg-id="878" tvg-name="UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)" tvg-logo="https://www.shirtchic.com/media/catalog/product/C/P/CP-BPK-SP-UFC-Oliveira-LogoStickerArt_Layout.png" group-title="Eventi Live",UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
@@ -859,7 +859,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://goldentrailseries.com/wp-content/uploads/2025/06/GG-20250623_LEDROSKY_LOGO_nero_RGB.png" group-title="Eventi Live",Golden Trail Ledro Sky Trentino | Day 1 (12:00)
+#EXTINF:-1 tvg-id="878" tvg-name="Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/377bb3e8-ff8c-4984-8530-64b9afb9d321/devmspb-95f95135-ee93-4f98-aa91-17cd5bbacdf8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM3N2JiM2U4LWZmOGMtNDk4NC04NTMwLTY0YjlhZmI5ZDMyMVwvZGV2bXNwYi05NWY5NTEzNS1lZTkzLTRmOTgtYWE5MS0xN2NkNWJiYWNkZjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3apVHsRFvaQ0TvcNw1RWH4Wg41HdCGvk5m0SX8wRMws" group-title="Eventi Live",Golden Trail Ledro Sky Trentino | Day 1 (12:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
@@ -886,7 +886,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="Italy Serie A1 Women : Pallavolo Scandicci vs. Perugia Volley (20:30)" tvg-logo="https://www.fipavcrer.eu/Resources/FIPAV-CRER/Loghi-Piede/logo-azzurro.png" group-title="Eventi Live",Italy Serie A1 Women : Pallavolo Scandicci vs. Perugia Volley (20:30)
+#EXTINF:-1 tvg-id="882" tvg-name="Italy Serie A1 Women : Pallavolo Scandicci vs. Perugia Volley (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Pallavolo Scandicci_vs_Perugia Volley.png" group-title="Eventi Live",Italy Serie A1 Women : Pallavolo Scandicci vs. Perugia Volley (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
 
