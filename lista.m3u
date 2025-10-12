@@ -121,10 +121,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3165086929/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/830949486/index.m3u8
@@ -172,10 +172,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2242741766/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1144128726/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV", SKY CINEMA COLLECTION
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3525837057/index.m3u8
@@ -769,28 +769,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="Italy - Serie C : AlbinoLeffe vs Lecco (17:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/AlbinoLeffe_vs_Lecco.png" group-title="Eventi Live",Italy - Serie C : AlbinoLeffe vs Lecco (17:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="109" tvg-name="Italy - Serie C : Ospitaletto vs Union ArzignanoChiampo (17:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/200/675840.png?v9" group-title="Eventi Live",Italy - Serie C : Ospitaletto vs Union ArzignanoChiampo (17:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-109.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="7" tvg-name="Italy - Serie C : Ascoli vs Pontedera (17:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Ascoli_vs_Pontedera.png" group-title="Eventi Live",Italy - Serie C : Ascoli vs Pontedera (17:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-7.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="2" tvg-name="Italy - Serie C : Benevento vs Team Altamura (17:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Benevento_vs_Team Altamura.png" group-title="Eventi Live",Italy - Serie C : Benevento vs Team Altamura (17:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="461" tvg-name="World Cup Qualifying : Netherlands vs Finland (18:00)" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-football-fan-logo-with-netherlands-flag-inside-png-image_7599790.png" group-title="Eventi Live",World Cup Qualifying : Netherlands vs Finland (18:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-id="59" tvg-name="Italy - Serie A (women) : Parma vs Sassuolo (18:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Parma_vs_Sassuolo.png" group-title="Eventi Live",Italy - Serie A (women) : Parma vs Sassuolo (18:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="7" tvg-name="Italy - Serie C : Sambenedettese vs Ravenna (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Sambenedettese_vs_Ravenna.png" group-title="Eventi Live",Italy - Serie C : Sambenedettese vs Ravenna (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-7.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="2" tvg-name="Italy - Serie C : Pro Patria vs Union Brescia (20:30)" tvg-logo="https://propatriascherma.it/wp-content/uploads/2023/12/ProPatriaBustoArsizio_LOGO.png" group-title="Eventi Live",Italy - Serie C : Pro Patria vs Union Brescia (20:30)
+#EXTINF:-1 tvg-id="2" tvg-name="Italy - Serie C : Pro Patria vs Union Brescia (20:30)" tvg-logo="http://assets.stickpng.com/thumbs/584aaec530d6736bca3d6ddc.png" group-title="Eventi Live",Italy - Serie C : Pro Patria vs Union Brescia (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="460" tvg-name="Italy - Serie C : Pro Patria vs Union Brescia (20:30)" tvg-logo="http://assets.stickpng.com/thumbs/584aaec530d6736bca3d6ddc.png" group-title="Eventi Live",Italy - Serie C : Pro Patria vs Union Brescia (20:30)
@@ -808,14 +790,8 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="UCI Cross-country Olympic World Cup | Men Elite | Mont-Sainte-Anne (21:15)" tvg-logo="https://mbaction.com/wp-content/uploads/2025/10/W1-768x1097.png" group-title="Eventi Live",UCI Cross-country Olympic World Cup | Men Elite | Mont-Sainte-Anne (21:15)
+#EXTINF:-1 tvg-id="878" tvg-name="UCI Cross-country Olympic World Cup | Men Elite | Mont-Sainte-Anne (21:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",UCI Cross-country Olympic World Cup | Men Elite | Mont-Sainte-Anne (21:15)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-name="Horse Racing" group-title="Eventi Live",--- Horse Racing ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="882" tvg-name="Capannelle Trotting Derby Rome 2025 (17:30)" tvg-logo="https://saintfrancesofrome.org/wp-content/uploads/2024/05/SFR-non-derby-logo-2024-1024x1024.png" group-title="Eventi Live",Capannelle Trotting Derby Rome 2025 (17:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
 https://example.m3u8
