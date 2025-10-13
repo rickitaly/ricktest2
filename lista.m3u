@@ -394,10 +394,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2454558136/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro", CANALE 7
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/565256431/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/996680722/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro", CANALE 7 (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/996680722/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/565256431/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2749478718/index.m3u8
@@ -772,7 +772,7 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/54/3/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live",Italy - Serie C : Trento vs Pro Vercelli (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="460" tvg-name="Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/54/2/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live",Italy - Serie C : Trento vs Pro Vercelli (20:30)
+#EXTINF:-1 tvg-id="460" tvg-name="Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/54/3/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live",Italy - Serie C : Trento vs Pro Vercelli (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-460.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="3" tvg-name="Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Dolomiti Bellunesi_vs_Lumezzane.png" group-title="Eventi Live",Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
@@ -783,18 +783,6 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 
 #EXTINF:-1 tvg-id="462" tvg-name="Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Dolomiti Bellunesi_vs_Lumezzane.png" group-title="Eventi Live",Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="576" tvg-name="Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="878" tvg-name="Xi'An Grand Prix | Final | Evening Session (14:00)" tvg-logo="https://calendar.wincalendar.net/img/holiday/afl-grand-final-day.png" group-title="Eventi Live",Xi'An Grand Prix | Final | Evening Session (14:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
