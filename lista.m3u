@@ -172,10 +172,10 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1144128726/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
-https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/2242741766/index.m3u8
+https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV", SKY CINEMA COLLECTION
 https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d=https://vavoo.to/play/3525837057/index.m3u8
@@ -784,7 +784,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Cycling: Tour of Holland prolog (19:00)" tvg-logo="https://freevector-images.s3.amazonaws.com/uploads/vector/preview/31159/cyclist_high.png" group-title="Eventi Live",Cycling: Tour of Holland prolog (19:00)
+#EXTINF:-1 tvg-id="878" tvg-name="Cycling: Tour of Holland prolog (19:00)" tvg-logo="https://www.torogrind.com/citadelcycling/images/citadellogo.png" group-title="Eventi Live",Cycling: Tour of Holland prolog (19:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 
