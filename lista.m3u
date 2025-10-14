@@ -769,7 +769,7 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="870" tvg-name="World Cup Qualifying : Estonia vs Moldova (18:00)" tvg-logo="https://wikitravel.org/upload/shared/thumb/4/4c/Estonia_regions_map.png/563px-Estonia_regions_map.png" group-title="Eventi Live",World Cup Qualifying : Estonia vs Moldova (18:00)
+#EXTINF:-1 tvg-id="870" tvg-name="World Cup Qualifying : Estonia vs Moldova (18:00)" tvg-logo="https://www.worldatlas.com/upload/4a/46/b4/counties-of-estonia-map.png" group-title="Eventi Live",World Cup Qualifying : Estonia vs Moldova (18:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="851" tvg-name="Europe - Euro U-21 Qualifying : Italy U21 vs Armenia U21 (18:15)" tvg-logo="https://www.myglobalviewpoint.com/wp-content/uploads/2023/06/venice.png" group-title="Eventi Live",Europe - Euro U-21 Qualifying : Italy U21 vs Armenia U21 (18:15)
@@ -784,13 +784,13 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="576" tvg-name="Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)
+#EXTINF:-1 tvg-id="576" tvg-name="Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)" tvg-logo="https://www.tripsavvy.com/thmb/wFRW9YEV_h8lnJYZxp8pdEKxI3Q=/2117x1416/filters:no_upscale():max_bytes(150000):strip_icc()/Brussels-1GrandPlace-GettyIJorg-Greuel-58a4c6dc5f9b58a3c943d3c5.jpg" group-title="Eventi Live",Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Cycling: Tour of Holland prolog (19:00)" tvg-logo="https://www.torogrind.com/citadelcycling/images/citadellogo.png" group-title="Eventi Live",Cycling: Tour of Holland prolog (19:00)
+#EXTINF:-1 tvg-id="878" tvg-name="Cycling: Tour of Holland prolog (19:00)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/787/599/small_2x/cycling-crash-helmet-with-cross-png.png" group-title="Eventi Live",Cycling: Tour of Holland prolog (19:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 
