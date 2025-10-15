@@ -769,14 +769,8 @@ https://rickkkhf-ricktestp2.hf.space/proxy/hls/manifest.m3u8?api_password=rick&d
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="FIFA U20 WC : Morocco U20 vs France U20 (22:00)" tvg-logo="https://cdn.footystats.org/img/teams/morocco-morocco-under-20.png" group-title="Eventi Live",FIFA U20 WC : Morocco U20 vs France U20 (22:00)
+#EXTINF:-1 tvg-id="882" tvg-name="FIFA U20 WC : Morocco U20 vs France U20 (22:00)" tvg-logo="https://images.seeklogo.com/logo-png/50/2/morocco-logo-png_seeklogo-500402.png" group-title="Eventi Live",FIFA U20 WC : Morocco U20 vs France U20 (22:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="576" tvg-name="Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/Womens-Tennis-Association-WTA-Logo-2025.png" group-title="Eventi Live",Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
 https://example.m3u8
