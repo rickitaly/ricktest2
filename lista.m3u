@@ -772,12 +772,6 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="882" tvg-name="FIFA U20 WC : Morocco U20 vs France U20 (22:00)" tvg-logo="https://cdn.footystats.org/img/teams/morocco-morocco-under-20.png" group-title="Eventi Live",FIFA U20 WC : Morocco U20 vs France U20 (22:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="882" tvg-name="Serie A1 Women : Agil Volley Novara vs. Fenera Chieri (19:15)" tvg-logo="https://volleybox.net/media/upload/teams/big_1677649383m1Dhh.png" group-title="Eventi Live",Serie A1 Women : Agil Volley Novara vs. Fenera Chieri (19:15)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-name="Water polo" group-title="Eventi Live",--- Water polo ---
 https://example.m3u8
 
