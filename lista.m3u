@@ -784,7 +784,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="154" tvg-name="Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/51/2/alcione-logo-png_seeklogo-519421.png" group-title="Eventi Live",Italy - Serie C : Alcione vs Inter II (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-154.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="870" tvg-name="Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/55/2/alcione-milano-societa-sportiva-logo-png_seeklogo-554892.png" group-title="Eventi Live",Italy - Serie C : Alcione vs Inter II (20:30)
+#EXTINF:-1 tvg-id="870" tvg-name="Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/51/2/alcione-logo-png_seeklogo-519421.png" group-title="Eventi Live",Italy - Serie C : Alcione vs Inter II (20:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="108" tvg-name="Bundesliga : Union Berlin vs Borussia M'gladbach (20:30)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Union Berlin_vs_Borussia M'gladbach.png" group-title="Eventi Live",Bundesliga : Union Berlin vs Borussia M'gladbach (20:30)
@@ -796,7 +796,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="576" tvg-name="Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/62669d1e2c88722059d58717.png" group-title="Eventi Live",Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
+#EXTINF:-1 tvg-id="576" tvg-name="Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
@@ -814,9 +814,6 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Australian Grand Prix, Free Practice 2 (23:35)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Moto3 : Australian Grand Prix, Free Practice 2 (23:35)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Australian Grand Prix, Qualifying (04:40)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live",Moto2 : Australian Grand Prix, Qualifying (04:40)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
@@ -832,7 +829,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="879" tvg-name="Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Grand Prix France | Women's Individual Short Program (18:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="879" tvg-name="Figure Skating: French Grand Prix Pairs Short Program (20:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230811/original/pngtree-vector-illustration-of-a-speed-ice-skating-logo-featuring-text-space-for-your-slogan-or-tagline-vector-picture-image_10300771.png" group-title="Eventi Live",Figure Skating: French Grand Prix Pairs Short Program (20:00)
+#EXTINF:-1 tvg-id="879" tvg-name="Figure Skating: French Grand Prix Pairs Short Program (20:00)" tvg-logo="https://png.pngtree.com/png-vector/20220605/ourmid/pngtree-vector-illustration-of-a-speed-ice-skating-logo-featuring-text-space-for-your-slogan-or-tagline-vector-png-image_30999386.png" group-title="Eventi Live",Figure Skating: French Grand Prix Pairs Short Program (20:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=rick
 
 
