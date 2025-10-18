@@ -817,7 +817,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="108" tvg-name="Italy - Serie B : Pescara vs Carrarese (15:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Pescara_vs_Carrarese.png" group-title="Eventi Live",Italy - Serie B : Pescara vs Carrarese (15:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-108.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : Brighton & Hove Albion vs Newcastle United (16:00)" tvg-logo="https://images.seeklogo.com/logo-png/24/2/brighton-hove-albion-f-c-logo-png_seeklogo-246401.png" group-title="Eventi Live",England - Premier League : Brighton & Hove Albion vs Newcastle United (16:00)
+#EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : Brighton & Hove Albion vs Newcastle United (16:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Brighton & Hove Albion_vs_Newcastle United.png" group-title="Eventi Live",England - Premier League : Brighton & Hove Albion vs Newcastle United (16:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="160" tvg-name="Italy - Serie B : Juve Stabia vs Avellino (17:15)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Juve Stabia_vs_Avellino.png" group-title="Eventi Live",Italy - Serie B : Juve Stabia vs Avellino (17:15)
@@ -874,28 +874,19 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : MSC Cruises United States GP - Qualifying (23:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : MSC Cruises United States GP - Qualifying (23:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-577.php&redirect_stream=true&api_password=rick
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Australian Grand Prix, Race (01:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Moto3 : Australian Grand Prix, Race (01:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
-
 #EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Australian Grand Prix, Race (03:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhndLqL8qCi6tkIi6wIKg9xnej611GJbFI3C7OG5d32IN5jHOSl5_TXhbi9J-IQDawFMUzSEg3VWjqto2MFOjV3Cf2bLZ_tle7LF7TmWiaCibf1wTy00Ay4G1xhqTllXSPXj1ij48XSDqsVg5yZ3EkS3ACIj4AJwJkYSnO11f_FGSlvSF7bXcyvS7VoNtA/s600/Moto2_logo.png" group-title="Eventi Live",Moto2 : Australian Grand Prix, Race (03:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=rick
-
-#EXTINF:-1 tvg-name="UFC Fight Night" group-title="Eventi Live",--- UFC Fight Night ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="878" tvg-name="UFC Fight Night Main Card : Reinier de Ridder vs Brendan Allen (01:00)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Reinier de Ridder_vs_Brendan Allen.png" group-title="Eventi Live",UFC Fight Night Main Card : Reinier de Ridder vs Brendan Allen (01:00)
-https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230805/original/pngtree-amsterdam-the-capital-of-holland-sign-tour-pictogram-vector-picture-image_9725402.png" group-title="Eventi Live",Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)
+#EXTINF:-1 tvg-id="878" tvg-name="Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)" tvg-logo="https://image.noelshack.com/fichiers/2023/46/6/1700341888-carte-tdf-avec-trace.png" group-title="Eventi Live",Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="462" tvg-name="United Rugby Championship : Zebre vs Stormers (20:45)" tvg-logo="https://cdn-new.topcv.vn/unsafe/https://static.topcv.vn/company_logos/g7g6b15bjyHL8tnVZA2yp5lDTQFUPmkU_1743671502____754eb11e39e35e1661b0ed219b51f9fe.png" group-title="Eventi Live",United Rugby Championship : Zebre vs Stormers (20:45)
+#EXTINF:-1 tvg-id="462" tvg-name="United Rugby Championship : Zebre vs Stormers (20:45)" tvg-logo="https://raw.githubusercontent.com/rickitaly/ricktest2/main/logos/Zebre_vs_Stormers.png" group-title="Eventi Live",United Rugby Championship : Zebre vs Stormers (20:45)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-id="882" tvg-name="Serie A Elite : Mogliano vs Rovigo (15:30)" tvg-logo="https://hellomoglianoveneto.net/wp-content/uploads/2023/03/Logo-hello-mogliano.png" group-title="Eventi Live",Serie A Elite : Mogliano vs Rovigo (15:30)
@@ -910,7 +901,7 @@ https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddyli
 #EXTINF:-1 tvg-name="Ski Jumping" group-title="Eventi Live",--- Ski Jumping ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Ski Jumping: Summer Grand Prix in Hinzenbach (14:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240129/original/pngtree-iconbuttonpictogram-ski-jumping-icon-ski-photo-png-image_14184331.png" group-title="Eventi Live",Ski Jumping: Summer Grand Prix in Hinzenbach (14:00)
+#EXTINF:-1 tvg-id="878" tvg-name="Ski Jumping: Summer Grand Prix in Hinzenbach (14:00)" tvg-logo="http://freevector.co/wp-content/uploads/2009/01/9157-ski-jumping1.png" group-title="Eventi Live",Ski Jumping: Summer Grand Prix in Hinzenbach (14:00)
 https://rickkkhf-ricktestp2.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=rick
 
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
